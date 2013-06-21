@@ -1,0 +1,13 @@
+Form.html instructions
+The form.html is (as far as I know) a fully formed form page that could actually return values for the form and be effectively parsed. 
+The problem is, it's really ugly.
+
+Your goal is to figure out how to make it pretty (or at least not so stark and ugly) using CSS. 
+
+You may change the HTML. You will certainly have to add a <head> and a <body> tag but you can also add <span></span>, <div></div> and class= elements to the page. If you want you can change the form from being a list (<li>) to some other kind of block control but you are explicitely discouraged from using a table (real CSS developers don't use tables for format control).
+
+There is not particular deadline but the sooner you do this the less work it will be for me (because I'm going to have to go back and rewrite the code to generate all the stuff you put in) so the more I will like it. 
+
+I should mention that this is a form from  a complete different app but it's not unlike the stuff I'm about to write.
+
+Dave

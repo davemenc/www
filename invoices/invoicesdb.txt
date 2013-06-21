@@ -1,0 +1,56 @@
+
+create database if not exists invoicedata;
+use invoicedata;
+
+drop table if exists invoicelines;
+
+create table invoicelines (
+id int not null auto_increment primary key,
+hours float,
+workerid int,
+invoiceid int,
+ts timestamp 
+);
+
+drop table if exists invoices;
+create table  invoices (
+id int not null auto_increment primary key,
+invoiceno tinytext,
+companyid int,
+startdate date,
+enddate date,
+ts timestamp 
+);
+
+
+drop table if exists workers;
+create table  workers (
+id int not null auto_increment primary key,
+name tinytext,
+companyid int,
+manager tinytext,
+email tinytext,
+active boolean default true,
+ts timestamp 
+);
+
+
+
+drop table if exists companies;
+create table   companies (
+id int not null auto_increment primary key,
+name tinytext,
+principal tinytext,
+email tinytext,
+active boolean default true,
+ts timestamp 
+);
+
+
+
+ select id,name, principal, email from companies where active=1 order by name;
+select workers.name,companies.name from workers,companies where workers.companyid=companies.id order by workers.name;
+
+select invoiceno,companies.name, startdate,enddate from invoices, companies where invoices.companyid=companies.id order by invoiceno;
+select workers.name,companies.name,hours, startdate, enddate from invoicelines,companies,invoices, workers where invoicelines.invoiceid=invoices.id and invoices.companyid=companies.id and workers.id=workerid;
+

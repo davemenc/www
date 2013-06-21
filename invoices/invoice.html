@@ -1,0 +1,147 @@
+
+WORKERS
+Array
+(
+    [0] => Array
+        (
+            [name] => workers
+            [fields] => Array
+                (
+                    [id] => Array
+                        (
+                            [title] => IdNo
+                            [edit] => 0
+                        )
+
+                    [name] => Array
+                        (
+                            [title] => Name
+                            [edit] => 1
+                            [required] => 1
+                            [validation] => /[a-zA-Z,'- ]+/
+                            [type] => text
+                        )
+
+                    [companyid] => Array
+                        (
+                            [foreignkey] => 1
+                            [title] => Company
+                            [edit] => 1
+                            [type] => pulldown
+                            [foreigntableno] => 1
+                            [foreignfield] => companies.name
+                            [required] => 1
+                        )
+
+                    [manager] => Array
+                        (
+                            [title] => Manager
+                            [edit] => 1
+                            [required] => 0
+                            [validation] => /[a-zA-Z,'- ]+/
+                        )
+
+                    [email] => Array
+                        (
+                            [title] => Email
+                            [edit] => 1
+                            [validation] => /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.(?:[a-zA-Z]{2.4}|museum)$/
+                            [type] => text
+                        )
+
+                    [active] => Array
+                        (
+                            [title] => Active
+                            [edit] => 1
+                            [validation] => /[10]/
+                            [required] => 1
+                            [type] => text
+                        )
+
+                    [timestamp] => Array
+                        (
+                            [title] => IdNo
+                            [edit] => 0
+                        )
+
+                )
+
+            [index] => id
+            [filter] => active=active
+            [sort] => order by name asc
+        )
+
+    [1] => Array
+        (
+            [name] => companies
+            [join] => workers.companyid=companies.id
+            [fields] => Array
+                (
+                    [name] => Array
+                        (
+                            [title] => Name
+                            [edit] => 1
+                            [required] => 1
+                            [validation] => /[a-zA-Z,'- ]+/
+                            [type] => text
+                        )
+
+                )
+
+        )
+
+)
+
+COMPANIES
+Array
+(
+    [0] => Array
+        (
+            [name] => companies
+            [fields] => Array
+                (
+                    [id] => Array
+                        (
+                            [title] => IdNo
+                            [edit] => 0
+                        )
+
+                    [name] => Array
+                        (
+                            [title] => Name
+                            [edit] => 1
+                            [required] => 1
+                            [validation] => /[a-zA-Z,'- ]+/
+                            [type] => text
+                        )
+
+                )
+
+            [principal] => Array
+                (
+                    [title] => Principal
+                    [edit] => 1
+                    [required] => 0
+                    [validation] => /[a-zA-Z,'- ]+/
+                )
+
+            [email] => Array
+                (
+                    [title] => Email
+                    [edit] => 1
+                    [validation] => /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.(?:[a-zA-Z]{2.4}|museum)$/
+                    [type] => text
+                )
+
+            [timestamp] => Array
+                (
+                    [title] => IdNo
+                    [edit] => 0
+                )
+
+        )
+
+)
+WORKERS: select workers.id,workers.name,workers.companyid,workers.manager,workers.email,workers.active,workers.timestamp,companies.name from workers,companies where workers.companyid=companies.id and active=active order by name asc
+COMPANIES: select companies.id,companies.name from companies 
+WORKERS HEADER: <th>IdNo</th><th>Name</th><th>Company</th><th>Manager</th><th>Email</th><th>Active</th><th>IdNo</th><th>Name</th>COMPANIES HEADER: <th>IdNo</th><th>Name</th>

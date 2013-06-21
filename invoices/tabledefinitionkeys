@@ -1,0 +1,21 @@
+************************ FIELDS *******************
+
+edit
+foreignfield
+foreignfilter
+foreignkey
+foreigntableno
+required
+size
+title
+type
+validation
+
+
+******************** Main ********************
+0
+filter
+index
+join
+name
+sort

@@ -1,0 +1,15 @@
+The array that defines a table is kind of complicated.
+It is actually an array of tables. There must be at least one and it must have
+TableName (the name of the table)
+FieldList (a list of fields that we want to show in our view)
+Index (the primary index of the table)
+Filters (a list of filters to apply to the fields of the table; e.g. "active=1")
+Sort (a list of fields that we want to sort it by e.g. "name desc, date asc") [only on the primary table]
+Join (a string that causes this table to be joined to the primary table eg "table1.table2no=table2.id" [note, only on tables OTHER THan the primary table}
+
+The concept is that you can create a descriptor array and pass it to a routine and it will do a join, filter, sort that creates a view which it will then put in a table. 
+
+We HOPE that the same information can be used to deduce how to edit this view. 
+
+I think to do THAT we need to change the join information to be a list of field pairs: the primary tables field1 is the id to index of table2 which yearles table2.field. So we need to say what field in the primary table matches the index of the 2ndary table AND what field(s) in the 2ndary table we get out of that.
+
