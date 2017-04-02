@@ -1,0 +1,1412 @@
+
+===2016-11-24 19:28 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 19:32 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 19:33 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 19:33 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 19:33 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 19:40 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 19:40 ===
+*set mode: main
+===2016-11-24 19:40 ===
+*set passphrase:
+===2016-11-24 19:40 ===
+*check for existing cookie:
+---2016-11-24 19:40 ---
+*cookie:
+Array ()
+===2016-11-24 19:40 ===
+*display index.html.txt:
+===2016-11-24 19:41 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 19:41 ===
+*set mode: passphrase
+===2016-11-24 19:41 ===
+*set passphrase: LOVEJASON
+===2016-11-24 19:41 ===
+*passphrase: LOVEJASON
+===2016-11-24 19:41 ===
+*create cookie: guest
+===2016-11-24 19:41 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 19:41 ===
+*set mode: main
+===2016-11-24 19:41 ===
+*set passphrase:
+===2016-11-24 19:41 ===
+*check for existing cookie:
+---2016-11-24 19:41 ---
+*cookie:
+Array ([name]=>guest[time]=>1480016498[hash]=>8e1f6d3b410b5b8cbc9ffef327541331[expire]=>0)
+===2016-11-24 19:41 ===
+*Cookie auth succeeded:
+---2016-11-24 19:41 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480016498[hash]=>8e1f6d3b410b5b8cbc9ffef327541331[expire]=>0)
+===2016-11-24 19:42 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 19:42 ===
+*set mode: main
+===2016-11-24 19:42 ===
+*set passphrase: 
+===2016-11-24 19:42 ===
+*check for existing cookie:
+---2016-11-24 19:42 ---
+*cookie:
+Array ([name]=>guest[time]=>1480016498[hash]=>8e1f6d3b410b5b8cbc9ffef327541331[expire]=>0)
+===2016-11-24 19:42 ===
+*Cookie auth succeeded:
+---2016-11-24 19:42 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480016498[hash]=>8e1f6d3b410b5b8cbc9ffef327541331[expire]=>0)
+===2016-11-24 19:47 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 19:47 ===
+*set mode: schedule
+===2016-11-24 19:47 ===
+*set passphrase: 
+===2016-11-24 19:47 ===
+*check for existing cookie:
+---2016-11-24 19:47 ---
+*cookie:
+Array ([name]=>guest[time]=>1480016561[hash]=>c2b2a292e2ce65cb9cf6dcdac1753dcc[expire]=>0)
+===2016-11-24 19:47 ===
+*Cookie auth succeeded:
+---2016-11-24 19:47 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480016561[hash]=>c2b2a292e2ce65cb9cf6dcdac1753dcc[expire]=>0)
+===2016-11-24 21:06 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:06 ===
+*set mode: main
+===2016-11-24 21:06 ===
+*set passphrase: 
+===2016-11-24 21:06 ===
+*check for existing cookie:
+---2016-11-24 21:06 ---
+*cookie:
+Array ([name]=>guest[time]=>1480016825[hash]=>71884103e89d7cf3e6759e0bcc223fc6[expire]=>0)
+===2016-11-24 21:06 ===
+*Cookie auth succeeded:
+---2016-11-24 21:06 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480016825[hash]=>71884103e89d7cf3e6759e0bcc223fc6[expire]=>0)
+===2016-11-24 21:06 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:06 ===
+*set mode: schedule
+===2016-11-24 21:06 ===
+*set passphrase: 
+===2016-11-24 21:06 ===
+*check for existing cookie:
+---2016-11-24 21:06 ---
+*cookie:
+Array ([name]=>guest[time]=>1480021579[hash]=>706e5e3046d8861d14459c6fb8c02dbb[expire]=>0)
+===2016-11-24 21:06 ===
+*Cookie auth succeeded:
+---2016-11-24 21:06 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480021579[hash]=>706e5e3046d8861d14459c6fb8c02dbb[expire]=>0)
+===2016-11-24 21:06 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:06 ===
+*set mode: maps
+===2016-11-24 21:06 ===
+*set passphrase: 
+===2016-11-24 21:06 ===
+*check for existing cookie:
+---2016-11-24 21:06 ---
+*cookie:
+Array ([name]=>guest[time]=>1480021583[hash]=>5a40396adb7510bd629ee0f913639ad3[expire]=>0)
+===2016-11-24 21:06 ===
+*Cookie auth succeeded:
+---2016-11-24 21:06 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480021583[hash]=>5a40396adb7510bd629ee0f913639ad3[expire]=>0)
+===2016-11-24 21:06 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:06 ===
+*set mode: main
+===2016-11-24 21:06 ===
+*set passphrase: 
+===2016-11-24 21:06 ===
+*check for existing cookie:
+---2016-11-24 21:06 ---
+*cookie:
+Array ([name]=>guest[time]=>1480021585[hash]=>989f5118896bac5c063903ce6d7034b1[expire]=>0)
+===2016-11-24 21:06 ===
+*Cookie auth succeeded:
+---2016-11-24 21:06 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480021585[hash]=>989f5118896bac5c063903ce6d7034b1[expire]=>0)
+===2016-11-24 21:08 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:08 ===
+*set mode: main
+===2016-11-24 21:08 ===
+*set passphrase: 
+===2016-11-24 21:08 ===
+*check for existing cookie:
+---2016-11-24 21:08 ---
+*cookie:
+Array ([name]=>guest[time]=>1480021586[hash]=>5a815ef64b5c089414b6b85ba89f887e[expire]=>0)
+===2016-11-24 21:08 ===
+*Cookie auth succeeded:
+---2016-11-24 21:08 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480021586[hash]=>5a815ef64b5c089414b6b85ba89f887e[expire]=>0)
+===2016-11-24 21:10 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:10 ===
+*set mode: main
+===2016-11-24 21:10 ===
+*set passphrase: 
+===2016-11-24 21:10 ===
+*check for existing cookie:
+---2016-11-24 21:10 ---
+*cookie:
+Array ([name]=>guest[time]=>1480021717[hash]=>948b2b87c7be14a35c1c296642f02bd7[expire]=>0)
+===2016-11-24 21:10 ===
+*Cookie auth succeeded:
+---2016-11-24 21:10 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480021717[hash]=>948b2b87c7be14a35c1c296642f02bd7[expire]=>0)
+===2016-11-24 21:11 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:11 ===
+*set mode: main
+===2016-11-24 21:11 ===
+*set passphrase: 
+===2016-11-24 21:11 ===
+*check for existing cookie:
+---2016-11-24 21:11 ---
+*cookie:
+Array ([name]=>guest[time]=>1480021810[hash]=>ef7aa04238a86f639b2b5038b41f8334[expire]=>0)
+===2016-11-24 21:11 ===
+*Cookie auth succeeded:
+---2016-11-24 21:11 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480021810[hash]=>ef7aa04238a86f639b2b5038b41f8334[expire]=>0)
+===2016-11-24 21:14 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:14 ===
+*set mode: main
+===2016-11-24 21:14 ===
+*set passphrase: 
+===2016-11-24 21:14 ===
+*check for existing cookie:
+---2016-11-24 21:14 ---
+*cookie:
+Array ([name]=>guest[time]=>1480021869[hash]=>2f0041d39f528f9372ed1dc1a33b81e8[expire]=>0)
+===2016-11-24 21:14 ===
+*Cookie auth succeeded:
+---2016-11-24 21:14 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480021869[hash]=>2f0041d39f528f9372ed1dc1a33b81e8[expire]=>0)
+===2016-11-24 21:15 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:15 ===
+*set mode: main
+===2016-11-24 21:15 ===
+*set passphrase: 
+===2016-11-24 21:15 ===
+*check for existing cookie:
+---2016-11-24 21:15 ---
+*cookie:
+Array ([name]=>guest[time]=>1480022062[hash]=>b8d00b92023d593079bebc39d3f7aaac[expire]=>0)
+===2016-11-24 21:15 ===
+*Cookie auth succeeded:
+---2016-11-24 21:15 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480022062[hash]=>b8d00b92023d593079bebc39d3f7aaac[expire]=>0)
+===2016-11-24 21:16 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:16 ===
+*set mode: main
+===2016-11-24 21:16 ===
+*set passphrase: 
+===2016-11-24 21:16 ===
+*check for existing cookie:
+---2016-11-24 21:16 ---
+*cookie:
+Array ([name]=>guest[time]=>1480022120[hash]=>d1d2717dacffecc8a0ddb91af1a24093[expire]=>0)
+===2016-11-24 21:16 ===
+*Cookie auth succeeded:
+---2016-11-24 21:16 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480022120[hash]=>d1d2717dacffecc8a0ddb91af1a24093[expire]=>0)
+===2016-11-24 21:17 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:17 ===
+*set mode: main
+===2016-11-24 21:17 ===
+*set passphrase: 
+===2016-11-24 21:17 ===
+*check for existing cookie:
+---2016-11-24 21:17 ---
+*cookie:
+Array ([name]=>guest[time]=>1480022197[hash]=>f1fffb57a71b75c5d0a0f9a68bb3d46f[expire]=>0)
+===2016-11-24 21:17 ===
+*Cookie auth succeeded:
+---2016-11-24 21:17 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480022197[hash]=>f1fffb57a71b75c5d0a0f9a68bb3d46f[expire]=>0)
+===2016-11-24 21:19 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:19 ===
+*set mode: main
+===2016-11-24 21:19 ===
+*set passphrase: 
+===2016-11-24 21:19 ===
+*check for existing cookie:
+---2016-11-24 21:19 ---
+*cookie:
+Array ([name]=>guest[time]=>1480022265[hash]=>2e533ea6e985d9286d33677ebfb825e4[expire]=>0)
+===2016-11-24 21:19 ===
+*Cookie auth succeeded:
+---2016-11-24 21:19 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480022265[hash]=>2e533ea6e985d9286d33677ebfb825e4[expire]=>0)
+===2016-11-24 21:19 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:19 ===
+*set mode: schedule
+===2016-11-24 21:19 ===
+*set passphrase: 
+===2016-11-24 21:19 ===
+*check for existing cookie:
+---2016-11-24 21:19 ---
+*cookie:
+Array ([name]=>guest[time]=>1480022351[hash]=>1f6dd23b499800c6a2ac0cc3646ef0fc[expire]=>0)
+===2016-11-24 21:19 ===
+*Cookie auth succeeded:
+---2016-11-24 21:19 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480022351[hash]=>1f6dd23b499800c6a2ac0cc3646ef0fc[expire]=>0)
+===2016-11-24 21:19 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:19 ===
+*set mode: schedule
+===2016-11-24 21:19 ===
+*set passphrase: 
+===2016-11-24 21:19 ===
+*check for existing cookie:
+---2016-11-24 21:19 ---
+*cookie:
+Array ([name]=>guest[time]=>1480022361[hash]=>c15f05648fd007eee427e522162da1f5[expire]=>0)
+===2016-11-24 21:19 ===
+*Cookie auth succeeded:
+---2016-11-24 21:19 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480022361[hash]=>c15f05648fd007eee427e522162da1f5[expire]=>0)
+===2016-11-24 21:22 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:22 ===
+*set mode: schedule
+===2016-11-24 21:22 ===
+*set passphrase: 
+===2016-11-24 21:22 ===
+*check for existing cookie:
+---2016-11-24 21:22 ---
+*cookie:
+Array ([name]=>guest[time]=>1480022393[hash]=>ca1ab64f4b954768cf3b839704279b44[expire]=>0)
+===2016-11-24 21:22 ===
+*Cookie auth succeeded:
+---2016-11-24 21:22 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480022393[hash]=>ca1ab64f4b954768cf3b839704279b44[expire]=>0)
+===2016-11-24 21:25 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:25 ===
+*set mode: maps
+===2016-11-24 21:25 ===
+*set passphrase: 
+===2016-11-24 21:25 ===
+*check for existing cookie:
+---2016-11-24 21:25 ---
+*cookie:
+Array ([name]=>guest[time]=>1480022534[hash]=>2402ed300f3bb1203d7fbb830aca30bc[expire]=>0)
+===2016-11-24 21:25 ===
+*Cookie auth succeeded:
+---2016-11-24 21:25 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480022534[hash]=>2402ed300f3bb1203d7fbb830aca30bc[expire]=>0)
+===2016-11-24 21:25 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:25 ===
+*set mode: registry
+===2016-11-24 21:25 ===
+*set passphrase: 
+===2016-11-24 21:25 ===
+*check for existing cookie:
+---2016-11-24 21:25 ---
+*cookie:
+Array ([name]=>guest[time]=>1480022734[hash]=>4a3d7c2f547785b0489639cbc1d074d1[expire]=>0)
+===2016-11-24 21:25 ===
+*Cookie auth succeeded:
+---2016-11-24 21:25 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480022734[hash]=>4a3d7c2f547785b0489639cbc1d074d1[expire]=>0)
+===2016-11-24 21:25 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:25 ===
+*set mode: lodging
+===2016-11-24 21:25 ===
+*set passphrase: 
+===2016-11-24 21:25 ===
+*check for existing cookie:
+---2016-11-24 21:25 ---
+*cookie:
+Array ([name]=>guest[time]=>1480022739[hash]=>752a2a85a95252ae6fa9c282d4678c34[expire]=>0)
+===2016-11-24 21:25 ===
+*Cookie auth succeeded:
+---2016-11-24 21:25 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480022739[hash]=>752a2a85a95252ae6fa9c282d4678c34[expire]=>0)
+===2016-11-24 21:25 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:25 ===
+*set mode: rsvp
+===2016-11-24 21:25 ===
+*set passphrase: 
+===2016-11-24 21:25 ===
+*check for existing cookie:
+---2016-11-24 21:25 ---
+*cookie:
+Array ([name]=>guest[time]=>1480022748[hash]=>3823b1e746f1a27ca2bf41495e5c69a7[expire]=>0)
+===2016-11-24 21:25 ===
+*Cookie auth succeeded:
+---2016-11-24 21:25 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480022748[hash]=>3823b1e746f1a27ca2bf41495e5c69a7[expire]=>0)
+===2016-11-24 21:30 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:30 ===
+*set mode: rsvp
+===2016-11-24 21:30 ===
+*set passphrase: 
+===2016-11-24 21:30 ===
+*check for existing cookie:
+---2016-11-24 21:30 ---
+*cookie:
+Array ([name]=>guest[time]=>1480022751[hash]=>0fa6676cd773c4df2d067315bab73caf[expire]=>0)
+===2016-11-24 21:30 ===
+*Cookie auth succeeded:
+---2016-11-24 21:30 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480022751[hash]=>0fa6676cd773c4df2d067315bab73caf[expire]=>0)
+===2016-11-24 21:30 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:30 ===
+*set mode: guestbook
+===2016-11-24 21:30 ===
+*set passphrase: 
+===2016-11-24 21:30 ===
+*check for existing cookie:
+---2016-11-24 21:30 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023020[hash]=>0860da46ee2d1b8138aa6050066a8ae4[expire]=>0)
+===2016-11-24 21:30 ===
+*Cookie auth succeeded:
+---2016-11-24 21:30 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023020[hash]=>0860da46ee2d1b8138aa6050066a8ae4[expire]=>0)
+===2016-11-24 21:34 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:34 ===
+*set mode: main
+===2016-11-24 21:34 ===
+*set passphrase: 
+===2016-11-24 21:34 ===
+*check for existing cookie:
+---2016-11-24 21:34 ---
+*cookie:
+Array ()
+===2016-11-24 21:34 ===
+*display index.html.txt:
+===2016-11-24 21:36 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:36 ===
+*set mode: passphrase
+===2016-11-24 21:36 ===
+*set passphrase: LOVEJASON
+===2016-11-24 21:36 ===
+*passphrase: LOVEJASON
+===2016-11-24 21:36 ===
+*create cookie: guest
+===2016-11-24 21:36 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:36 ===
+*set mode: main
+===2016-11-24 21:36 ===
+*set passphrase: 
+===2016-11-24 21:36 ===
+*check for existing cookie:
+---2016-11-24 21:36 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023379[hash]=>af0bed517b4fa4908192324fd862e1f2[expire]=>0)
+===2016-11-24 21:36 ===
+*Cookie auth succeeded:
+---2016-11-24 21:36 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023379[hash]=>af0bed517b4fa4908192324fd862e1f2[expire]=>0)
+===2016-11-24 21:36 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:36 ===
+*set mode: schedule
+===2016-11-24 21:36 ===
+*set passphrase: 
+===2016-11-24 21:36 ===
+*check for existing cookie:
+---2016-11-24 21:36 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023379[hash]=>af0bed517b4fa4908192324fd862e1f2[expire]=>0)
+===2016-11-24 21:36 ===
+*Cookie auth succeeded:
+---2016-11-24 21:36 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023379[hash]=>af0bed517b4fa4908192324fd862e1f2[expire]=>0)
+===2016-11-24 21:36 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:36 ===
+*set mode: maps
+===2016-11-24 21:36 ===
+*set passphrase: 
+===2016-11-24 21:36 ===
+*check for existing cookie:
+---2016-11-24 21:36 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023399[hash]=>79b5ba3a2c671dec9385147451f189ab[expire]=>0)
+===2016-11-24 21:36 ===
+*Cookie auth succeeded:
+---2016-11-24 21:36 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023399[hash]=>79b5ba3a2c671dec9385147451f189ab[expire]=>0)
+===2016-11-24 21:37 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:37 ===
+*set mode: schedule
+===2016-11-24 21:37 ===
+*set passphrase: 
+===2016-11-24 21:37 ===
+*check for existing cookie:
+---2016-11-24 21:37 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023415[hash]=>de7fbea04cf1f793eee775dfe9a9b451[expire]=>0)
+===2016-11-24 21:37 ===
+*Cookie auth succeeded:
+---2016-11-24 21:37 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023415[hash]=>de7fbea04cf1f793eee775dfe9a9b451[expire]=>0)
+===2016-11-24 21:37 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:37 ===
+*set mode: maps
+===2016-11-24 21:37 ===
+*set passphrase: 
+===2016-11-24 21:37 ===
+*check for existing cookie:
+---2016-11-24 21:37 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023420[hash]=>39800d8f44da97061caf1a94dddf579e[expire]=>0)
+===2016-11-24 21:37 ===
+*Cookie auth succeeded:
+---2016-11-24 21:37 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023420[hash]=>39800d8f44da97061caf1a94dddf579e[expire]=>0)
+===2016-11-24 21:37 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:37 ===
+*set mode: registry
+===2016-11-24 21:37 ===
+*set passphrase: 
+===2016-11-24 21:37 ===
+*check for existing cookie:
+---2016-11-24 21:37 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023429[hash]=>7f90a637378b339db5f515566e68bdbc[expire]=>0)
+===2016-11-24 21:37 ===
+*Cookie auth succeeded:
+---2016-11-24 21:37 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023429[hash]=>7f90a637378b339db5f515566e68bdbc[expire]=>0)
+===2016-11-24 21:37 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:37 ===
+*set mode: lodging
+===2016-11-24 21:37 ===
+*set passphrase: 
+===2016-11-24 21:37 ===
+*check for existing cookie:
+---2016-11-24 21:37 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023436[hash]=>c5a5359e55102b0d41e76a99130a7e7b[expire]=>0)
+===2016-11-24 21:37 ===
+*Cookie auth succeeded:
+---2016-11-24 21:37 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023436[hash]=>c5a5359e55102b0d41e76a99130a7e7b[expire]=>0)
+===2016-11-24 21:37 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:37 ===
+*set mode: rsvp
+===2016-11-24 21:37 ===
+*set passphrase: 
+===2016-11-24 21:37 ===
+*check for existing cookie:
+---2016-11-24 21:37 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023442[hash]=>3d6028a5830970fd7ca20f6961603e0a[expire]=>0)
+===2016-11-24 21:37 ===
+*Cookie auth succeeded:
+---2016-11-24 21:37 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023442[hash]=>3d6028a5830970fd7ca20f6961603e0a[expire]=>0)
+===2016-11-24 21:43 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:43 ===
+*set mode: main
+===2016-11-24 21:43 ===
+*set passphrase: 
+===2016-11-24 21:43 ===
+*check for existing cookie:
+---2016-11-24 21:43 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023025[hash]=>505c935e0da76dbd1bc14464ddde33d6[expire]=>0)
+===2016-11-24 21:43 ===
+*Cookie auth succeeded:
+---2016-11-24 21:43 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023025[hash]=>505c935e0da76dbd1bc14464ddde33d6[expire]=>0)
+===2016-11-24 21:43 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:43 ===
+*set mode: schedule
+===2016-11-24 21:43 ===
+*set passphrase: 
+===2016-11-24 21:43 ===
+*check for existing cookie:
+---2016-11-24 21:43 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023792[hash]=>dab9ff9f5f959e9d2d20b073767c35be[expire]=>0)
+===2016-11-24 21:43 ===
+*Cookie auth succeeded:
+---2016-11-24 21:43 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023792[hash]=>dab9ff9f5f959e9d2d20b073767c35be[expire]=>0)
+===2016-11-24 21:43 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:43 ===
+*set mode: maps
+===2016-11-24 21:43 ===
+*set passphrase: 
+===2016-11-24 21:43 ===
+*check for existing cookie:
+---2016-11-24 21:43 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023794[hash]=>3da9cbfe6c07ae002591d9b19089d6c2[expire]=>0)
+===2016-11-24 21:43 ===
+*Cookie auth succeeded:
+---2016-11-24 21:43 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023794[hash]=>3da9cbfe6c07ae002591d9b19089d6c2[expire]=>0)
+===2016-11-24 21:43 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:43 ===
+*set mode: registry
+===2016-11-24 21:43 ===
+*set passphrase: 
+===2016-11-24 21:43 ===
+*check for existing cookie:
+---2016-11-24 21:43 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023805[hash]=>c1375f9679fa51c2da7c09f7d381d2a7[expire]=>0)
+===2016-11-24 21:43 ===
+*Cookie auth succeeded:
+---2016-11-24 21:43 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023805[hash]=>c1375f9679fa51c2da7c09f7d381d2a7[expire]=>0)
+===2016-11-24 21:44 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:44 ===
+*set mode: main
+===2016-11-24 21:44 ===
+*set passphrase: 
+===2016-11-24 21:44 ===
+*check for existing cookie:
+---2016-11-24 21:44 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023820[hash]=>0c9fb1133487f3b16137fd796ede7a84[expire]=>0)
+===2016-11-24 21:44 ===
+*Cookie auth succeeded:
+---2016-11-24 21:44 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023820[hash]=>0c9fb1133487f3b16137fd796ede7a84[expire]=>0)
+===2016-11-24 21:44 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:44 ===
+*set mode: schedule
+===2016-11-24 21:44 ===
+*set passphrase: 
+===2016-11-24 21:44 ===
+*check for existing cookie:
+---2016-11-24 21:44 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023894[hash]=>e36df15c7a479fbe2a06a8a6165f2f31[expire]=>0)
+===2016-11-24 21:44 ===
+*Cookie auth succeeded:
+---2016-11-24 21:44 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023894[hash]=>e36df15c7a479fbe2a06a8a6165f2f31[expire]=>0)
+===2016-11-24 21:45 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:45 ===
+*set mode: schedule
+===2016-11-24 21:45 ===
+*set passphrase: 
+===2016-11-24 21:45 ===
+*check for existing cookie:
+---2016-11-24 21:45 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023896[hash]=>30f3cf9d6d513c8266b7812c39056ce8[expire]=>0)
+===2016-11-24 21:45 ===
+*Cookie auth succeeded:
+---2016-11-24 21:45 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023896[hash]=>30f3cf9d6d513c8266b7812c39056ce8[expire]=>0)
+===2016-11-24 21:45 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:45 ===
+*set mode: schedule
+===2016-11-24 21:45 ===
+*set passphrase: 
+===2016-11-24 21:45 ===
+*check for existing cookie:
+---2016-11-24 21:45 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023921[hash]=>7f07d64d46644cfc1bae31530443339e[expire]=>0)
+===2016-11-24 21:45 ===
+*Cookie auth succeeded:
+---2016-11-24 21:45 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023921[hash]=>7f07d64d46644cfc1bae31530443339e[expire]=>0)
+===2016-11-24 21:45 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:45 ===
+*set mode: schedule
+===2016-11-24 21:45 ===
+*set passphrase: 
+===2016-11-24 21:45 ===
+*check for existing cookie:
+---2016-11-24 21:45 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023925[hash]=>cb9403d5d15a2bd3d135663858adb224[expire]=>0)
+===2016-11-24 21:45 ===
+*Cookie auth succeeded:
+---2016-11-24 21:45 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023925[hash]=>cb9403d5d15a2bd3d135663858adb224[expire]=>0)
+===2016-11-24 21:49 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:49 ===
+*set mode: main
+===2016-11-24 21:49 ===
+*set passphrase: 
+===2016-11-24 21:49 ===
+*check for existing cookie:
+---2016-11-24 21:49 ---
+*cookie:
+Array ([name]=>guest[time]=>1480023955[hash]=>9430251b31d40dac699fbd4ae9d0ca2d[expire]=>0)
+===2016-11-24 21:49 ===
+*Cookie auth succeeded:
+---2016-11-24 21:49 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480023955[hash]=>9430251b31d40dac699fbd4ae9d0ca2d[expire]=>0)
+===2016-11-24 21:49 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:49 ===
+*set mode: schedule
+===2016-11-24 21:49 ===
+*set passphrase: 
+===2016-11-24 21:49 ===
+*check for existing cookie:
+---2016-11-24 21:49 ---
+*cookie:
+Array ([name]=>guest[time]=>1480024162[hash]=>1ad6457fe77d3cc11777ba48a854c64f[expire]=>0)
+===2016-11-24 21:49 ===
+*Cookie auth succeeded:
+---2016-11-24 21:49 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480024162[hash]=>1ad6457fe77d3cc11777ba48a854c64f[expire]=>0)
+===2016-11-24 21:50 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:50 ===
+*set mode: schedule
+===2016-11-24 21:50 ===
+*set passphrase: 
+===2016-11-24 21:50 ===
+*check for existing cookie:
+---2016-11-24 21:50 ---
+*cookie:
+Array ([name]=>guest[time]=>1480024178[hash]=>d43580470301cdd93ac18fa32ec16e50[expire]=>0)
+===2016-11-24 21:50 ===
+*Cookie auth succeeded:
+---2016-11-24 21:50 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480024178[hash]=>d43580470301cdd93ac18fa32ec16e50[expire]=>0)
+===2016-11-24 21:50 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:50 ===
+*set mode: schedule
+===2016-11-24 21:50 ===
+*set passphrase: 
+===2016-11-24 21:50 ===
+*check for existing cookie:
+---2016-11-24 21:50 ---
+*cookie:
+Array ([name]=>guest[time]=>1480024226[hash]=>ad2d952a1d536ebd0b03e06729f5ed76[expire]=>0)
+===2016-11-24 21:50 ===
+*Cookie auth succeeded:
+---2016-11-24 21:50 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480024226[hash]=>ad2d952a1d536ebd0b03e06729f5ed76[expire]=>0)
+===2016-11-24 21:50 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:50 ===
+*set mode: schedule
+===2016-11-24 21:50 ===
+*set passphrase: 
+===2016-11-24 21:50 ===
+*check for existing cookie:
+---2016-11-24 21:50 ---
+*cookie:
+Array ([name]=>guest[time]=>1480024236[hash]=>7f2ccad90b6533e6169ca8b21fe2c12b[expire]=>0)
+===2016-11-24 21:50 ===
+*Cookie auth succeeded:
+---2016-11-24 21:50 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480024236[hash]=>7f2ccad90b6533e6169ca8b21fe2c12b[expire]=>0)
+===2016-11-24 21:51 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:51 ===
+*set mode: schedule
+===2016-11-24 21:51 ===
+*set passphrase: 
+===2016-11-24 21:51 ===
+*check for existing cookie:
+---2016-11-24 21:51 ---
+*cookie:
+Array ([name]=>guest[time]=>1480024244[hash]=>2e730cf1a01a96d092f7e7f5ecfb8bf6[expire]=>0)
+===2016-11-24 21:51 ===
+*Cookie auth succeeded:
+---2016-11-24 21:51 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480024244[hash]=>2e730cf1a01a96d092f7e7f5ecfb8bf6[expire]=>0)
+===2016-11-24 21:51 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:51 ===
+*set mode: registry
+===2016-11-24 21:51 ===
+*set passphrase: 
+===2016-11-24 21:51 ===
+*check for existing cookie:
+---2016-11-24 21:51 ---
+*cookie:
+Array ([name]=>guest[time]=>1480024264[hash]=>dab2b3a6837893f89cd227174954b5b2[expire]=>0)
+===2016-11-24 21:51 ===
+*Cookie auth succeeded:
+---2016-11-24 21:51 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480024264[hash]=>dab2b3a6837893f89cd227174954b5b2[expire]=>0)
+===2016-11-24 21:51 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:51 ===
+*set mode: lodging
+===2016-11-24 21:51 ===
+*set passphrase: 
+===2016-11-24 21:51 ===
+*check for existing cookie:
+---2016-11-24 21:51 ---
+*cookie:
+Array ([name]=>guest[time]=>1480024271[hash]=>5382aa2e1aabd160b4b993e73b94698e[expire]=>0)
+===2016-11-24 21:51 ===
+*Cookie auth succeeded:
+---2016-11-24 21:51 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480024271[hash]=>5382aa2e1aabd160b4b993e73b94698e[expire]=>0)
+===2016-11-24 21:51 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:51 ===
+*set mode: rsvp
+===2016-11-24 21:51 ===
+*set passphrase: 
+===2016-11-24 21:51 ===
+*check for existing cookie:
+---2016-11-24 21:51 ---
+*cookie:
+Array ([name]=>guest[time]=>1480024273[hash]=>937d50719a53a235b40b1cbb710ce57f[expire]=>0)
+===2016-11-24 21:51 ===
+*Cookie auth succeeded:
+---2016-11-24 21:51 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480024273[hash]=>937d50719a53a235b40b1cbb710ce57f[expire]=>0)
+===2016-11-24 21:51 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:51 ===
+*set mode: lodging
+===2016-11-24 21:51 ===
+*set passphrase: 
+===2016-11-24 21:51 ===
+*check for existing cookie:
+---2016-11-24 21:51 ---
+*cookie:
+Array ([name]=>guest[time]=>1480024279[hash]=>6e413a7da800ba916c9e6007d93d0034[expire]=>0)
+===2016-11-24 21:51 ===
+*Cookie auth succeeded:
+---2016-11-24 21:51 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480024279[hash]=>6e413a7da800ba916c9e6007d93d0034[expire]=>0)
+===2016-11-24 21:54 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:54 ===
+*set mode: lodging
+===2016-11-24 21:54 ===
+*set passphrase: 
+===2016-11-24 21:54 ===
+*check for existing cookie:
+---2016-11-24 21:54 ---
+*cookie:
+Array ([name]=>guest[time]=>1480024281[hash]=>d2497c1e2f3ba59e184c193bb3b76011[expire]=>0)
+===2016-11-24 21:54 ===
+*Cookie auth succeeded:
+---2016-11-24 21:54 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480024281[hash]=>d2497c1e2f3ba59e184c193bb3b76011[expire]=>0)
+===2016-11-24 21:54 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:54 ===
+*set mode: lodging
+===2016-11-24 21:54 ===
+*set passphrase: 
+===2016-11-24 21:54 ===
+*check for existing cookie:
+---2016-11-24 21:54 ---
+*cookie:
+Array ([name]=>guest[time]=>1480024474[hash]=>257eabd78d4d5a3c66a72e2d9b192260[expire]=>0)
+===2016-11-24 21:54 ===
+*Cookie auth succeeded:
+---2016-11-24 21:54 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480024474[hash]=>257eabd78d4d5a3c66a72e2d9b192260[expire]=>0)
+===2016-11-24 21:54 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-24 21:54 ===
+*set mode: rsvp
+===2016-11-24 21:54 ===
+*set passphrase: 
+===2016-11-24 21:54 ===
+*check for existing cookie:
+---2016-11-24 21:54 ---
+*cookie:
+Array ([name]=>guest[time]=>1480024491[hash]=>81819094ad9ef2ecf4b5a2330f765de3[expire]=>0)
+===2016-11-24 21:54 ===
+*Cookie auth succeeded:
+---2016-11-24 21:54 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480024491[hash]=>81819094ad9ef2ecf4b5a2330f765de3[expire]=>0)
+===2016-11-25 04:33 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-25 04:33 ===
+*set mode: main
+===2016-11-25 04:33 ===
+*set passphrase: 
+===2016-11-25 04:33 ===
+*check for existing cookie:
+---2016-11-25 04:33 ---
+*cookie:
+Array ()
+===2016-11-25 04:33 ===
+*display index.html.txt:
+===2016-11-25 04:33 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-25 04:33 ===
+*set mode: passphrase
+===2016-11-25 04:33 ===
+*set passphrase: LOVEJASON
+===2016-11-25 04:33 ===
+*passphrase: LOVEJASON
+===2016-11-25 04:33 ===
+*create cookie: guest
+===2016-11-25 04:33 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-25 04:33 ===
+*set mode: main
+===2016-11-25 04:33 ===
+*set passphrase: 
+===2016-11-25 04:33 ===
+*check for existing cookie:
+---2016-11-25 04:33 ---
+*cookie:
+Array ([name]=>guest[time]=>1480048423[hash]=>58c5b83deff52fb6adf0191d13142e47[expire]=>0)
+===2016-11-25 04:33 ===
+*Cookie auth succeeded:
+---2016-11-25 04:33 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480048423[hash]=>58c5b83deff52fb6adf0191d13142e47[expire]=>0)
+===2016-11-25 04:34 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-25 04:34 ===
+*set mode: schedule
+===2016-11-25 04:34 ===
+*set passphrase: 
+===2016-11-25 04:34 ===
+*check for existing cookie:
+---2016-11-25 04:34 ---
+*cookie:
+Array ([name]=>guest[time]=>1480048423[hash]=>58c5b83deff52fb6adf0191d13142e47[expire]=>0)
+===2016-11-25 04:34 ===
+*Cookie auth succeeded:
+---2016-11-25 04:34 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480048423[hash]=>58c5b83deff52fb6adf0191d13142e47[expire]=>0)
+===2016-11-25 04:34 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-25 04:34 ===
+*set mode: main
+===2016-11-25 04:34 ===
+*set passphrase: 
+===2016-11-25 04:34 ===
+*check for existing cookie:
+---2016-11-25 04:34 ---
+*cookie:
+Array ([name]=>guest[time]=>1480048480[hash]=>6310ec685d83624b7a32f774a161b81f[expire]=>0)
+===2016-11-25 04:34 ===
+*Cookie auth succeeded:
+---2016-11-25 04:34 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480048480[hash]=>6310ec685d83624b7a32f774a161b81f[expire]=>0)
+===2016-11-25 04:34 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-25 04:34 ===
+*set mode: schedule
+===2016-11-25 04:34 ===
+*set passphrase: 
+===2016-11-25 04:34 ===
+*check for existing cookie:
+---2016-11-25 04:34 ---
+*cookie:
+Array ([name]=>guest[time]=>1480048489[hash]=>7cb912f61b8d6b3d5fafde10c43e2645[expire]=>0)
+===2016-11-25 04:34 ===
+*Cookie auth succeeded:
+---2016-11-25 04:34 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480048489[hash]=>7cb912f61b8d6b3d5fafde10c43e2645[expire]=>0)
+===2016-11-25 04:35 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-25 04:35 ===
+*set mode: maps
+===2016-11-25 04:35 ===
+*set passphrase: 
+===2016-11-25 04:35 ===
+*check for existing cookie:
+---2016-11-25 04:35 ---
+*cookie:
+Array ([name]=>guest[time]=>1480048494[hash]=>81b57496db8d91764e015d9967b685e0[expire]=>0)
+===2016-11-25 04:35 ===
+*Cookie auth succeeded:
+---2016-11-25 04:35 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480048494[hash]=>81b57496db8d91764e015d9967b685e0[expire]=>0)
+===2016-11-25 04:35 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-25 04:35 ===
+*set mode: registry
+===2016-11-25 04:35 ===
+*set passphrase: 
+===2016-11-25 04:35 ===
+*check for existing cookie:
+---2016-11-25 04:35 ---
+*cookie:
+Array ([name]=>guest[time]=>1480048525[hash]=>8a2b2aad282d506ba8984bd837bb17fc[expire]=>0)
+===2016-11-25 04:35 ===
+*Cookie auth succeeded:
+---2016-11-25 04:35 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480048525[hash]=>8a2b2aad282d506ba8984bd837bb17fc[expire]=>0)
+===2016-11-25 04:35 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-25 04:35 ===
+*set mode: lodging
+===2016-11-25 04:35 ===
+*set passphrase: 
+===2016-11-25 04:35 ===
+*check for existing cookie:
+---2016-11-25 04:35 ---
+*cookie:
+Array ([name]=>guest[time]=>1480048535[hash]=>9e7e98e0c27ba4db104ee854be68e702[expire]=>0)
+===2016-11-25 04:35 ===
+*Cookie auth succeeded:
+---2016-11-25 04:35 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480048535[hash]=>9e7e98e0c27ba4db104ee854be68e702[expire]=>0)
+===2016-11-25 04:35 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-25 04:35 ===
+*set mode: lodging
+===2016-11-25 04:35 ===
+*set passphrase: 
+===2016-11-25 04:35 ===
+*check for existing cookie:
+---2016-11-25 04:35 ---
+*cookie:
+Array ([name]=>guest[time]=>1480048542[hash]=>641b7d74df9b8ce65542300c9b58e3c3[expire]=>0)
+===2016-11-25 04:35 ===
+*Cookie auth succeeded:
+---2016-11-25 04:35 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480048542[hash]=>641b7d74df9b8ce65542300c9b58e3c3[expire]=>0)
+===2016-11-25 04:35 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-25 04:35 ===
+*set mode: rsvp
+===2016-11-25 04:35 ===
+*set passphrase: 
+===2016-11-25 04:35 ===
+*check for existing cookie:
+---2016-11-25 04:35 ---
+*cookie:
+Array ([name]=>guest[time]=>1480048543[hash]=>733dcc6059d0a5adb27c1beb6ef4b448[expire]=>0)
+===2016-11-25 04:35 ===
+*Cookie auth succeeded:
+---2016-11-25 04:35 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480048543[hash]=>733dcc6059d0a5adb27c1beb6ef4b448[expire]=>0)
+===2016-11-25 04:36 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-25 04:36 ===
+*set mode: guestbook
+===2016-11-25 04:36 ===
+*set passphrase: 
+===2016-11-25 04:36 ===
+*check for existing cookie:
+---2016-11-25 04:36 ---
+*cookie:
+Array ([name]=>guest[time]=>1480048546[hash]=>a85cc2d3a8752c614beb4323f440ad27[expire]=>0)
+===2016-11-25 04:36 ===
+*Cookie auth succeeded:
+---2016-11-25 04:36 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480048546[hash]=>a85cc2d3a8752c614beb4323f440ad27[expire]=>0)
+===2016-11-25 04:36 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-25 04:36 ===
+*set mode: guestbook
+===2016-11-25 04:36 ===
+*set passphrase: 
+===2016-11-25 04:36 ===
+*check for existing cookie:
+---2016-11-25 04:36 ---
+*cookie:
+Array ([name]=>guest[time]=>1480048568[hash]=>2430b93b273226e0d7911e66e6f6d75c[expire]=>0)
+===2016-11-25 04:36 ===
+*Cookie auth succeeded:
+---2016-11-25 04:36 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480048568[hash]=>2430b93b273226e0d7911e66e6f6d75c[expire]=>0)
+===2016-11-25 04:36 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-11-25 04:36 ===
+*set mode: main
+===2016-11-25 04:36 ===
+*set passphrase: 
+===2016-11-25 04:36 ===
+*check for existing cookie:
+---2016-11-25 04:36 ---
+*cookie:
+Array ([name]=>guest[time]=>1480048574[hash]=>6b011761d7c2febb44d06f180f0536bc[expire]=>0)
+===2016-11-25 04:36 ===
+*Cookie auth succeeded:
+---2016-11-25 04:36 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1480048574[hash]=>6b011761d7c2febb44d06f180f0536bc[expire]=>0)
+===2016-12-26 17:30 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:30 ===
+*set mode: main
+===2016-12-26 17:30 ===
+*set passphrase: 
+===2016-12-26 17:30 ===
+*check for existing cookie:
+---2016-12-26 17:30 ---
+*cookie:
+Array ()
+===2016-12-26 17:30 ===
+*display index.html.txt:
+===2016-12-26 17:31 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:31 ===
+*set mode: schedule
+===2016-12-26 17:31 ===
+*set passphrase: 
+===2016-12-26 17:31 ===
+*check for existing cookie:
+---2016-12-26 17:31 ---
+*cookie:
+Array ()
+===2016-12-26 17:31 ===
+*display index.html.txt:
+===2016-12-26 17:32 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:32 ===
+*set mode: passphrase
+===2016-12-26 17:32 ===
+*set passphrase: LOVEJASON
+===2016-12-26 17:32 ===
+*passphrase: LOVEJASON
+===2016-12-26 17:32 ===
+*create cookie: guest
+===2016-12-26 17:32 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:32 ===
+*set mode: main
+===2016-12-26 17:32 ===
+*set passphrase: 
+===2016-12-26 17:32 ===
+*check for existing cookie:
+---2016-12-26 17:32 ---
+*cookie:
+Array ([name]=>guest[time]=>1482773522[hash]=>6fb500ea857cbdfaf5421b853e7f1983[expire]=>0)
+===2016-12-26 17:32 ===
+*Cookie auth succeeded:
+---2016-12-26 17:32 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1482773522[hash]=>6fb500ea857cbdfaf5421b853e7f1983[expire]=>0)
+===2016-12-26 17:32 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:32 ===
+*set mode: schedule
+===2016-12-26 17:32 ===
+*set passphrase: 
+===2016-12-26 17:32 ===
+*check for existing cookie:
+---2016-12-26 17:32 ---
+*cookie:
+Array ([name]=>guest[time]=>1482773522[hash]=>6fb500ea857cbdfaf5421b853e7f1983[expire]=>0)
+===2016-12-26 17:32 ===
+*Cookie auth succeeded:
+---2016-12-26 17:32 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1482773522[hash]=>6fb500ea857cbdfaf5421b853e7f1983[expire]=>0)
+===2016-12-26 17:32 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:32 ===
+*set mode: maps
+===2016-12-26 17:32 ===
+*set passphrase: 
+===2016-12-26 17:32 ===
+*check for existing cookie:
+---2016-12-26 17:32 ---
+*cookie:
+Array ([name]=>guest[time]=>1482773551[hash]=>94ce076ad0141aefc21db6fd3e002b0b[expire]=>0)
+===2016-12-26 17:32 ===
+*Cookie auth succeeded:
+---2016-12-26 17:32 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1482773551[hash]=>94ce076ad0141aefc21db6fd3e002b0b[expire]=>0)
+===2016-12-26 17:33 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:33 ===
+*set mode: registry
+===2016-12-26 17:33 ===
+*set passphrase: 
+===2016-12-26 17:33 ===
+*check for existing cookie:
+---2016-12-26 17:33 ---
+*cookie:
+Array ([name]=>guest[time]=>1482773578[hash]=>b1b78bc3c2675ba098ded3eaa45041dd[expire]=>0)
+===2016-12-26 17:33 ===
+*Cookie auth succeeded:
+---2016-12-26 17:33 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1482773578[hash]=>b1b78bc3c2675ba098ded3eaa45041dd[expire]=>0)
+===2016-12-26 17:33 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:33 ===
+*set mode: lodging
+===2016-12-26 17:33 ===
+*set passphrase: 
+===2016-12-26 17:33 ===
+*check for existing cookie:
+---2016-12-26 17:33 ---
+*cookie:
+Array ([name]=>guest[time]=>1482773585[hash]=>498778d13bffc0bfd6a3cba9922e5f8d[expire]=>0)
+===2016-12-26 17:33 ===
+*Cookie auth succeeded:
+---2016-12-26 17:33 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1482773585[hash]=>498778d13bffc0bfd6a3cba9922e5f8d[expire]=>0)
+===2016-12-26 17:33 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:33 ===
+*set mode: rsvp
+===2016-12-26 17:33 ===
+*set passphrase: 
+===2016-12-26 17:33 ===
+*check for existing cookie:
+---2016-12-26 17:33 ---
+*cookie:
+Array ([name]=>guest[time]=>1482773596[hash]=>610f14cb2e141ae493884cc032182d63[expire]=>0)
+===2016-12-26 17:33 ===
+*Cookie auth succeeded:
+---2016-12-26 17:33 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1482773596[hash]=>610f14cb2e141ae493884cc032182d63[expire]=>0)
+===2016-12-26 17:33 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:33 ===
+*set mode: guestbook
+===2016-12-26 17:33 ===
+*set passphrase: 
+===2016-12-26 17:33 ===
+*check for existing cookie:
+---2016-12-26 17:33 ---
+*cookie:
+Array ([name]=>guest[time]=>1482773605[hash]=>a757df16b53c1a1b02c2825eb5baae5e[expire]=>0)
+===2016-12-26 17:33 ===
+*Cookie auth succeeded:
+---2016-12-26 17:33 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1482773605[hash]=>a757df16b53c1a1b02c2825eb5baae5e[expire]=>0)
+===2016-12-26 17:34 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:34 ===
+*set mode: main
+===2016-12-26 17:34 ===
+*set passphrase: 
+===2016-12-26 17:34 ===
+*check for existing cookie:
+---2016-12-26 17:34 ---
+*cookie:
+Array ([name]=>guest[time]=>1482773618[hash]=>05235bd4662e2085bb4098375f269f2d[expire]=>0)
+===2016-12-26 17:34 ===
+*Cookie auth succeeded:
+---2016-12-26 17:34 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1482773618[hash]=>05235bd4662e2085bb4098375f269f2d[expire]=>0)
+===2016-12-26 17:34 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:34 ===
+*set mode: guestbook
+===2016-12-26 17:34 ===
+*set passphrase: 
+===2016-12-26 17:34 ===
+*check for existing cookie:
+---2016-12-26 17:34 ---
+*cookie:
+Array ([name]=>guest[time]=>1482773644[hash]=>3c05c1e262d817c06e00e9f3598c9e87[expire]=>0)
+===2016-12-26 17:34 ===
+*Cookie auth succeeded:
+---2016-12-26 17:34 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1482773644[hash]=>3c05c1e262d817c06e00e9f3598c9e87[expire]=>0)
+===2016-12-26 17:34 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:34 ===
+*set mode: rsvp
+===2016-12-26 17:34 ===
+*set passphrase: 
+===2016-12-26 17:34 ===
+*check for existing cookie:
+---2016-12-26 17:34 ---
+*cookie:
+Array ([name]=>guest[time]=>1482773661[hash]=>34dea46822d29180940553fe59c339b1[expire]=>0)
+===2016-12-26 17:34 ===
+*Cookie auth succeeded:
+---2016-12-26 17:34 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1482773661[hash]=>34dea46822d29180940553fe59c339b1[expire]=>0)
+===2016-12-26 17:34 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:34 ===
+*set mode: lodging
+===2016-12-26 17:34 ===
+*set passphrase: 
+===2016-12-26 17:34 ===
+*check for existing cookie:
+---2016-12-26 17:34 ---
+*cookie:
+Array ([name]=>guest[time]=>1482773670[hash]=>fcab318412b1a6ac4e68bb7b010fb79f[expire]=>0)
+===2016-12-26 17:34 ===
+*Cookie auth succeeded:
+---2016-12-26 17:34 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1482773670[hash]=>fcab318412b1a6ac4e68bb7b010fb79f[expire]=>0)
+===2016-12-26 17:34 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:34 ===
+*set mode: registry
+===2016-12-26 17:34 ===
+*set passphrase: 
+===2016-12-26 17:34 ===
+*check for existing cookie:
+---2016-12-26 17:34 ---
+*cookie:
+Array ([name]=>guest[time]=>1482773672[hash]=>2a7b5eef9f7e278b85c19118fad8e38f[expire]=>0)
+===2016-12-26 17:34 ===
+*Cookie auth succeeded:
+---2016-12-26 17:34 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1482773672[hash]=>2a7b5eef9f7e278b85c19118fad8e38f[expire]=>0)
+===2016-12-26 17:34 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:34 ===
+*set mode: maps
+===2016-12-26 17:34 ===
+*set passphrase: 
+===2016-12-26 17:34 ===
+*check for existing cookie:
+---2016-12-26 17:34 ---
+*cookie:
+Array ([name]=>guest[time]=>1482773673[hash]=>2c3ecab28ec0279b0f71ca794b2ac17f[expire]=>0)
+===2016-12-26 17:34 ===
+*Cookie auth succeeded:
+---2016-12-26 17:34 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1482773673[hash]=>2c3ecab28ec0279b0f71ca794b2ac17f[expire]=>0)
+===2016-12-26 17:34 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:34 ===
+*set mode: schedule
+===2016-12-26 17:34 ===
+*set passphrase: 
+===2016-12-26 17:34 ===
+*check for existing cookie:
+---2016-12-26 17:34 ---
+*cookie:
+Array ([name]=>guest[time]=>1482773675[hash]=>cecf51b95c15244046141ff231036229[expire]=>0)
+===2016-12-26 17:34 ===
+*Cookie auth succeeded:
+---2016-12-26 17:34 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1482773675[hash]=>cecf51b95c15244046141ff231036229[expire]=>0)
+===2016-12-26 17:34 ===
+*--------------------------------- START WEDDING PROGRAM -------:
+===2016-12-26 17:34 ===
+*set mode: main
+===2016-12-26 17:34 ===
+*set passphrase: 
+===2016-12-26 17:34 ===
+*check for existing cookie:
+---2016-12-26 17:34 ---
+*cookie:
+Array ([name]=>guest[time]=>1482773676[hash]=>125a8683e3e31a27b9d708366c781ead[expire]=>0)
+===2016-12-26 17:34 ===
+*Cookie auth succeeded:
+---2016-12-26 17:34 ---
+*cookie #2:
+Array ([name]=>guest[time]=>1482773676[hash]=>125a8683e3e31a27b9d708366c781ead[expire]=>0)

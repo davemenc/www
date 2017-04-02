@@ -1,0 +1,334 @@
+/*----MAIN BODY----*/
+body {
+  padding: 0px;
+  margin: 0px;
+  color: #000000;
+  background-image: url(natfl032.jpg);
+  font-family:Arial,Helmet,Freesans,sans-serif; 
+  font-size: medium; 
+  text-align:left; 
+  font-weight:normal; 
+  }
+
+div, h1, h2, h3, h4, h5, h6 {
+  padding: 0px;
+  margin: 0px;
+}
+
+img {
+  padding: 0px;
+  margin: 2%; 
+}
+
+p {
+  margin: 2% 5%; 
+  color: #000000;
+  text-align: left;
+}
+
+ul {
+  margin: 0% 4%;
+  color: #000000;
+  text-align: left;
+}
+
+body a:link {color:#009999; }
+body a:visited {color:#ca9b07; }
+body a:focus {color:#ca9b07; }
+body a:hover {color:#cc0033; }
+body a:active {color:#cc0000; }
+
+body.map {background:white; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family:Constantina,Georgia,'Nimbus Roman No9 L',serif; 
+  text-align:center; 
+  }
+h1 {font-size:3em; }
+h2 {font-size:2em; padding: 2%; }
+h3 {font-size:1em; }
+h4 {font-size:.8em; }
+h5 {
+  font-size:1em;  
+  font-style:italic; 
+  font-weight:lighter; 
+  }
+h6 {
+  font-size:.8em;  
+  font-style:italic; 
+  font-weight:lighter; 
+  }
+
+/*----BANNER----*/
+.banner {
+  margin: 5%;
+  padding: 0%;
+  text-align: center;
+  font-size: 3em;
+  font-weight: 800;
+  font-family:"Freestyle", cursive, Zapf-Chancery;
+  }
+
+/*----NAVIGATION----*/
+.navigation {
+  float: left; 
+  margin: 0 auto;
+  padding: 1em 0;
+  width: 20%; 
+}
+
+ul#navlist {
+text-align: left;
+list-style: none;
+padding: 0;
+margin: 0 auto;
+width: 70%;
+}
+
+ul#navlist li {
+display: block;
+margin: 0;
+padding: 0;
+}
+
+ul#navlist li a {
+display: block;
+width: 100%;
+padding: 0.5em 0 0.5em 2em;
+border-width: 1px;
+border-color: #ffe #aaab9c #ccc #fff;
+border-style: solid;
+color: #777;
+text-decoration: none;
+background: #f7f2ea;
+}
+
+.navcontainer>ul#navlist li a { width: auto; }
+
+ul#navlist li#active a {
+background: #f0e7d7;
+color: #800000;
+}
+
+ul#navlist li a:hover, ul#navlist li#active a:hover {
+color: #800000;
+background: transparent;
+border-color: #aaab9c #fff #fff #ccc;
+}
+
+/*----MAIN CONTENT----*/
+.middle_background {
+  background-image: url(iris_bg.jpg);
+  display: block;
+  margin: 5%;
+  padding: 0% 7%; 
+  border-style: ridge; 
+  border-width: 2; 
+  border-color: silver;
+  text-align: left; 
+  overflow: hidden;
+}
+
+.upper_background {
+  background-image: url(bg2.jpg);
+  display: block;
+  margin: 2% 2% 10% 2%;
+  padding: 2%;
+  text-align: left;
+  overflow: hidden;
+  width: 100%
+}
+
+.content {
+  float: left;
+  width: 70%;
+  margin: 5%;
+}
+
+.form {
+  float: left;
+  width: 70%;
+  margin: 0% 5% 10%;
+  text-align:left;
+  background:transparent;
+}
+
+/*----BOX STYLES----*/
+.decorated {
+  border-style: outset;
+  border-color: silver;
+  border-width: 2px; 
+  margin: 2%; 
+  padding-left: 115px; 
+  background-color: white; 
+  background-image: url(images/border4_110.gif); 
+  background-repeat: repeat-y; 
+  background-position: left; 
+  text-align: left;
+  display: block;
+} 
+
+.plain {
+  width: 75%;   
+  margin-left: auto;
+  margin-right: auto;
+  text-align:left;
+} 
+
+ul.plain {
+  list-style-type: none;
+}
+
+body p.attention {
+  color:fuchsia; 
+  text-decoration:blink; 
+  font-variant:small-caps; 
+  text-align:center; 
+  }
+
+img.centered, div.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+p.centered {
+  text-align: center;
+  }
+
+p.spaceafter {
+  display: block;
+  margin-bottom: 25%;
+  }
+
+p.centered_spaceafter {
+  text-align: center;
+  display: block;
+  margin-bottom: 15%;
+  }
+
+span.firstwords {
+  font-size: large;
+  color: #6F559D;
+}
+
+span.lastwords {
+  font-size: small;
+}
+
+.copyright {
+  font-size:.7em; 
+  margin:2%;
+  border-top:medium groove #ca9b07; 
+  }
+
+/*----GUESTBOOK STYLES----*/
+p.date {
+  font-family:Arial,sans-serif; 
+  text-align:center; 
+  font-weight:200;
+  font-variant:small-caps;
+  font-size:1em; padding: 2%; 
+}
+span.by {
+  font-family:cursive;
+  text-align:center; 
+  font-weight:800;
+  font-variant:normal;
+  font-size:1em; padding: 2%;
+ }
+span.body {
+  font-family:Times, serif;
+  text-align:center; 
+  font-weight:500;
+  font-variant:normal;
+  font-size:1em; padding: 2%;
+}
+ 
+
+div.row {
+  clear: both;
+  padding-top: 5px;
+  }
+
+div.row span.label {
+  float: left;
+  width: 25%;
+  text-align: right;
+  }
+
+div.row span.formw {
+  float: right;
+  width: 70%;
+  text-align: left;
+  } 
+
+div.spacer {
+  clear: both;
+  }
+
+table.centered 
+{
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+table {
+	font:normal 76%/150% "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+	border-collapse:separate;
+	border-spacing:0;
+	margin:0 0 1em;
+	color:#000;
+	background-color:#fff;
+	}
+table a {
+	text-decoration:none;
+	border-bottom:1px dotted;
+	}
+table a:hover {
+	border-bottom-style:solid;
+	}
+table a img {border:0; }
+thead th,
+thead td,
+tfoot th,
+tfoot td {
+	border:1px solid #523A0B;
+	border-width:1px 0;
+	background:#EBE5D9;
+	}
+th {
+	font-weight:bold;
+	line-height:normal;
+	padding:0.25em 0.5em;
+	text-align:center;
+	}
+tbody td {
+	padding:0.25em 0.5em;
+	text-align:left;
+	vertical-align:top;
+	}
+tbody td {
+	border:1px solid #fff;
+	border-width:1px 0;
+	}
+tbody.calendar tr.even td {
+	border-color:#EBE5D9;
+	background:#F7F4EE;
+	}
+tbody.calendar tr:hover td {
+	background:#ffffee;
+	border-color:#523A0B;
+	}
+caption {
+	font-family:Georgia,Times,serif;
+	font-weight:bold;
+	font-size:x-large;
+	text-align:center;
+	margin:0;
+	padding:0.5em 0.25em;
+	}
+tbody tr td.title{
+        text-align:center;
+        font-style:italic;
+        }    

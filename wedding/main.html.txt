@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+   <meta name="description" content="Wedding Main Page"> 
+   <meta name="DISTRIBUTION" content="IU"> 
+   <meta name="ROBOTS" content="noindex,nofollow"> 
+   <meta name="revisit-after" content="30 days"> 
+   <meta name="copyright" content="Copyright 2009 Dave Menconi, All Rights Reserved"> 
+   <meta name="author" content="Dave Menconi"> 
+   <meta name="rating" content="PG-13"> 
+	<title>Welcome</title> 
+ <link rel="stylesheet" type="text/css" href="wedding.css" />
+</head> 
+<body bgcolor="#ffffff" > 
+<div class="middle_background" >
+<p class="banner">Janine Davis and Jason Flores</p>
+
+<div class="upper_background">
+<div class="navigation" >
+<ul id="navlist">
+ <li id="active"><a class="nav" id="current" href="index.php?mode=main">Welcome</a></li>
+ <li><a class="nav" href="index.php?mode=schedule">Wedding Schedule</a></li>
+ <li><a class="nav" href="index.php?mode=maps">Maps</a></li>
+ <li><a class="nav" href="index.php?mode=registry">Gift Registries</a></li>
+ <li><a class="nav" href="index.php?mode=lodging">Lodging</a></li>
+ <li><a class="nav" href="index.php?mode=rsvp">RSVP</a></li>
+ <li><a class="nav" href="index.php?mode=guestbook">Guestbook</a></li>
+</ul>
+</div>
+
+<div class="content">
+<h2>Hello Friends and Family!</h2>
+
+<p>Welcome to our wedding website! Thank you for visiting, we hope that you'll find all the information you need about our wedding here. </p>
+
+<p>JANINE MESSAGE HERE</p>
+
+<p>We can't wait to see all of you on our Big Day!</p>
+
+<p>Lots and lots of love,
+<br />Janine and Jason</p>
+
+<p>PS: Don't forget to Sign Our Guestbook and RSVP while you're here!</p>
+
+</div>
+</div>
+</div>
+</body> 
+</html>

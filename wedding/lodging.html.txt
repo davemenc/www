@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+   <meta name="description" content="Wedding Lodging"> 
+   <meta name="DISTRIBUTION" content="IU"> 
+   <meta name="ROBOTS" content="noindex,nofollow"> 
+   <meta name="revisit-after" content="30 days"> 
+   <meta name="copyright" content="Copyright 2009 Dave Menconi, All Rights Reserved"> 
+   <meta name="author" content="Dave Menconi"> 
+   <meta name="rating" content="PG-13"> 
+	<title>Lodging</title> 
+ <link rel="stylesheet" type="text/css" href="wedding.css" />
+</head> 
+<body bgcolor="#ffffff" > 
+<div class="middle_background" >
+<p class="banner"> Janine Davis and Jason Flores</p>
+
+<div class="upper_background">
+<div class="navigation" >
+<ul id="navlist">
+ <li><a class="nav" href="index.php?mode=main">Welcome</a></li>
+ <li><a class="nav" href="index.php?mode=schedule">Wedding Schedule</a></li>
+ <li><a class="nav" href="index.php?mode=maps">Maps</a></li>
+ <li><a class="nav" href="index.php?mode=registry">Gift Registries</a></li>
+ <li id="active"><a class="nav" id="current" href="index.php?mode=lodging">Lodging</a></li>
+ <li><a class="nav" href="index.php?mode=rsvp">RSVP</a></li>
+ <li><a class="nav" href="index.php?mode=guestbook">Guestbook</a></li>
+</ul>
+</div>
+
+<div class="content">
+<img class="centered" src="what.jpg" alt="SOME IMAGE">
+<h2>Welcome !</h2>
+<hr>
+<p>For those coming from out of town "SOMETHING ABOUT HOTELS".</p>
+<!--
+<div id="weather">
+<div id="wx_module_5567">
+   <a href="http://www.weather.com/weather/local/95035">Milpitas Weather Forecast, CA (95035)</a>
+</div>
+
+<script type="text/javascript">
+
+   /* Locations can be edited manually by updating 'wx_locID' below.  Please also update */
+   /* the location name and link in the above div (wx_module) to reflect any changes made. */
+   var wx_locID = '95035';
+
+   /* If you are editing locations manually and are adding multiple modules to one page, each */
+   /* module must have a unique div id.  Please append a unique # to the div above, as well */
+   /* as the one referenced just below.  If you use the builder to create individual modules  */
+   /* you will not need to edit these parameters. */
+   var wx_targetDiv = 'wx_module_5567';
+
+   /* Please do not change the configuration value [wx_config] manually - your module */
+   /* will no longer function if you do.  If at any time you wish to modify this */
+   /* configuration please use the graphical configuration tool found at */
+   /* https://registration.weather.com/ursa/wow/step2 */
+   var wx_config='SZ=300x250*WX=FHW*LNK=SSNL*UNT=F*BGI=seasonal1*MAP=null|null*DN=menconi.com*TIER=0*PID=1153831280*MD5=2b910512972be06f09f035415cca66aa';
+
+   document.write('<scr'+'ipt src="'+document.location.protocol+'//wow.weather.com/weather/wow/module/'+wx_locID+'?config='+wx_config+'&proto='+document.location.protocol+'&target='+wx_targetDiv+'"></scr'+'ipt>');  
+</script>
+</div></!--weather -->
+
+</div><!--content-->
+</div><!--upper_background-->
+</div><!--middle_background-->
+</body> 
+</html>

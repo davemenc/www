@@ -1,0 +1,23 @@
+<html> 
+<head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+   <meta name="description" content="Wedding Site Authentication"> 
+   <meta name="DISTRIBUTION" content="IU"> 
+   <meta name="ROBOTS" content="noindex,nofollow"> 
+   <meta name="revisit-after" content="30 days"> 
+   <meta name="copyright" content="Copyright © 2009 Dave Menconi, All Rights Reserved"> 
+   <meta name="author" content="Dave Menconi"> 
+   <meta name="rating" content="PG-13"> 
+	<title>Wedding Authenticaion</title> 
+</head> 
+<body bgcolor="#ffffff" > 
+<center> 
+	<h2>Enter Passphrase (from "Save the Date" card)</h2> 
+	<form method="post" action="index.php"> 
+	<b>Passphrase: </b> <input type="text" name="passphrase" value="">
+	<input type="submit"  value="Submit">
+	<input type="hidden" name="mode" value="passphrase"> 
+</center>
+</body> 
+</html> 
+

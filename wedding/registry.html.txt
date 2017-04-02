@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+   <meta name="description" content="Wedding Registry"> 
+   <meta name="DISTRIBUTION" content="IU"> 
+   <meta name="ROBOTS" content="noindex,nofollow"> 
+   <meta name="revisit-after" content="30 days"> 
+   <meta name="copyright" content="Copyright 2009 Dave Menconi, All Rights Reserved"> 
+   <meta name="author" content="Dave Menconi"> 
+   <meta name="rating" content="PG-13"> 
+	<title>Registry</title> 
+ <link rel="stylesheet" type="text/css" href="wedding.css" />
+</head> 
+<body bgcolor="#ffffff" > 
+<div class="middle_background" >
+<p class="banner">Janine Davis and Jason Flores</p>
+
+<div class="upper_background">
+<div class="navigation" >
+<ul id="navlist">
+ <li><a class="nav" href="index.php?mode=main">Welcome</a></li>
+ <li><a class="nav" href="index.php?mode=schedule">Wedding Schedule</a></li>
+ <li><a class="nav" href="index.php?mode=maps">Maps</a></li>
+ <li id="active"><a class="nav" id="current" href="index.php?mode=registry">Gift Registries</a></li>
+ <li><a class="nav" href="index.php?mode=lodging">Lodging</a></li>
+ <li><a class="nav" href="index.php?mode=rsvp">RSVP</a></li>
+ <li><a class="nav" href="index.php?mode=guestbook">Guestbook</a></li>
+</ul>
+</div>
+
+<div class="content">
+<p>We are registered at the following stores:
+</div>
+</div>
+</div>
+</body> 
+</html>

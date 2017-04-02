@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+   <meta name="description" content="Wedding Maps"> 
+   <meta name="DISTRIBUTION" content="IU"> 
+   <meta name="ROBOTS" content="noindex,nofollow"> 
+   <meta name="revisit-after" content="30 days"> 
+   <meta name="copyright" content="Copyright 2009 Dave Menconi, All Rights Reserved"> 
+   <meta name="author" content="Dave Menconi"> 
+   <meta name="rating" content="PG-13"> 
+	<title>Maps</title> 
+ <link rel="stylesheet" type="text/css" href="wedding.css" />
+</head> 
+<body bgcolor="#ffffff" > 
+<div class="middle_background" >
+<p class="banner">Janine Davis and Jason Flores</p>
+
+<div class="upper_background">
+<div class="navigation" >
+<ul id="navlist">
+ <li><a class="nav" href="index.php?mode=main">Welcome</a></li>
+ <li><a class="nav" href="index.php?mode=schedule">Wedding Schedule</a></li>
+ <li id="active"><a class="nav" id="current" href="index.php?mode=maps">Maps</a></li>
+ <li><a class="nav" href="index.php?mode=registry">Gift Registries</a></li>
+ <li><a class="nav" href="index.php?mode=lodging">Lodging</a></li>
+ <li><a class="nav" href="index.php?mode=rsvp">RSVP</a></li>
+ <li><a class="nav" href="index.php?mode=guestbook">Guestbook</a></li>
+</ul>
+</div>
+
+<div class="content">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/d/edit?ie=UTF8&amp%3Bhl=en&amp%3Bhl=en&amp%3Bmsa=0&amp%3Bmsa=0&amp%3Bmsid=110246065039818689932.00047a5902e61f77c6543&amp%3Bmsid=110246065039818689932.00047a5902e61f77c6543&amp%3Bll=37.435365%2C-121.892988&amp%3Bll=37.435365%2C-121.892988&amp%3Bspn=0.014261%2C0.033431&amp%3Bspn=0.014261%2C0.033431&amp%3Boutput=embed%22%3E%3C%2Fiframe%3E%3Cbr%20%2F%3E%3Csmall%3EView%20%3Ca%20href%3D%22http%3A%2F%2Fmaps.google.com%2Fmaps%2Fms%3Fie%3DUTF8&amp%3Bsource=embed&mid=1WmXeFp46j4utN8_pVfq5Na-vWTg&ll=31.500205155840018%2C-92.41699249999999&z=4" style="color:#0000FF;text-align:left">VENUE</a> in a larger map</small>
+</div>
+</div>
+</div>
+</body> 
+</html>

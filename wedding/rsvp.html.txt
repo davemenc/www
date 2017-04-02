@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Janine and Jason's Wedding RSVP</title>
+
+<!-- Meta Tags -->
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+   <meta name="description" content="Wedding RSVP"> 
+   <meta name="DISTRIBUTION" content="IU"> 
+   <meta name="ROBOTS" content="noindex,nofollow"> 
+   <meta name="revisit-after" content="30 days"> 
+   <meta name="copyright" content="Copyright 2009 Dave Menconi, All Rights Reserved"> 
+   <meta name="author" content="Dave Menconi"> 
+   <meta name="rating" content="PG-13"> 
+
+<!-- CSS -->
+<link rel="stylesheet" type="text/css" href="rsvp_form.css"  />
+<link rel="stylesheet" type="text/css" href="wedding.css" />
+
+</head>
+
+<body bgcolor="#ffffff">
+<div class="middle_background" >
+<p class="banner">Janine Davis and Jason Flores</p>
+
+<div class="upper_background">
+<div class="navigation" >
+<ul id="navlist">
+ <li><a class="nav" href="index.php?mode=main">Welcome</a></li>
+ <li><a class="nav" href="index.php?mode=schedule">Wedding Schedule</a></li>
+ <li><a class="nav" href="index.php?mode=maps">Maps</a></li>
+ <li><a class="nav" href="index.php?mode=registry">Gift Registries</a></li>
+ <li><a class="nav" href="index.php?mode=lodging">Lodging</a></li>
+ <li id="active"><a class="nav" id="current" href="index.php?mode=rsvp">RSVP</a></li>
+ <li><a class="nav" href="index.php?mode=guestbook">Guestbook</a></li>
+</ul>
+</div>
+
+<div class="form">
+<form method="POST" action="http://www.menconi.com/wedding/index.php?mode=dorsvp">
+
+<div class="info">
+	<h2>Janine and Jason's Wedding RSVP</h2>
+	<h4>Please RSVP by Some Date </h4>
+</div>
+
+<ul>
+<li id="name" >
+ <label class="desc" for="realname">Your Name<span class="req">*</span></label>
+ <span><input 
+  class="field text" 
+  id="realname" 
+  name="realname" 
+  type="text" 
+  value="" 
+  size="40" 
+  tabindex="1" /></span>
+</li>
+
+<li id="email" >
+ <label class="desc" for="email">Your E-mail<span class="req">*</span></label>
+ <span><input 
+  class="field text" 
+  id="email" 
+  name="email" 
+  type="text" 
+  value="" 
+  size="40" 
+  tabindex="2" /></span>
+</li>
+
+<li id="wedding" >
+ <label class="desc" for="wedding">Attend wedding<span class="req">*</span></label>
+ <div><select
+  class="field select medium"
+  id="wedding"
+  name="wedding"
+  tabindex="3"> 
+  <option value="" selected="selected"></option>
+  <option value="Yes">Yes</option>
+  <option value="No">No</option>
+ </select>
+ </div>
+</li>
+
+<li id="guest" >
+ <label class="desc" for="guest">Are you bringing a guest?<span class="req">*</span></label>
+ <div><select
+  class="field select medium"
+  id="guest"
+  name="guest"
+  tabindex="4" > 
+  <option value="" selected="selected"></option>
+  <option value="Yes">Yes</option>
+  <option value="No">No</option>
+ </select>
+ </div>
+</li>
+
+<li id="guestname" >
+ <label class="desc" for="guestname">Guest's Name</label>
+
+ <span><input 
+  class="field text"
+  id="guestname"
+  name="guestname"
+  type="text"
+  value=""
+  size="40"
+  tabindex="5"/></span>
+</li>
+
+<li id="brunch" >
+ <label class="desc" for="brunch">Attend brunch</label>
+ <div><select
+  class="field select medium"
+  id="brunch"
+  name="brunch"
+  tabindex="7"> 
+  <option value="" selected="selected"></option>
+  <option value="Yes">Yes</option>
+  <option value="No">No</option>
+  </select></div>
+</li>
+
+<li class="buttons ">
+ <input id="saveForm" name="saveForm" class="btTxt submit" type="submit" value="Submit" />
+</li>
+
+<li style="display:none">
+ <label for="comment">Do Not Fill This Out</label>
+ <input type="hidden" id="recipient" name="recipient" value="rsvp" />
+ <input type=hidden name="subject" value="Wedding RSVP">
+ <input type="hidden" name="return_link_url" value="/index.html" >
+ <input type="hidden" name="return_link_title" value="Back to home page" >
+ <input type="hidden" name="required" value="firstname,lastname,wedding,guest" >
+ <input type="hidden" name="block_spam_bots" value="12" >
+ <textarea name="comment" id="comment" rows="1" cols="1"></textarea>
+
+</li>
+</ul>
+<p><span class="req">*</span>Required fields
+</form>
+
+</div><!--form-->
+</div><!--upper_background-->
+</div><!--middle_background-->
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+   <meta name="description" content="Wedding Site Authentication"> 
+   <meta name="DISTRIBUTION" content="IU"> 
+   <meta name="ROBOTS" content="noindex,nofollow"> 
+   <meta name="revisit-after" content="30 days"> 
+   <meta name="copyright" content="Copyright 2009 Dave Menconi, All Rights Reserved"> 
+   <meta name="author" content="Dave Menconi"> 
+   <meta name="rating" content="PG-13"> 
+	<title>Wedding Authenticaion</title> 
+</head> 
+<body>
+<h1> The Wedding of Janine and Jason</h1>
+<h2> Coming Soon To This URL</h2>
+
+<font size=+1> The staff of menconi.com (AKA Janine's parents) want to inform you that wedding information will be available soon on this web site. In the meantime this page is under construction... </br></br> Thanks.
+
+<hr>
+<a href="index.php?mode=main">Wedding Dates</a>
+<a href="index.php?mode=registry">Registry</a>
+
+</body>

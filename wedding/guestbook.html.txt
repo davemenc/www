@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Janine and Jason's Wedding guestbook</title>
+
+<!-- Meta Tags -->
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+   <meta name="description" content="Wedding Guest Book"> 
+   <meta name="DISTRIBUTION" content="IU"> 
+   <meta name="ROBOTS" content="noindex,nofollow"> 
+   <meta name="revisit-after" content="30 days"> 
+   <meta name="copyright" content="Copyright 2009 Dave Menconi, All Rights Reserved"> 
+   <meta name="author" content="Dave Menconi"> 
+   <meta name="rating" content="PG-13"> 
+
+<!-- CSS -->
+<link rel="stylesheet" type="text/css" href="guestbook_form.css"  />
+<link rel="stylesheet" type="text/css" href="wedding.css" />
+
+</head>
+
+<body bgcolor="#ffffff">
+<div class="middle_background" >
+<p class="banner">Janine Davis and Jason Flores</p>
+
+<div class="upper_background">
+<div class="navigation" >
+<ul id="navlist">
+ <li><a class="nav" href="index.php?mode=main">Welcome</a></li>
+ <li><a class="nav" href="index.php?mode=schedule">Wedding Schedule</a></li>
+ <li><a class="nav" href="index.php?mode=maps">Maps</a></li>
+ <li><a class="nav" href="index.php?mode=registry">Gift Registries</a></li>
+ <li><a class="nav" href="index.php?mode=lodging">Lodging</a></li>
+ <li id="active"><a class="nav" id="current" href="index.php?mode=rsvp">RSVP</a></li>
+ <li><a class="nav" href="index.php?mode=guestbook">Guestbook</a></li>
+</ul>
+</div>
+
+<div class="form">
+<form method="POST" action="http://www.menconi.com/wedding/index.php?mode=doguestbook">
+
+<div class="info">
+	<h2>Janine and Jason's Wedding Guestbook</h2>
+
+</div>
+
+<ul>
+<li id="name" >
+ <label class="desc" for="realname">Your Name<span class="req">*</span></label>
+ <span><input 
+  class="field text" 
+  id="realname" 
+  name="realname" 
+  type="text" 
+  value="" 
+  size="40" 
+  tabindex="1" /></span>
+</li>
+
+<li id="comment" >
+ <label class="desc" for="comment">Your Comment<span class="req">*</span></label>
+ <span><textarea 
+  class="field text" 
+  id="comment" 
+  name="comment" 
+  rows="5"
+  cols="60"
+  value="" 
+  tabindex="1" ></textarea></span>
+</li>
+
+<li class="buttons ">
+ <input id="saveForm" name="saveForm" class="btTxt submit" type="submit" value="Submit" />
+</li>
+
+
+</ul>
+<p><span class="req">*</span>Required fields
+</form>
+
+</div><!--form-->
+
+<h1>Comments</h1>
+<div class="post">
