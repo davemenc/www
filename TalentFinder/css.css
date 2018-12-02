@@ -1,0 +1,61 @@
+/* CSS Document */
+body 
+{
+position:fixed;
+font-size:16px;
+padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+}
+.firstPageListDiv
+{
+margin-left:0;
+overflow:auto;
+height:500px;
+max-height: 500px;
+overflow-x: hidden;
+}
+.firstPageListTable
+{
+margin-left:0;
+margin-top:10px;
+border-collapse:separate;
+border-spacing: 0px 25px;
+}
+.tableHover
+{
+background:'grey';
+cursor:'pointer';
+}
+.tableLeave
+{
+background:'white';
+}
+.titlePageListStyle
+{
+margin-left:0;
+margin-top:10px;
+border-collapse:separate;
+border-spacing: 0px 25px;
+}
+.titlePageDivStyle
+{
+overflow:auto;
+height:500px;
+max-height: 500px;
+}
+.textAlign
+{
+text-align:left;
+vertical-align:center;
+}
+.borders
+{
+border-bottom: solid; border-bottom-color: lightgrey; border-bottom-width: thin;
+}
+.rowStyle
+{
+background:lightgrey; 
+}
+.paddingTop
+{
+padding-top:10px;
+}

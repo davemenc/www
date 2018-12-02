@@ -36,7 +36,7 @@ debug_array("cookie",$c_data);
 if (!loc_check_auth_cookie($magic_word,0,$cookiename)){
 	debug_string("display index.html.txt");
 	Display_Template("index.html.txt",$delim="%",$values="");
-	print "<hr>$passphrase</br>";
+	//print "<hr>$passphrase</br>";
 	exit();
 }else {
 	debug_string("Cookie auth succeeded");
@@ -159,8 +159,9 @@ function is_forbidden($str,$check_all_patterns = true)
 	}
 }
 function mailform($param){
-//	print "mailform(param)<br>\n";
-	$replyemail="dorita@menconi.com"; //change to your email address
+	debug_string( "mailform(param)<br>\n");
+	debug_params($param);
+	$replyemail="dave@menconi.com"; //change to your email address
 	$valid_ref1="http://menconi.com/wedding/index.php?mode=rsvp"; //chamge to your domain name
 	$valid_ref2="http://www.menconi.com/wedding/index.php?mode=rsvp"; //chamge to your domain name
 
@@ -194,11 +195,15 @@ function mailform($param){
 		$message .= $key. ": ".$value."\n";
 
 	}
-	//print "<hr><pre>".$message."</pre><hr>";
+	debug_string("<hr><pre>".$message."</pre><hr>");
 	$name = $param["name"];
 	$email = $param["email"];
-	$thesubject = "Weddign RSVP";
+	$thesubject = "Wedding RSVP";
 	$themessage = $param["themessage"];
+	debug_string("name",$name);
+	debug_string("email",$email);
+	debug_string("thesubject",$thesubject);
+	debug_string("themessage",$themessage);
 
 	$success_sent_msg='<p align="center"><strong>&nbsp;</strong></p><p align="center"><strong>Your RSVP has been successfully sent to us.<br></p> <p align="center">Thank you for responding!.</p><p align="center"><a href="http://www.menconi.com/wedding/">Return to Main Page</a></p>';
 	$themessage = "name: $name \nQuery: $themessage";

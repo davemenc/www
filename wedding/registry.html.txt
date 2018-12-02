@@ -1,6 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
 
 <head> 
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
@@ -32,7 +30,11 @@
 </div>
 
 <div class="content">
-<p>We are registered at the following stores:
+<p>In lieu of presents, we ask that you bring food or drink to share. Please indicate what you are bringing in the RSVP.
+<P>We will be providing pizza, soda and water. 
+<P>Please DO NOT bring ANY kind of alcoholic beverages as this would be a violation of our host's liqueur license. 
+<P>We will also accept any donations to our honeymoon fund that you wish to make.
+
 </div>
 </div>
 </div>

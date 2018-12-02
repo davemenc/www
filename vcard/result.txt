@@ -1,0 +1,659 @@
+
+
+++++++++++++++++++++++++++++++
+
+BEGIN	VERSION	N	FN	ORG	EMAIL;type=INTERNET;type=WORK;type=pref	TEL;type=WORK;type=pref	item1.ADR;type=WORK;type=pref	item1.X-ABADR	NOTE	item2.URL;type=pref	item2.X-ABLabel	X-ABShowAs	CATEGORIES	X-ABUID	END	
+VCARD	3.0	Achaibou;Amy;;;	Chronicle Books	Chronicle Books;	amy_achaibou@chroniclebooks.com	415-537-4200	;;680 2nd St;San Francisco;CA;94107;	us	Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Sr Graphic Designer	www.chroniclebooks.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	DD764C5F-A141-4A1A-BB8A-81BFA4C68575\:ABPerson	VCARD	
+VCARD	3.0	McCann;James;;;	Sunset Books	Sunset Books;		650-321-3600	;;80 Willow Rd;Menlo Park;CA;94025;	us	Specialties Cooking\, Food & Wine Home & Garden\n-Art Director (AD)	www.sunset.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	11C035B4-91EB-4F8C-908D-FCA6FBEABAA6\:ABPerson	VCARD	
+VCARD	3.0	Bryce;Pat;;;	Red Wheel/Weiser	Red Wheel/Weiser;	submissions@redwheelweiser.com	415-978-2665	;;665 3rd St Ste 400;San Francisco;CA;94107;	us	Specialties Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Parenting & Families Religion & Spirituality/\nAcquisitions Editor (ED)			COMPANY	food mailing 021512,send to Dave	BFE66735-D7AD-4B22-81AB-F46D16D85BD2\:ABPerson	VCARD	
+VCARD	3.0	Hewitt;Kristen;;;	Chronicle Books	Chronicle Books;	kristen_hewitt@chroniclebooks.com	415-537-4200	;;680 2nd St;San Francisco;CA;94107;	us	Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Associate Design Director (SGD)	www.chroniclebooks.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	4859864E-F7E5-4BD3-8B4C-4BE97DD6A176\:ABPerson	VCARD	
+VCARD	3.0	Church;Kara;;;	Weldon Owen	Weldon Owen;	info@weldonowen.com		;;415 Jackson St Ste 200;San Francisco;CA;94111;	us	Specialties Children's Books Cooking\, Food & Wine Education Parenting & Families Reference\n-Art Director (AD)			COMPANY	food mailing 021512,send to Dave	4DDD1553-1C53-45F7-80FE-9DC066C3F4C8\:ABPerson	VCARD	
+VCARD	3.0	Chun;Claire;;;	Ulysses Press	Ulysses Press;	ulysses@ulyssespress.com	415-291-0100	;;PO Box 3440;Berkeley;CA;94703;	us	Production Manager (PM)	www.ulyssespress.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	C24ECD02-B05E-44D3-8C1D-F281768F6EA1\:ABPerson	VCARD	
+VCARD	3.0	Brogno;Kristine;;;	Chronicle Books	Chronicle Books;	kristine_brogno@chroniclebooks.com	415-537-4200	;;680 2nd St;San Francisco;CA;94107;	us	Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Design Director (SGD)	www.chroniclebooks.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	1CC59D39-8527-4F97-81BC-E46C567C728C\:ABPerson	VCARD	
+VCARD	3.0	Warner;Jim;;;	Red Wheel/Weiser	Red Wheel/Weiser;	submissions@redwheelweiser.com	415-978-2665	;;665 3rd St Ste 400;San Francisco;CA;94107;	us	Specialties Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Parenting & Families Religion & Spirituality/\nArt Director (AD)			COMPANY	food mailing 021512,send to Dave	D7022A9A-BFC7-48F1-A7B3-6089DD2ECF9A\:ABPerson	VCARD	
+VCARD	3.0	Riegert;Alice;;;	Ulysses Press	Ulysses Press;	aliceriegert@ulyssespress.com	415-291-0100	;;PO Box 3440;Berkeley;CA;94703;	us	Editor (ED)	www.ulyssespress.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	038A4F17-E558-42A3-9BE7-243371AC6B2E\:ABPerson	VCARD	
+VCARD	3.0	Khatid;Kate;;;	AK Press	AK Press;	kate@akpress.org	510-208-1700	;;674 23rd St Ste A\,;Oakland;CA;94612;	us	Specialties Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Parenting & Families Reference Religion & Spirituality\n-Editor (ED)	www.akpress.org	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	CC1FEE8B-EA98-49D6-AD9A-9E7F57B8ABE9\:ABPerson	VCARD	
+VCARD	3.0	Musser;Jane;;;	Seal Press	Seal Press;		510-595-3664	;;1700 4th St;Berkeley;CA;94710;	us	Specialties Cooking\, Food & Wine Education Fiction\, Non-Fiction & Biographies Health\, Mind & Body Parenting & Families Sports & Outdoors Travel\n-Production Director (PM)	www.sealpress.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	3B4F0188-9A38-4AFA-83D1-5EECC38B3991\:ABPerson	VCARD	
+VCARD	3.0	Rico;Liz;;;	Chronicle Books	Chronicle Books;		415-537-4200	;;680 2nd St;San Francisco;CA;94107;	us	Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Sr Graphic Designer	www.chroniclebooks.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	3C69B487-4B69-4489-9318-FBDC79E5C67A\:ABPerson	VCARD	
+VCARD	3.0	Glover;Molly;;;	Chronicle Books	Chronicle Books;	molly_glover@chroniclebooks.com	415-537-4200	;;680 2nd St;San Francisco;CA;94107;	us	Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Managing Editor (MED)	www.chroniclebooks.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	D4FB7726-3CFE-4D26-AFB7-18951D3E33BE\:ABPerson	VCARD	
+VCARD	3.0	Lyons;Krista;;;	Seal Press	Seal Press;		510-595-3664	;;1700 4th St;Berkeley;CA;94710;	us	Specialties Cooking\, Food & Wine Education Fiction\, Non-Fiction & Biographies Health\, Mind & Body Parenting & Families Sports & Outdoors Travel\n-Publisher (PB)	www.sealpress.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	2B6860EA-BFD3-4B1B-B967-7EC614B8A762\:ABPerson	VCARD	
+VCARD	3.0	Booth;Kelly;;;	Weldon Owen	Weldon Owen;	kellyb@weldonowen.com		;;415 Jackson St Ste 200;San Francisco;CA;94111;	us	Specialties Children's Books Cooking\, Food & Wine Education Parenting & Families Reference\n-Creative Director (CD)			COMPANY	food mailing 021512,send to Dave	122A0B53-36AC-4F2F-9F94-2C4525AD896F\:ABPerson	VCARD	
+VCARD	3.0	Tajima;Toni;;;	Ten Speed Press	Ten Speed Press;	toni.tajima@tenspeed.com	510-285-3000	;;2625 Alcatraz Ave # 505;Berkeley;CA;94705;	us	Specialties Art\, Architecture & Photography Business & Investing Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality\n-Art Director	www.tenspeed.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	12DA584F-0DC4-43F6-9B8B-CDBF5A4D00E2\:ABPerson	VCARD	
+VCARD	3.0	Harrison;Lauren;;;	Ulysses Press	Ulysses Press;	ulysses@ulyssespress.com	415-291-0100	;;PO Box 3440;Berkeley;CA;94703;	us	Editor (ED)	www.ulyssespress.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	05DC80BE-3A96-4035-BAB4-28594452AE57\:ABPerson	VCARD	
+VCARD	3.0	Hildebrand;Meghan;;;	Weldon Owen	Weldon Owen;	info@weldonowen.com		;;415 Jackson St Ste 200;San Francisco;CA;94111;	us	Specialties Children's Books Cooking\, Food & Wine Education Parenting & Families Reference\n-Photo Manager (PE)			COMPANY	food mailing 021512,send to Dave	49707C1F-DA3B-4DEC-9BEB-131BA2C57811\:ABPerson	VCARD	
+VCARD	3.0	Riegert;Ray;;;	Ulysses Press	Ulysses Press;	ulysses@ulyssespress.com	415-291-0100	;;PO Box 3440;Berkeley;CA;94703;	us	Publisher (PB)	www.ulyssespress.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	3C3D38CC-93C9-49BD-8C6E-602A2556949D\:ABPerson	VCARD	
+VCARD	3.0	Tolo-Pierce;Jennifer;;;	Chronicle Books	Chronicle Books;	jennifer_tolopierce@chroniclebooks.com	415-537-4200	;;680 2nd St;San Francisco;CA;94107;	us	Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Design Director (SGD)	www.chroniclebooks.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	96CCFBB8-84A6-4AE3-89C9-C583EDFCD03D\:ABPerson	VCARD	
+VCARD	3.0	Johnson;Jan;;;	Red Wheel/Weiser	Red Wheel/Weiser;	jjohnson@rwwbooks.com	415-978-2665	;;665 3rd St Ste 400;San Francisco;CA;94107;	us	Specialties Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Parenting & Families Religion & Spirituality/\nPublisher (PB)			COMPANY	food mailing 021512,send to Dave	2FB6EBBD-C5C2-4339-B1D5-AB22232A1ED9\:ABPerson	VCARD	
+VCARD	3.0	Amini;Christina;;;	Chronicle Books	Chronicle Books;	christina_amini@chroniclebooks.com	415-537-4200	;;680 2nd St;San Francisco;CA;94107;	us	Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Executive Editor of Formats (MED)	www.chroniclebooks.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	66D9F07F-FE5F-47F0-B5EB-9F48D4ADF6E7\:ABPerson	VCARD	
+VCARD	3.0	Dina;Vanessa;;;	Chronicle Books	Chronicle Books;	vanessa_dina@chroniclebooks.com	415-537-4200	;;680 2nd St;San Francisco;CA;94107;	us	Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Design Director (SGD)	www.chroniclebooks.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	4C62E422-86A2-4FCF-99FE-52A3FEE65195\:ABPerson	VCARD	
+VCARD	3.0	Stromberg;Betsy;;;	Ten Speed Press	Ten Speed Press;	betsy.stromberg@tenspeed.com	510-285-3000	;;2625 Alcatraz Ave # 505;Berkeley;CA;94705;	us	Specialties Art\, Architecture & Photography Business & Investing Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality\n-Art Director (AD)	www.tenspeed.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	871AD77E-974E-4EA8-961D-65CFA05B4CBE\:ABPerson	VCARD	
+VCARD	3.0	Akazawa;Aya;;;	Chronicle Books	Chronicle Books;	aya_akazawa@chroniclebooks.com	415-537-4200	;;680 2nd St;San Francisco;CA;94107;	us	Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Senior Designer	www.chroniclebooks.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	1E6536A0-3ADA-4460-A7D7-5AA8D48A71EC\:ABPerson	VCARD	
+VCARD	3.0	Boys;Emma;;;	Weldon Owen	Weldon Owen;	emmab@weldonowen.com		;;415 Jackson St Ste 200;San Francisco;CA;94111;	us	Specialties Children's Books Cooking\, Food & Wine Education Parenting & Families Reference\n-Creative Director (CD)			COMPANY	food mailing 021512,send to Dave	BBCD5AE9-A9DC-4FEA-A0C0-11F0FD27B10E\:ABPerson	VCARD	
+VCARD	3.0	Kwek;Marisa;;;	Weldon Owen	Weldon Owen;	info@weldonowen.com		;;415 Jackson St Ste 200;San Francisco;CA;94111;	us	Specialties Children's Books Cooking\, Food & Wine Education Parenting & Families Reference\n-Art Director (AD)			COMPANY	food mailing 021512,send to Dave	DB08DF6B-4026-4332-9618-BF2459F96677\:ABPerson	VCARD	
+VCARD	3.0	Reser;Abby;;;	Ulysses Press	Ulysses Press;	ulysses@ulyssespress.com	415-291-0100	;;PO Box 3440;Berkeley;CA;94703;	us	Editor (ED)	www.ulyssespress.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	3D31D80D-0936-48BC-A1C3-BACFD5BD9718\:ABPerson	VCARD	
+VCARD	3.0	Leigh;Eloise;;;	Chronicle Books	Chronicle Books;	eloise_leigh@chroniclebooks.com	415-537-4200	;;680 2nd St;San Francisco;CA;94107;	us	Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Graphic Designer (GD)	www.chroniclebooks.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	D8810229-0BC6-4A28-B3C6-EC783D65E79D\:ABPerson	VCARD	
+VCARD	3.0	Carabetta;Michael;;;	Chronicle Books	Chronicle Books;	michael_carabetta@chroniclebooks.com	415-537-4200	;;680 2nd St;San Francisco;CA;94107;	us	Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Creative Director (CD)	www.chroniclebooks.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	E16A2A53-6B4E-42AF-A21D-F867BD745021\:ABPerson	VCARD	
+VCARD	3.0	Blue;Zach;;;	AK Press	AK Press;	zach@akpress.org	510-208-1700	;;674 23rd St Ste A\, ;Oakland;CA;94612;	us	Specialties Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Parenting & Families Reference Religion & Spirituality\n-Publishing Coordinator (CS)	www.akpress.org	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	41A68300-02E4-4F42-BDEC-195F7B1FB817\:ABPerson	VCARD	
+VCARD	3.0	Austin;Nancy;;;	Ten Speed Press	Ten Speed Press;	portfolio@tenspeed.com	510-285-3000	;;2625 Alcatraz Ave # 505;Berkeley;CA;94705;	us	Specialties Art\, Architecture & Photography Business & Investing Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality\n-Creative Director (CD)	www.tenspeed.com	_$!<HomePage>!$_	COMPANY	food mailing 021512,send to Dave	28A123EE-B2DB-4773-B730-D9F850842612\:ABPerson	VCARD	
+
+
+++++++++++++++++++++++++++++++
+
+Array
+(
+    [0] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Achaibou;Amy;;;
+            [FN] => Chronicle Books
+            [ORG] => Chronicle Books;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => amy_achaibou@chroniclebooks.com
+            [TEL;type=WORK;type=pref] => 415-537-4200
+            [item1.ADR;type=WORK;type=pref] => ;;680 2nd St;San Francisco;CA;94107;
+            [item1.X-ABADR] => us
+            [NOTE] => Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Sr Graphic Designer
+            [item2.URL;type=pref] => www.chroniclebooks.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => DD764C5F-A141-4A1A-BB8A-81BFA4C68575\:ABPerson
+            [END] => VCARD
+        )
+
+    [1] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => McCann;James;;;
+            [FN] => Sunset Books
+            [ORG] => Sunset Books;
+            [TEL;type=WORK;type=pref] => 650-321-3600
+            [item1.ADR;type=WORK;type=pref] => ;;80 Willow Rd;Menlo Park;CA;94025;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Cooking\, Food & Wine Home & Garden\n-Art Director (AD)
+            [item2.URL;type=pref] => www.sunset.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 11C035B4-91EB-4F8C-908D-FCA6FBEABAA6\:ABPerson
+            [END] => VCARD
+        )
+
+    [2] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Bryce;Pat;;;
+            [FN] => Red Wheel/Weiser
+            [ORG] => Red Wheel/Weiser;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => submissions@redwheelweiser.com
+            [TEL;type=WORK;type=pref] => 415-978-2665
+            [item1.ADR;type=WORK;type=pref] => ;;665 3rd St Ste 400;San Francisco;CA;94107;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Parenting & Families Religion & Spirituality/\nAcquisitions Editor (ED)
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => BFE66735-D7AD-4B22-81AB-F46D16D85BD2\:ABPerson
+            [END] => VCARD
+        )
+
+    [3] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Hewitt;Kristen;;;
+            [FN] => Chronicle Books
+            [ORG] => Chronicle Books;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => kristen_hewitt@chroniclebooks.com
+            [TEL;type=WORK;type=pref] => 415-537-4200
+            [item1.ADR;type=WORK;type=pref] => ;;680 2nd St;San Francisco;CA;94107;
+            [item1.X-ABADR] => us
+            [NOTE] => Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Associate Design Director (SGD)
+            [item2.URL;type=pref] => www.chroniclebooks.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 4859864E-F7E5-4BD3-8B4C-4BE97DD6A176\:ABPerson
+            [END] => VCARD
+        )
+
+    [4] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Church;Kara;;;
+            [FN] => Weldon Owen
+            [ORG] => Weldon Owen;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => info@weldonowen.com
+            [item1.ADR;type=WORK;type=pref] => ;;415 Jackson St Ste 200;San Francisco;CA;94111;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Children's Books Cooking\, Food & Wine Education Parenting & Families Reference\n-Art Director (AD)
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 4DDD1553-1C53-45F7-80FE-9DC066C3F4C8\:ABPerson
+            [END] => VCARD
+        )
+
+    [5] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Chun;Claire;;;
+            [FN] => Ulysses Press
+            [ORG] => Ulysses Press;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => ulysses@ulyssespress.com
+            [TEL;type=WORK;type=pref] => 415-291-0100
+            [item1.ADR;type=WORK;type=pref] => ;;PO Box 3440;Berkeley;CA;94703;
+            [item1.X-ABADR] => us
+            [NOTE] => Production Manager (PM)
+            [item2.URL;type=pref] => www.ulyssespress.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => C24ECD02-B05E-44D3-8C1D-F281768F6EA1\:ABPerson
+            [END] => VCARD
+        )
+
+    [6] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Brogno;Kristine;;;
+            [FN] => Chronicle Books
+            [ORG] => Chronicle Books;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => kristine_brogno@chroniclebooks.com
+            [TEL;type=WORK;type=pref] => 415-537-4200
+            [item1.ADR;type=WORK;type=pref] => ;;680 2nd St;San Francisco;CA;94107;
+            [item1.X-ABADR] => us
+            [NOTE] => Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Design Director (SGD)
+            [item2.URL;type=pref] => www.chroniclebooks.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 1CC59D39-8527-4F97-81BC-E46C567C728C\:ABPerson
+            [END] => VCARD
+        )
+
+    [7] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Warner;Jim;;;
+            [FN] => Red Wheel/Weiser
+            [ORG] => Red Wheel/Weiser;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => submissions@redwheelweiser.com
+            [TEL;type=WORK;type=pref] => 415-978-2665
+            [item1.ADR;type=WORK;type=pref] => ;;665 3rd St Ste 400;San Francisco;CA;94107;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Parenting & Families Religion & Spirituality/\nArt Director (AD)
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => D7022A9A-BFC7-48F1-A7B3-6089DD2ECF9A\:ABPerson
+            [END] => VCARD
+        )
+
+    [8] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Riegert;Alice;;;
+            [FN] => Ulysses Press
+            [ORG] => Ulysses Press;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => aliceriegert@ulyssespress.com
+            [TEL;type=WORK;type=pref] => 415-291-0100
+            [item1.ADR;type=WORK;type=pref] => ;;PO Box 3440;Berkeley;CA;94703;
+            [item1.X-ABADR] => us
+            [NOTE] => Editor (ED)
+            [item2.URL;type=pref] => www.ulyssespress.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 038A4F17-E558-42A3-9BE7-243371AC6B2E\:ABPerson
+            [END] => VCARD
+        )
+
+    [9] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Khatid;Kate;;;
+            [FN] => AK Press
+            [ORG] => AK Press;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => kate@akpress.org
+            [TEL;type=WORK;type=pref] => 510-208-1700
+            [item1.ADR;type=WORK;type=pref] => ;;674 23rd St Ste A\,;Oakland;CA;94612;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Parenting & Families Reference Religion & Spirituality\n-Editor (ED)
+            [item2.URL;type=pref] => www.akpress.org
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => CC1FEE8B-EA98-49D6-AD9A-9E7F57B8ABE9\:ABPerson
+            [END] => VCARD
+        )
+
+    [10] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Musser;Jane;;;
+            [FN] => Seal Press
+            [ORG] => Seal Press;
+            [TEL;type=WORK;type=pref] => 510-595-3664
+            [item1.ADR;type=WORK;type=pref] => ;;1700 4th St;Berkeley;CA;94710;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Cooking\, Food & Wine Education Fiction\, Non-Fiction & Biographies Health\, Mind & Body Parenting & Families Sports & Outdoors Travel\n-Production Director (PM)
+            [item2.URL;type=pref] => www.sealpress.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 3B4F0188-9A38-4AFA-83D1-5EECC38B3991\:ABPerson
+            [END] => VCARD
+        )
+
+    [11] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Rico;Liz;;;
+            [FN] => Chronicle Books
+            [ORG] => Chronicle Books;
+            [TEL;type=WORK;type=pref] => 415-537-4200
+            [item1.ADR;type=WORK;type=pref] => ;;680 2nd St;San Francisco;CA;94107;
+            [item1.X-ABADR] => us
+            [NOTE] => Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Sr Graphic Designer
+            [item2.URL;type=pref] => www.chroniclebooks.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 3C69B487-4B69-4489-9318-FBDC79E5C67A\:ABPerson
+            [END] => VCARD
+        )
+
+    [12] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Glover;Molly;;;
+            [FN] => Chronicle Books
+            [ORG] => Chronicle Books;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => molly_glover@chroniclebooks.com
+            [TEL;type=WORK;type=pref] => 415-537-4200
+            [item1.ADR;type=WORK;type=pref] => ;;680 2nd St;San Francisco;CA;94107;
+            [item1.X-ABADR] => us
+            [NOTE] => Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Managing Editor (MED)
+            [item2.URL;type=pref] => www.chroniclebooks.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => D4FB7726-3CFE-4D26-AFB7-18951D3E33BE\:ABPerson
+            [END] => VCARD
+        )
+
+    [13] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Lyons;Krista;;;
+            [FN] => Seal Press
+            [ORG] => Seal Press;
+            [TEL;type=WORK;type=pref] => 510-595-3664
+            [item1.ADR;type=WORK;type=pref] => ;;1700 4th St;Berkeley;CA;94710;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Cooking\, Food & Wine Education Fiction\, Non-Fiction & Biographies Health\, Mind & Body Parenting & Families Sports & Outdoors Travel\n-Publisher (PB)
+            [item2.URL;type=pref] => www.sealpress.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 2B6860EA-BFD3-4B1B-B967-7EC614B8A762\:ABPerson
+            [END] => VCARD
+        )
+
+    [14] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Booth;Kelly;;;
+            [FN] => Weldon Owen
+            [ORG] => Weldon Owen;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => kellyb@weldonowen.com
+            [item1.ADR;type=WORK;type=pref] => ;;415 Jackson St Ste 200;San Francisco;CA;94111;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Children's Books Cooking\, Food & Wine Education Parenting & Families Reference\n-Creative Director (CD)
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 122A0B53-36AC-4F2F-9F94-2C4525AD896F\:ABPerson
+            [END] => VCARD
+        )
+
+    [15] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Tajima;Toni;;;
+            [FN] => Ten Speed Press
+            [ORG] => Ten Speed Press;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => toni.tajima@tenspeed.com
+            [TEL;type=WORK;type=pref] => 510-285-3000
+            [item1.ADR;type=WORK;type=pref] => ;;2625 Alcatraz Ave # 505;Berkeley;CA;94705;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Art\, Architecture & Photography Business & Investing Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality\n-Art Director
+            [item2.URL;type=pref] => www.tenspeed.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 12DA584F-0DC4-43F6-9B8B-CDBF5A4D00E2\:ABPerson
+            [END] => VCARD
+        )
+
+    [16] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Harrison;Lauren;;;
+            [FN] => Ulysses Press
+            [ORG] => Ulysses Press;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => ulysses@ulyssespress.com
+            [TEL;type=WORK;type=pref] => 415-291-0100
+            [item1.ADR;type=WORK;type=pref] => ;;PO Box 3440;Berkeley;CA;94703;
+            [item1.X-ABADR] => us
+            [NOTE] => Editor (ED)
+            [item2.URL;type=pref] => www.ulyssespress.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 05DC80BE-3A96-4035-BAB4-28594452AE57\:ABPerson
+            [END] => VCARD
+        )
+
+    [17] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Hildebrand;Meghan;;;
+            [FN] => Weldon Owen
+            [ORG] => Weldon Owen;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => info@weldonowen.com
+            [item1.ADR;type=WORK;type=pref] => ;;415 Jackson St Ste 200;San Francisco;CA;94111;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Children's Books Cooking\, Food & Wine Education Parenting & Families Reference\n-Photo Manager (PE)
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 49707C1F-DA3B-4DEC-9BEB-131BA2C57811\:ABPerson
+            [END] => VCARD
+        )
+
+    [18] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Riegert;Ray;;;
+            [FN] => Ulysses Press
+            [ORG] => Ulysses Press;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => ulysses@ulyssespress.com
+            [TEL;type=WORK;type=pref] => 415-291-0100
+            [item1.ADR;type=WORK;type=pref] => ;;PO Box 3440;Berkeley;CA;94703;
+            [item1.X-ABADR] => us
+            [NOTE] => Publisher (PB)
+            [item2.URL;type=pref] => www.ulyssespress.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 3C3D38CC-93C9-49BD-8C6E-602A2556949D\:ABPerson
+            [END] => VCARD
+        )
+
+    [19] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Tolo-Pierce;Jennifer;;;
+            [FN] => Chronicle Books
+            [ORG] => Chronicle Books;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => jennifer_tolopierce@chroniclebooks.com
+            [TEL;type=WORK;type=pref] => 415-537-4200
+            [item1.ADR;type=WORK;type=pref] => ;;680 2nd St;San Francisco;CA;94107;
+            [item1.X-ABADR] => us
+            [NOTE] => Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Design Director (SGD)
+            [item2.URL;type=pref] => www.chroniclebooks.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 96CCFBB8-84A6-4AE3-89C9-C583EDFCD03D\:ABPerson
+            [END] => VCARD
+        )
+
+    [20] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Johnson;Jan;;;
+            [FN] => Red Wheel/Weiser
+            [ORG] => Red Wheel/Weiser;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => jjohnson@rwwbooks.com
+            [TEL;type=WORK;type=pref] => 415-978-2665
+            [item1.ADR;type=WORK;type=pref] => ;;665 3rd St Ste 400;San Francisco;CA;94107;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Parenting & Families Religion & Spirituality/\nPublisher (PB)
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 2FB6EBBD-C5C2-4339-B1D5-AB22232A1ED9\:ABPerson
+            [END] => VCARD
+        )
+
+    [21] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Amini;Christina;;;
+            [FN] => Chronicle Books
+            [ORG] => Chronicle Books;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => christina_amini@chroniclebooks.com
+            [TEL;type=WORK;type=pref] => 415-537-4200
+            [item1.ADR;type=WORK;type=pref] => ;;680 2nd St;San Francisco;CA;94107;
+            [item1.X-ABADR] => us
+            [NOTE] => Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Executive Editor of Formats (MED)
+            [item2.URL;type=pref] => www.chroniclebooks.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 66D9F07F-FE5F-47F0-B5EB-9F48D4ADF6E7\:ABPerson
+            [END] => VCARD
+        )
+
+    [22] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Dina;Vanessa;;;
+            [FN] => Chronicle Books
+            [ORG] => Chronicle Books;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => vanessa_dina@chroniclebooks.com
+            [TEL;type=WORK;type=pref] => 415-537-4200
+            [item1.ADR;type=WORK;type=pref] => ;;680 2nd St;San Francisco;CA;94107;
+            [item1.X-ABADR] => us
+            [NOTE] => Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Design Director (SGD)
+            [item2.URL;type=pref] => www.chroniclebooks.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 4C62E422-86A2-4FCF-99FE-52A3FEE65195\:ABPerson
+            [END] => VCARD
+        )
+
+    [23] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Stromberg;Betsy;;;
+            [FN] => Ten Speed Press
+            [ORG] => Ten Speed Press;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => betsy.stromberg@tenspeed.com
+            [TEL;type=WORK;type=pref] => 510-285-3000
+            [item1.ADR;type=WORK;type=pref] => ;;2625 Alcatraz Ave # 505;Berkeley;CA;94705;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Art\, Architecture & Photography Business & Investing Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality\n-Art Director (AD)
+            [item2.URL;type=pref] => www.tenspeed.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 871AD77E-974E-4EA8-961D-65CFA05B4CBE\:ABPerson
+            [END] => VCARD
+        )
+
+    [24] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Akazawa;Aya;;;
+            [FN] => Chronicle Books
+            [ORG] => Chronicle Books;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => aya_akazawa@chroniclebooks.com
+            [TEL;type=WORK;type=pref] => 415-537-4200
+            [item1.ADR;type=WORK;type=pref] => ;;680 2nd St;San Francisco;CA;94107;
+            [item1.X-ABADR] => us
+            [NOTE] => Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Senior Designer
+            [item2.URL;type=pref] => www.chroniclebooks.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 1E6536A0-3ADA-4460-A7D7-5AA8D48A71EC\:ABPerson
+            [END] => VCARD
+        )
+
+    [25] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Boys;Emma;;;
+            [FN] => Weldon Owen
+            [ORG] => Weldon Owen;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => emmab@weldonowen.com
+            [item1.ADR;type=WORK;type=pref] => ;;415 Jackson St Ste 200;San Francisco;CA;94111;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Children's Books Cooking\, Food & Wine Education Parenting & Families Reference\n-Creative Director (CD)
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => BBCD5AE9-A9DC-4FEA-A0C0-11F0FD27B10E\:ABPerson
+            [END] => VCARD
+        )
+
+    [26] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Kwek;Marisa;;;
+            [FN] => Weldon Owen
+            [ORG] => Weldon Owen;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => info@weldonowen.com
+            [item1.ADR;type=WORK;type=pref] => ;;415 Jackson St Ste 200;San Francisco;CA;94111;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Children's Books Cooking\, Food & Wine Education Parenting & Families Reference\n-Art Director (AD)
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => DB08DF6B-4026-4332-9618-BF2459F96677\:ABPerson
+            [END] => VCARD
+        )
+
+    [27] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Reser;Abby;;;
+            [FN] => Ulysses Press
+            [ORG] => Ulysses Press;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => ulysses@ulyssespress.com
+            [TEL;type=WORK;type=pref] => 415-291-0100
+            [item1.ADR;type=WORK;type=pref] => ;;PO Box 3440;Berkeley;CA;94703;
+            [item1.X-ABADR] => us
+            [NOTE] => Editor (ED)
+            [item2.URL;type=pref] => www.ulyssespress.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 3D31D80D-0936-48BC-A1C3-BACFD5BD9718\:ABPerson
+            [END] => VCARD
+        )
+
+    [28] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Leigh;Eloise;;;
+            [FN] => Chronicle Books
+            [ORG] => Chronicle Books;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => eloise_leigh@chroniclebooks.com
+            [TEL;type=WORK;type=pref] => 415-537-4200
+            [item1.ADR;type=WORK;type=pref] => ;;680 2nd St;San Francisco;CA;94107;
+            [item1.X-ABADR] => us
+            [NOTE] => Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Graphic Designer (GD)
+            [item2.URL;type=pref] => www.chroniclebooks.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => D8810229-0BC6-4A28-B3C6-EC783D65E79D\:ABPerson
+            [END] => VCARD
+        )
+
+    [29] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Carabetta;Michael;;;
+            [FN] => Chronicle Books
+            [ORG] => Chronicle Books;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => michael_carabetta@chroniclebooks.com
+            [TEL;type=WORK;type=pref] => 415-537-4200
+            [item1.ADR;type=WORK;type=pref] => ;;680 2nd St;San Francisco;CA;94107;
+            [item1.X-ABADR] => us
+            [NOTE] => Art\, Architecture & Photography Children's Books Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality Teens Travel/ Creative Director (CD)
+            [item2.URL;type=pref] => www.chroniclebooks.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => E16A2A53-6B4E-42AF-A21D-F867BD745021\:ABPerson
+            [END] => VCARD
+        )
+
+    [30] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Blue;Zach;;;
+            [FN] => AK Press
+            [ORG] => AK Press;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => zach@akpress.org
+            [TEL;type=WORK;type=pref] => 510-208-1700
+            [item1.ADR;type=WORK;type=pref] => ;;674 23rd St Ste A\, ;Oakland;CA;94612;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Parenting & Families Reference Religion & Spirituality\n-Publishing Coordinator (CS)
+            [item2.URL;type=pref] => www.akpress.org
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 41A68300-02E4-4F42-BDEC-195F7B1FB817\:ABPerson
+            [END] => VCARD
+        )
+
+    [31] => Array
+        (
+            [BEGIN] => VCARD
+            [VERSION] => 3.0
+            [N] => Austin;Nancy;;;
+            [FN] => Ten Speed Press
+            [ORG] => Ten Speed Press;
+            [EMAIL;type=INTERNET;type=WORK;type=pref] => portfolio@tenspeed.com
+            [TEL;type=WORK;type=pref] => 510-285-3000
+            [item1.ADR;type=WORK;type=pref] => ;;2625 Alcatraz Ave # 505;Berkeley;CA;94705;
+            [item1.X-ABADR] => us
+            [NOTE] => Specialties Art\, Architecture & Photography Business & Investing Cooking\, Food & Wine Fiction\, Non-Fiction & Biographies Health\, Mind & Body Home & Garden Parenting & Families Religion & Spirituality\n-Creative Director (CD)
+            [item2.URL;type=pref] => www.tenspeed.com
+            [item2.X-ABLabel] => _$!<HomePage>!$_
+            [X-ABShowAs] => COMPANY
+            [CATEGORIES] => food mailing 021512,send to Dave
+            [X-ABUID] => 28A123EE-B2DB-4773-B730-D9F850842612\:ABPerson
+            [END] => VCARD
+        )
+
+)

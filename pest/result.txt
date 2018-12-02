@@ -1,0 +1,214 @@
+<pre>test.xml
+
+&lt;plans
+    expand="plans"&gt;
+   &lt;link
+       rel="self"
+       href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan" /&gt;
+   &lt;plans
+       expand="plan"
+       size="410"
+       max-result="25"
+       start-index="0"&gt;
+      &lt;plan
+          enabled="true"
+          name="Audio - Sound Stream EX"
+          key="AUDIO-SOUNDSTREAMEX"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/AUDIO-SOUNDSTREAMEX" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="true"
+          name="AVCAP - DEVNET-RC"
+          key="AVCAP-DEVNETRC"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/AVCAP-DEVNETRC" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="true"
+          name="AVCAP - RC"
+          key="AVCAP-RC"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/AVCAP-RC" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="false"
+          name="AVCAP - UI"
+          key="AVCAP-UI"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/AVCAP-UI" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="true"
+          name="AVCAP - WIP"
+          key="AVCAP-WIP"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/AVCAP-WIP" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="true"
+          name="CATWALK - loopback_agent"
+          key="CATWALK-LOOPBACKAGENT"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/CATWALK-LOOPBACKAGENT" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="true"
+          name="CATWALK - WIP"
+          key="CATWALK-WIP"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/CATWALK-WIP" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="true"
+          name="Crash Recorder - SCEI"
+          key="CRASHRECORDER-SCEI"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/CRASHRECORDER-SCEI" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="false"
+          name="Crash Recorder - WIP"
+          key="CRASHRECORDER-WIP"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/CRASHRECORDER-WIP" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="true"
+          name="DART - RC SysTest Win2008 64bit"
+          key="DART-RCSYSWIN200864"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/DART-RCSYSWIN200864" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="false"
+          name="DART - RC SysTest Win7 64bit"
+          key="DART-RCSYSWIN764"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/DART-RCSYSWIN764" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="false"
+          name="DART - RC SysTest WinXP 32bit"
+          key="DART-RCSYSWINXP32"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/DART-RCSYSWINXP32" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="true"
+          name="DART - RCSYS COMPILE"
+          key="DART-RCSYS"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/DART-RCSYS" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="true"
+          name="DART - RCSYS WIN PREP"
+          key="DART-RCSYSWINPREP"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/DART-RCSYSWINPREP" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="false"
+          name="DART - RCSYS WIN2008 32"
+          key="DART-RCSYSWIN200832"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/DART-RCSYSWIN200832" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="false"
+          name="DART - RCSYS WIN7 32"
+          key="DART-RCSYSWIN732"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/DART-RCSYSWIN732" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="false"
+          name="DART - RCSYS WIN7 64 JA"
+          key="DART-RCSYSWIN764JA"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/DART-RCSYSWIN764JA" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="false"
+          name="DART - RCSYS WINXP 64"
+          key="DART-RCSYSWINXP64"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/DART-RCSYSWINXP64" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="false"
+          name="DART - RCSYS WINXP 64 JA"
+          key="DART-RCSYSWINXP64JA"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/DART-RCSYSWINXP64JA" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="true"
+          name="DART - RELEASE"
+          key="DART-RELEASE"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/DART-RELEASE" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="true"
+          name="DART - RR2"
+          key="DART-RR2"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/DART-RR2" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="false"
+          name="DART - Sonar-Release"
+          key="DART-SONARRELEASE"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/DART-SONARRELEASE" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="true"
+          name="DART - WIP"
+          key="DART-WIP"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/DART-WIP" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="true"
+          name="Diagnostic - Diagnostic"
+          key="DIAG-DIAG"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/DIAG-DIAG" /&gt;
+      &lt/plan&gt;
+      &lt;plan
+          enabled="true"
+          name="libcrashreport.net - WIP libcrashreport.net"
+          key="LIBCRASHREPORTNET-WIPLIBCRASHREPORTNET"&gt;
+         &lt;link
+             rel="self"
+             href="http://bamboo1.ship.scea.com/bamboo/rest/api/latest/plan/LIBCRASHREPORTNET-WIPLIBCRASHREPORTNET" /&gt;
+      &lt/plan&gt;
+   &lt/plans&gt;
+&lt/plans&gt;</pre>

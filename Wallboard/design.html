@@ -1,0 +1,33 @@
+<html>
+<head>
+	<LINK href="stylesheet.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>Wallboard URL Management Design</h1>
+<P>There are 4 wallboards in our office. We will arbitrarily call them, One (nearst the door), Two (next to it), Three (main room, farthest from the kitchen) and Four (nearest to the kitchen). One and Two are for fun stuff as employees goe in and out. One is reserved exclusively for video. Two is for URLs that are fun (like XKCD), useful (like traffic and weather) or both (like the pictures from the latest activities). Three and Four are used for Useful Information only -- stuff that might be helpful such as the status of the build server or the count down to some event.
+
+<P>It is expected that all but One (which only has videos) will use a browser and display a series of URLs. There will be a list of URLs which will be given certain attributes. Eventually the URLs will be managed by a web site. The attributes will determine which URLs go on which wallboards, what URLs can be displayed together and so forth.
+
+<P>
+The list of urls will include the following attributes:
+<ol>
+<LI>IDX (an index number)
+<LI>URL (fully qualified uri)
+<LI>Type (S|F|B corresponds to Serious, Fun, Both)
+<LI>Time (A|P|B corresponds to Morning, Afternoon or both)
+<LI>Shape (1|2|3|4 corresponds to 1/4 screen, 1/2 horizontal, 1/2 vertical, whole)
+<LI>Duration (0|# corresponds to either the default or # of seconds)
+<LI>Venue (1|1|2|3|4 where 0 means "any" and 1-4 overrides other calculations) Note: if you put 0 then "type" determines it.
+<li>Active (Y|N) If it's "N" then we just ignore this. It's a way of deleting things without throwing away all the info.
+<li>Note (anything you want)
+</ol>
+<p>The first line will be a header line with the headers separated by tabs: IDX URL Type Time Shape Duration Venue Active Note
+
+<p>From this we figure out our subset for this screen for this minute.
+For example, for time, only those for this hour will be displayed.
+<P>Importance applies to default site, screens in room only get serious, screens in hallway only get fun, both get both)
+importance only applies if site is 0, site value overrides importance.
+</body>
+</html>
+
+

@@ -1,0 +1,243 @@
+Wake up!  Someone's robbin' the store!
+
+
+Today's Monday Morning Tickler: Shoe Store Swindle
+
+Speed test.  Put on your thinking cap, pull out your stopwatch,
+see how fast you can untie the facts in this shoe store swindle.
+
+Today you manage a small shoe store.  You pay $15 for a pair of
+shoes; you turn around and sell the shoes for $21.  These are fancy
+shoes, you bet.
+
+Some guy walks into the store to buy the shoes.  He gives you a $50
+bill.  You don't have exact change, so you walk next door to the ice
+cream shoppe, getting $50 in smaller bills, and you come back to
+give the guy his change and the shoes.  Later, the ice cream shoppe
+owner tells you sadly that the $50 bill was a fake so now he's
+screwed.  You decide to give the guy a break and split the damage so
+you give $25 in cash to the ice cream shoppe.
+
+So.  Exactly how much did the shoe store gain or lose?
+
+Hints and answer below.
+
+$19
+
+-----------------
+The goat problems are math problems, yes, but you can solve them
+in other ways.  My challenge for you today is to solve the easy
+goat problem, no matter what you have to do to solve it, using math
+or not.  Let's say that you HAVE to solve it, somehow, no matter
+how costly or crazy the solution.  You must solve this one for us,
+goat herder Dave!  You can do it!
+
+Yes, today you are a goat herder.  You have two goats, and a circular
+field with tasty grass.  Each goat has to get half of the grass.  You
+have to figure out how to do this.
+
+You have only two tools: a stake, and a tether.  The stake currently
+is driven into the exact center of the circular field, but you can
+move it wherever you want if you want.  You can size the tether to
+any length.
+
+For example, if you left the stake alone and made the tether the
+radius of the field, a tethered goat would be able to get at all of
+the grass, right?  If you made the tether half of the radius, the
+tethered goat would get much less than half of the field.
+
+Somehow, you have to figure out what to do with your two goats, plus
+your stake and tether, in this circular field, to make sure that
+each goat gets half.  Good luck.
+
+Hard goat problem:  Imagine the same circular field of grass, but
+the goat is tethered to the outer edge of the field.  Using math,
+figure out precisely how long would you have to make the tether to
+allow the goat to eat exactly half of the grass.
+
+radius divided by the square root of two
+
+-------------------------
+
+Ready to spring into action this morning?  I've got a job that
+requires a steady hand...
+
+
+Today's Monday Morning Tickler: A Slinky and a Ladder
+
+Consider the slinky.  This toy is simply a long thin metal spring,
+which you can get to walk down stairs and do all sorts of tricks.
+We used to stretch one out and twang it like a guitar string, with
+one end touching a microphone, to make weird sound effects.
+
+So, today you've got a slinky and a ladder.  You climb the ladder
+and hold out the slinky, which you begin to lower by releasing the
+coils, slowly and gently, until the entire slinky is dangling in
+space, suspended only by your grip on the topmost coil.  Then you
+hold everything as still as you can, waiting for the slinky to
+settle down.  Wait for it ...  wait ... now LET GO!
+
+What happens?  What does the slinky do?
+
+Try to answer this before you read the hints.  Think about it.  What
+will the slinky do?
+
+Hints and answer below.
+
+Top plummets while bottom holds still
+
+--------------
+Last month, Tommy and I decided that we were going to take a trip north to see the foliage. Tommy drove the first 40 miles. I drove the rest of the way. We looked at the foliage for three or four minutes, then decided to head home.
+
+We took the same route home.
+
+On the way back, Tommy drove the first leg of the trip and I drove the last 50 miles.
+
+I got home and my wife said, "Who did the driving?"
+
+I explained that Tommy drove the first 40 miles, then I drove the rest of the way. On the way back, Tommy drove the first leg of the trip, and I drove the last 50 miles.
+
+She said, "But who did most of the driving?"
+
+I told her, "You can figure it out. In fact, you can even figure out how much more of the driving was done by that person."
+
+And that's the question. Who drove the most -- and how many more miles did that person drive?
+
+How many more miles did I drive? 20 miles.
+
+--------------------------------
+I planted five rows of four trees each." His little third grader, wanting to show off her new found skills with the multiplication table, says, "You planted 20 trees, Daddy!"
+
+He says, "No, I'm sorry, you little twerp. That's wrong. I planted 10 trees." She responds, "That's impossible!"
+
+The dad responds, "No, it isn't, and here's a hint: If you look at one of the math or history test papers that your teacher has returned to you recently, you're going to find the answer."
+
+The little girl sits there and thinks for a minute, and then she says, "I've got it!"
+
+What did she find on her paper that gave her the answer?
+
+Think you know? Drop Ray a note!
+What the little girl finds on her paper is something that you often find on graded papers from your third-grade teacher. At the top of the page is a star. And if you draw a five-pointed star, and you put a tree at every intersection point and a tree at every vertex, you end up with 10 trees, right?
+----------------------------------------
+This puzzler is from my "ceiling light" series. Imagine, if you will, that you have a long, long corridor that stretches out as far as the eye can see. In that corridor, attached to the ceiling are lights that are operated with a pull cord.
+
+There are gazillions of them, as far as the eye can see. Let's say there are 20,000 lights in a row.
+
+They're all off. Somebody comes along and pulls on each of the chains, turning on each one of the lights. Another person comes right behind, and pulls the chain on every second light.
+
+TOM: Thereby turning off lights 2, 4, 6, 8 and so on.
+
+RAY: Right. Now, a third person comes along and pulls the cord on every third light. That is, lights number 3, 6, 9, 12, 15, etcetera. Another person comes along and pulls the cord on lights number 4, 8, 12, 16 and so on. Of course, each person is turning on some lights and turning other lights off.
+
+If there are 20,000 lights, at some point someone is going to come skipping along and pull every 20,000th chain.
+
+When that happens, some lights will be on, and some will be off. Can you predict which lights will be on?
+So, which lamps remain on? All those represented by a number with an odd number of factors. And those are, are you ready for this? Light bulbs 1, 4, 9, 16, 25, 36, etc.
+
+--------------------------
+One day, son number two presented me with a list of numbers and he said, "These numbers are different. There's something special about them." Here are the numbers:
+
+Four, Six, Twelve, Thirty, Thirty Three, Thirty Six, Forty, Forty Five, Fifty, Fifty Four, Fifty Six, Sixty, Seventy, Eighty One, Eighty Eight, Ninety, and a Hundred.
+
+Now there are no other numbers between one and a hundred inclusive that share this same characteristic. There's something unusual about these numbers that son number two figured out. And I'll give you an additional hint that order does not matter. The best hint is that he determined that these numbers should be on the list perhaps from his homework assignment.
+
+What is special about this list of numbers?
+Each one of them is evenly divisible by the number of letters in its English spelling
+
+----------------------------------------
+You're driving past a high school parking lot on a fine spring afternoon in Our Fair City, watching the kids try to do wheelies with their parents' station wagons. You happen to notice a car with an interesting license plate. It reads TAN 270. What make of car is it attached to?
+
+Think you know? Drop Ray a note!
+Here's the answer. The car was an Infiniti. "TAN 270" refers to the tangent of 270, and the tangent of 270 is undefined-infinite. (Got it right? Excellent! Why not splurge and reward yourself with a new pocket protector?)
+----------------------
+Amanda buys a nice used Toyota Camry and adds a glue-on digital clock, new floor mats, and fuzzy dice. The next day, the engine won't crank. After several attempts, the car finally starts. This pattern repeats-sometimes the car starts right up, and sometimes it takes several tries.
+
+Desperate, Amanda goes to a dealership. Going against years of rigorous training, the dealer fixes the problem without charging her. They tell her it was caused by something she bought after she got the car. What was it? 
+car mat
+-------------------
+Many years ago, when the British upper crust traveled to what was then the colony of India, they went by ship. (British Airways hadn't been invented yet.) If they were sufficiently wealthy, they would ask for a stateroom on the port, or left, side of the vessel on the way to India.
+
+On the trip home to Merrie Olde England, they would ask for accommodations on the starboard, or right, side. Out of this peculiar custom, a word was invented. What was that word?
+-------
+why are manhole covers round
+------------
+why was the "peace sign"  (two fingers held in a v) created
+Agincourt
+
+(richard nixon, WWII, WWI, peace in vietnam)
+
+------------
+At some point the history of drag racing someone put bicycle tires on the front of the car. As the race and the cares continued to evolve the tires couldn't hold air and finished each race flat. Why?
+Correct: the valves opened because the wheels were turning so fast
+The heat increased the pressure and blew out the tires
+the cars became too heavy and blew the tires
+the surface of the track became much rougher and the tires couldn't hold up
+the speed was so great that small rocks or holes on the track would dent the rims and let the air out
+
+------------
+How many gifts, in total, did I receive during the Twelve Days of Christmas - according to the song?
+correct: 364
+144
+------------
+ABCDEFGHIJKMNOPQRSTUVWXYZ
+No L
+-----------------
+After visiting my Great Aunt Anne, I travelled home in her old jalopy. The car was old and battered, it had a leak from the petrol tank, and I was stuck in second gear.
+
+?This meant that I could only travel along at a steady 30 miles per hour and managed a paltry 20 miles per gallon of fuel.
+
+At the start of the journey I had placed exactly 10 gallons of fuel into the tank. I knew though, that the fuel tank lost fuel at the rate of half a gallon per hour.
+
+Just as I arrived home, the car stopped because it had run out of fuel and I had only just made it.
+
+How far was it from my Great Aunt's to my home?
+150
+-----------------
+A rope swing hangs vertically down so that the end is 12 inches from the ground, and 48 inches from the tree.
+
+If the swing is pulled across so that it touches the tree, it is 20 inches from the ground.
+
+How long is the rope? 
+148
+------------------------------
+Michael made a cake, in the shape of a perfect cube, for 64 guests at a recent party. The inside of the cake was sponge, and he iced the cake with red icing. He of course did not ice the bottom of the cake.
+
+?Michael cut each side of the cake into four equal pieces, making a total of 64 pieces of cake. Each exactly the same size.
+
+How many of the pieces of cake had at least 2 of their sides with icing?
+
+24
+(12,8,32,9)
+---------------------------
+
+In the illustration we have a sketch of Sir Edwyn de Tudor going to rescue his lady-love, the fair Isabella, who was held a captive by a neighbouring wicked baron. Sir Edwyn calculated that if he rode fifteen miles an hour he would arrive at the castle an hour too soon, while if he rode ten miles an hour he would get there just an hour too late. Now, it was of the first importance that he should arrive at the exact time appointed, in order that the rescue that he had planned should be a success, and the time of the tryst was five o'clock, when the captive lady would be taking her afternoon tea. The puzzle is to discover exactly how far Sir Edwyn de Tudor had to ride. 
+60
+----------------------------
+What value of * makes the following correct: 
+*/* - */2 + */4 = 12
+
+3
+--------------------------
+The ages of Tommy, his mother and his father add up to 70 years. His father is 6 time as old as he is. When tommy is half as old as his father their 3 ages will add up to exactly 140. How old is his mother?
+29 years 2 months
+-----------------
+What is half of two plus two?
+Either 2 or 3 depending on whether the initial two is halved first.
+-----------------
+Exactly how many minutes is it before seven o'clock, if 40 minutes ago it was three times as many minutes past two o'clock? 
+65 minutes.
+-----------------
+A family photo contained:
+
+    one grandfather, one grandmother,
+    two fathers, two mothers,
+    six children, four grandchildren,
+    two brothers, two sisters,
+    three sons, three daughters,
+    one father-in-law, one mother-in-law, one daughter-in-law. 
+
+29 people you may think, but no! What is the fewest number of people that could have been in the photo? 
+
+8
+---------------------
+

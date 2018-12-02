@@ -1,0 +1,2 @@
+Todo
+as a developer, I can deterine what album track and artist a file beloongs to

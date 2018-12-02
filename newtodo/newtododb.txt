@@ -1,0 +1,40 @@
+
+create database if not exists newtododb;
+use newtododb;
+
+drop table if exists newtodo;
+
+create table newtodo (
+id int not null auto_increment primary key,
+url tinytext,
+title tinytext,
+importance int,
+active bool,
+ts timestamp 
+);
+
+insert into newtodo (url,title,importance,active) value ('3dprinting.html','3D Printing','0','0');
+insert into newtodo (url,title,importance,active) value ('Dummy.html','Television','0','0');
+insert into newtodo (url,title,importance,active) value ('arduino.html','Arduino','0','0');
+insert into newtodo (url,title,importance,active) value ('distilling.html','Distilling','10','1');
+insert into newtodo (url,title,importance,active) value ('fitness.html','Fitness','0','0');
+insert into newtodo (url,title,importance,active) value ('iPhone.html','Learn to use iPhone','0','0');
+insert into newtodo (url,title,importance,active) value ('infusion.html','Infusion Book And Pictures','30','1');
+insert into newtodo (url,title,importance,active) value ('instructable.html','Instructables','0','0');
+insert into newtodo (url,title,importance,active) value ('interactive.html','Interactive Video','0','0');
+insert into newtodo (url,title,importance,active) value ('metatodo.html','ToDo List Infrastructure','50','1');
+insert into newtodo (url,title,importance,active) value ('robacchus.html','Robot Bar Tender Software','20','1');
+insert into newtodo (url,title,importance,active) value ('service.html','Service In Prisons','0','0');
+insert into newtodo (url,title,importance,active) value ('spiritual.html','Spiritual Journey','0','0');
+insert into newtodo (url,title,importance,active) value ('stocktrading.html','Stock Trading','10','1');
+insert into newtodo (url,title,importance,active) value ('stripper.html','Stripper Book','30','1');
+insert into newtodo (url,title,importance,active) value ('welding.html','Welding Projects ','0','0');
+insert into newtodo (url,title,importance,active) value ('indiegame.html','Indie Conference','30','1');
+insert into newtodo (url,title,importance,active) value ('https://docs.google.com/document/d/1_U4Wz5O_APHOeve7bF3ZAqtm0ZRFSV2LyL0AGdUFleQ/edit?usp=sharing','Gratitude','30','1');
+insert into newtodo (url,title,importance,active) value ('stl.html','parsing stl files','10','1');
+insert into newtodo (url,title,importance,active) value ('laser.html','Laser Business','30','1');
+
+
+ select left(url,20) as URL,title,importance,active from newtodo where active=1 order by importance desc, title;
+ select url,title,importance,active from newtodo where active=0 order by title;
+

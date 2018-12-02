@@ -1,0 +1,62 @@
+use redwall;
+drop table if exists wwweights;
+create table wwweights(
+	id int unsigned not null primary key auto_increment,
+	user_id int default 0,
+	weight float,
+	month int default 0,
+	year int default 2012,
+	created datetime default null,
+	modified  timestamp
+);
+insert into wwweights (user_id,weight,month,year,created) values 
+	(1,267,12,2010,now()),
+	(1,272,1,2011,now()),
+	(1,263.5,2,2011,now()),
+	(1,268.5,3,2011,now()),
+	(1,270,4,2011,now()),
+	(1,272,5,2011,now()),
+	(1,276,6,2011,now()),
+	(1,263,7,2011,now()),
+	(1,261.2,10,2011,now()),
+	(1,260.5,11,2011,now()),
+	(34,183,12,2010,now()),
+	(34,183,1,2011,now()),
+	(34,183,2,2011,now()),
+	(34,183,3,2011,now()),
+	(34,183,4,2011,now()),
+	(34,183,10,2011,now()),
+	(34,183,11,2011,now()),
+	(34,183,12,2011,now()),
+	(28,212,12,2010,now()),
+	(28,214,1,2011,now()),
+	(28,209.5,2,2011,now()),
+	(28,212,4,2011,now()),
+	(29,200.5,12,2010,now()),
+	(29,195.5,1,2011,now()),
+	(29,195.5,2,2011,now()),
+	(33,231,12,2010,now()),
+	(33,235,1,2011,now()),
+	(33,238,2,2011,now()),
+	(33,235,4,2011,now()),
+	(33,241,10,2011,now()),
+	(33,241,11,2011,now()),
+	(33,234.5,12,2011,now());
+	
+drop table if exists wwactive;
+create table wwactive(
+	user_id int,
+	paid tinyint,
+	created datetime default null,
+	modified  timestamp
+);
+insert into wwactive
+	(user_id,paid,created) values
+	(1,1,now()),(28,0,now()),(29,0,now()),(33,0,now()),(34,0,now());
+	
+select id,username,name,paid from rwuser,wwactive where id=user_id;	
+
+select username,name,paid,weight, month,year from rwuser,wwactive,wwweights where rwuser.id=wwactive.user_id and rwuser.id=wwweights.user_id ;
+
+#=CONCATENATE("('";H1;"','";A1;"','";I1;"','";J1;"','";b1;"',now(),now()),")
+

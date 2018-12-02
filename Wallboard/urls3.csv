@@ -1,0 +1,11 @@
+IDX,URL,Type,Time,Shape,Duration,Venue,Active,Note
+2,http://platform.share.scea.com/wallboard/yourpage.html,F,B,4,0,0,N,
+80,http://www.zerocater.com/sony/,F,B,4,0,0,y,
+100,http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:94404.1.99999,F,B,4,0,0,Y,
+120,http://www.sfbaytraffic.info/,F,B,4,0,0,N,
+140,http://slashdot.org/,F,B,4,0,0,Y,
+200,http://technewstube.com/site/ars-technica/,F,B,4,0,0,Y,
+260,http://wiki.ship.scea.com/confluence/display/WWSNEWS/Home,F,B,4,0,0,N,
+270,http://www.sigalert.com/Map.asp?lat=37.548801&lon=-122.312401&z=1#lat=37.57718&lon=-122.10272&z=1,f,b,4,0,0,Y,
+280,http://platform.share.scea.com/wallboard/three/truck.html,f,b,4,0,0,N,
+500,http://central.playstation.sony.com/news-events/events/index.htm,B,B,4,0,0,Y,"Event Page From Central"

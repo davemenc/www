@@ -1,0 +1,277 @@
+/* WhyWeight CSS */
+/* by Dorita Menconi 2012 */
+
+/*----MAIN BODY----*/
+body {
+  padding: 0px;
+  margin: 0px;
+  color: #000000;
+  background:repeat;
+  background-image: url(misc286.jpg);
+  font-family: Times, "Times New Roman", serif; 
+  font-size: medium; 
+  text-align:left; 
+  font-weight:normal; 
+  }
+
+div, h1, h2, h3, h4, h5, h6 {
+  padding: 0px;
+  margin: 0px;
+  clear: both;
+}
+
+img {
+  padding: 0px;
+  margin: 2%; 
+}
+
+p {
+  margin: 2% 5%; 
+  color: #000000;
+  text-align: left;
+}
+
+ul {
+  margin: 0% 4%;
+  color: #000000;
+  text-align: left;
+}
+
+body a:link {color:#009999; }
+body a:visited {color:#ca9b07; }
+body a:focus {color:#ca9b07; }
+body a:hover {color:#cc0033; }
+body a:active {color:#cc0000; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family:helvetica, arial, sans-serif; 
+  text-align:center; 
+  }
+h1 {font-size:3em; }
+h2 {font-size:2em; padding: 2%; }
+h3 {font-size:1em; }
+h4 {font-size:.8em; }
+h5 {
+  font-size:1em;  
+  font-style:italic; 
+  font-weight:lighter; 
+  }
+h6 {
+  font-size:.8em;  
+  font-style:italic; 
+  font-weight:lighter; 
+  }
+
+/*----TOP BANNER----*/
+.banner {
+  margin:0%;
+  padding:1% 5%;
+  height:auto;
+  text-align:center;
+  font-family:Arial, Helvetica, sans-serif;
+  background-image:url(images/bkgd_banner.jpg);
+  }
+
+.banner img {
+  float: left; 
+  margin: 5px 3% 0 0;
+  height: 140px;
+  }
+
+#title  {font-size: xx-large; }
+
+/*----NAVIGATION----*/
+.links {
+  text-align:center;
+  font-family: arial, sans-serif; 
+  font-size: x-small;
+  padding: 1%;
+  clear: left; 
+  border-top: thin groove #ca9b07;
+  border-bottom: thin groove #ca9b07;  
+  height: auto;
+  margin-bottom: 2%; 
+}
+
+a.links, a.links:link, a.links:visited {
+  color: #009999; 
+  background: #cccccc;
+  }
+
+a.links:hover {
+  color:#ffffff; 
+  background:#cc0033;
+  }
+
+a.links:active {
+  color:#ffffff; 
+  background:#cc0000;
+  }
+
+
+/*----BOX STYLES----*/
+.decorated {
+  border-style: outset;
+  border-color: silver;
+  border-width: 2px; 
+  margin: 2%; 
+  padding-left: 115px; 
+  background-color: white; 
+  background-image: url(images/border4_110.gif); 
+  background-repeat: repeat-y; 
+  background-position: left; 
+  text-align: left;
+  display: block;
+} 
+
+.plain {
+  width: 75%;   
+  margin-left: auto;
+  margin-right: auto;
+  text-align:left;
+} 
+
+/*----BOX STYLES----*/
+ul.plain {
+  list-style-type: none;
+}
+
+#attention {
+  color:red;
+  font-size:larger;
+ }
+
+img.centered, div.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+img.floatLeft { 
+    float: left; 
+    margin: 2%; 
+}
+
+img.floatRight { 
+    float: right; 
+    margin: 2%; 
+}
+
+p.centered {
+  text-align: center;
+  }
+
+.pageinfo {
+  clear:both;
+  font-size:.7em; 
+  margin:2%;
+  border-top:thin groove #ca9b07; 
+  }
+
+.section {clear:both; }
+
+.signature{
+  font-family:"Lucida Calligraphy", fantasy; font-size:1.2em; 
+  text-align:center; 
+  }
+
+#byline {
+  text-align: center; 
+  font-size: x-small;  
+  font-style: italic; 
+  font-weight: lighter; 
+}
+
+div.two-column-layout {
+  margin: 0.5em 12px 0.5em 12px; 
+  padding: 0; 
+  text-align: center; 
+  width: auto;
+  }
+  
+div.row {
+  clear: both;
+  padding-top: 5px;
+  }
+  
+div.row span.col1 {
+  float: left;
+  width: 70%;
+  text-align: center;
+  }
+  
+div.row span.col2 {
+  float: right;
+  width: 20%;
+  text-align: center;
+  } 
+
+div.spacer {
+  clear: both;
+  }
+
+div#statstable {
+  display: block;
+  }
+
+table.centered {
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+table {
+	font:normal 76%/150% "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+	border-collapse:separate;
+	border-spacing:0;
+	margin:0 0 1em;
+	color:#000;
+	background-color:#fff;
+	}
+table a {
+	text-decoration:none;
+	border-bottom:1px dotted;
+	}
+table a:hover {
+	border-bottom-style:solid;
+	}
+table a img {border:0; }
+thead th,
+thead td,
+tfoot th,
+tfoot td {
+	border:1px solid #523A0B;
+	border-width:1px 0;
+	background:#EBE5D9;
+	}
+th {
+	font-weight:bold;
+	line-height:normal;
+	padding:0.25em 0.5em;
+	text-align:center;
+	}
+tbody td {
+	padding:0.25em 0.5em;
+	text-align:left;
+	vertical-align:top;
+	}
+tbody td {
+	border:1px solid #fff;
+	border-width:1px 0;
+	}
+tbody.calendar tr.even td {
+	border-color:#EBE5D9;
+	background:#F7F4EE;
+	}
+tbody.calendar tr:hover td {
+	background:#ffffee;
+	border-color:#523A0B;
+	}
+caption {
+	font-family:Georgia,Times,serif;
+	font-weight:bold;
+	font-size:large;
+	text-align:center;
+	margin:0;
+	padding:0.5em 0.25em;
+	}
+

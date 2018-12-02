@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html>
+<head>
+			<title>Game Credit Form</title>
+<meta charset="UTF-8">
+	<link rel="stylesheet" href="form.css" type="text/css">
+
+</head>
+
+<body			 onload="placeFocus()"
+	 id="com-atlassian-confluence" class="theme-default ">
+
+<fieldset>
+		<div>
+			<label for="team_member">Your Name</label>
+			<select id="team_member" name="team_member">
+				<option value="">Select</option>
+				<option value="Barrueto, Will">Barrueto, Will</option>
+				<option value="Beckus, Alan">Beckus, Alan</option>
+				<option value="Betbeder, Laurent">Betbeder, Laurent</option>
+				<option value="Biaggi, Andrea">Biaggi, Andrea</option>
+				<option value="Breindel, Joshua">Breindel, Joshua</option>
+				<option value="Brunk, Christina">Brunk, Christina</option>
+				<option value="Charley, Keith">Charley, Keith</option>
+				<option value="Davidson, Alex">Davidson, Alex</option>
+				<option value="Elliott, Max">Elliott, Max</option>
+				<option value="Friedman, David">Friedman, David</option>
+				<option value="Gupta, Karan">Gupta, Karan</option>
+				<option value="Hackett, Becket">Hackett, Becket</option>
+				<option value="Harron, Vince">Harron, Vince</option>
+				<option value="Hiebert, Garin">Hiebert, Garin</option>
+				<option value="Hind, Nicky">Hind, Nicky</option>
+				<option value="Horan, Gerard">Horan, Gerard</option>
+				<option value="Inscore, Jim">Inscore, Jim</option>
+				<option value="Iwami, Yoshiko">Iwami, Yoshiko</option>
+				<option value="Kamity, Krishna">Kamity, Krishna</option>
+				<option value="Kim, Sonya">Kim, Sonya</option>
+				<option value="Knowles, Sage">Knowles, Sage</option>
+				<option value="Langford, Jacob">Langford, Jacob</option>
+				<option value="Lee, Brandon">Lee, Brandon</option>
+				<option value="Lerner, Ned">Lerner, Ned</option>
+				<option value="Little, Ron">Little, Ron</option>
+				<option value="Lowenthal, Amber">Lowenthal, Amber</option>
+				<option value="Madson, Matthew">Madson, Matthew</option>
+				<option value="Mahony, Matt">Mahony, Matt</option>
+				<option value="Mansfield, Patrick">Mansfield, Patrick</option>
+				<option value="Meissen, John">Meissen, John</option>
+				<option value="Menconi, Dave">Menconi, Dave</option>
+				<option value="Mikami, Kenny">Mikami, Kenny</option>
+				<option value="Moore, Jillian">Moore, Jillian</option>
+				<option value="Morris, Jesse">Morris, Jesse</option>
+				<option value="Narayanan, Amit">Narayanan, Amit</option>
+				<option value="Nguyen, Hai">Nguyen, Hai</option>
+				<option value="Nicholson, Charles">Nicholson, Charles</option>
+				<option value="O'Leary, Patrick">O'Leary, Patrick</option>
+				<option value="Povey, Rob">Povey, Rob</option>
+				<option value="Rosenberg, Alex">Rosenberg, Alex</option>
+				<option value="Rossman, Jason">Rossman, Jason</option>
+				<option value="Shen, Jianhua">Shen, Jianhua</option>
+				<option value="Simpson, Nannette">Simpson, Nannette</option>
+				<option value="Sivertson, Matt">Sivertson, Matt</option>
+				<option value="Skibitzke, Paul">Skibitzke, Paul</option>
+				<option value="Spencer, Michael">Spencer, Michael</option>
+				<option value="Sproul, James">Sproul, James</option>
+				<option value="Thaler, Drew">Thaler, Drew</option>
+				<option value="Thompson, John">Thompson, John</option>
+				<option value="Trevillian, Tod">Trevillian, Tod</option>
+				<option value="Udasco, John">Udasco, John</option>
+				<option value="Uy, Ricky">Uy, Ricky</option>
+				<option value="Vogelsang, Carlo">Vogelsang, Carlo</option>
+				<option value="Volpe, Dan">Volpe, Dan</option>
+				<option value="Winant, Brian">Winant, Brian</option>
+				<option value="Wong, Justin">Wong, Justin</option>
+				<option value="Young, Jason">Young, Jason</option>
+				<option value="NAMENOTLISTED">My Name's Not On The List</option>
+			</select>
+		</div>
+
+Your Name (if not on the list): <input type="text" name="firstname" />
+
+
+
+		<table>
+			<thead>
+				<tr>
+					<th>Game</th>
+					<th>TNT Project</th>
+					<th>Year</th>
+					<th>Evidence</th>
+				</tr>
+			</thead>
+			<tbody>
+			<?php
+				for ($i = 0; $i < 5; $i++)
+				{
+			?>
+				<tr <?php if ($i % 2 == 0) echo 'class="alt"'; ?>>
+					<td>
+						<select name="days" id="days_<?php echo $i ?>">
+							<option value="">Select</option>
+<option value="1"  >.deTuned</option>
+<option value="2"  >AFRIKA</option>
+<option value="3"  >Ape Escape</option>
+<option value="4"  >Aquanaut's Holiday</option>
+<option value="5"  >ATV Offroad Fury</option>
+<option value="6"  >Bad Sheep</option>
+<option value="7"  >Battle Sport</option>
+<option value="8"  >Beats</option>
+<option value="9"  >BIND</option>
+<option value="10"  >Bite Hell 2000</option>
+<option value="11"  >Blast Factor</option>
+<option value="12"  >BLEACH HEAT</option>
+<option value="13"  >Buzz!</option>
+<option value="14"  >Champions of Time</option>
+<option value="15"  >Crash Commando</option>
+<option value="16"  >Dark Mist</option>
+<option value="17"  >Datura</option>
+<option value="18"  >Dead Nation</option>
+<option value="19"  >Demon's Souls</option>
+<option value="20"  >Derby Time Online</option>
+<option value="21"  >Destroy All Heroes</option>
+<option value="22"  >Dominion</option>
+<option value="23"  >Dragoon Gear</option>
+<option value="24"  >dress</option>
+<option value="25"  >Eat Them!</option>
+<option value="26"  >Eater</option>
+<option value="27"  >Eccentric Slider</option>
+<option value="28"  >Echochrome</option>
+<option value="29"  >Ecomania</option>
+<option value="30"  >Eight Days</option>
+<option value="31"  >Elefunk</option>
+<option value="32"  >Enkaku Sousa</option>
+<option value="33"  >Everybody's Golf</option>
+<option value="34"  >Everyday Shooter</option>
+<option value="35"  >EyePet</option>
+<option value="36"  >Fat Princess PS3 PSN</option>
+<option value="37"  >Feel for Two</option>
+<option value="38"  >Fling!</option>
+<option value="39"  >Flower</option>
+<option value="40"  >Freewar</option>
+<option value="41"  >Gareki no sekai PSN</option>
+<option value="42"  >God of War</option>
+<option value="43"  >Graffiti World</option>
+<option value="44"  >Gran Turismo</option>
+<option value="45"  >Gravite</option>
+<option value="46"  >Gravity Crash</option>
+<option value="47"  >Haguruma-Jo</option>
+<option value="48"  >Hand And Island</option>
+<option value="49"  >Heavenly Sword 2</option>
+<option value="50"  >Heavy Rain</option>
+<option value="51"  >HEIMEN SEKAI</option>
+<option value="52"  >High Velocity Bowling</option>
+<option value="53"  >HIME to MONPEI</option>
+<option value="54"  >Home</option>
+<option value="55"  >Hustle Kings</option>
+<option value="56"  >Hyakumanton no barabara </option>
+<option value="57"  >Infamous</option>
+<option value="58"  >Invizimals</option>
+<option value="59"  >IQ Mania</option>
+<option value="60"  >i-Sports</option>
+<option value="61"  >Jak & Daxter</option>
+<option value="62"  >Jigen Kairou</option>
+<option value="63"  >JUSEI TO DIAMOND</option>
+<option value="64"  >Killzone</option>
+<option value="65"  >LEVIATHAN</option>
+<option value="66"  >Lightbox 2</option>
+<option value="67"  >Linger in Shadows</option>
+<option value="68"  >Litron </option>
+<option value="69"  >LittleBigPlanet</option>
+<option value="70"  >LocoRoco</option>
+<option value="71"  >MAG</option>
+<option value="72"  >Magnets</option>
+<option value="73"  >Mainichiissho</option>
+<option value="74"  >Media Vision Entertainment Project</option>
+<option value="75"  >Minnya no Putter GOLF</option>
+<option value="76"  >MLBModNation Racers</option>
+<option value="77"  >Motion Party</option>
+<option value="78"  >MotorStorm</option>
+<option value="79"  >My Stylist Next</option>
+<option value="80"  >My Summer Vacation</option>
+<option value="81"  >NBA</option>
+<option value="82"  >PAGE ZERO COMICS</option>
+<option value="83"  >PAIN</option>
+<option value="84"  >PATAPON</option>
+<option value="85"  >Pinball Hereoes</option>
+<option value="86"  >PixelJunk Dungeon</option>
+<option value="87"  >PixelJunk Eden</option>
+<option value="88"  >PixelJunk Monsters</option>
+<option value="89"  >PixelJunk Shooter</option>
+<option value="90"  >Piyotama</option>
+<option value="91"  >Project HM</option>
+<option value="92"  >Project S2</option>
+<option value="93"  >Project Smileboom </option>
+<option value="94"  >Project T1</option>
+<option value="95"  >Project TRICO</option>
+<option value="96"  >Puppeteer</option>
+<option value="97"  >QRUTON</option>
+<option value="98"  >Rag Doll Kung Fu</option>
+<option value="99"  >Ratchet and Clank</option>
+<option value="100"  >Resistance</option>
+<option value="101"  >REX</option>
+<option value="102"  >Riders</option>
+<option value="103"  >Robocalypse</option>
+<option value="104"  >Ruins Explorer</option>
+<option value="105"  >SandLand </option>
+<option value="106"  >Savage Moon</option>
+<option value="107"  >Shiki-tei</option>
+<option value="108"  >Shoot</option>
+<option value="109"  >Sing And Draw</option>
+<option value="110"  >SingStar</option>
+<option value="111"  >SIREN</option>
+<option value="112"  >Sixense Action Sports</option>
+<option value="113"  >Sniper</option>
+<option value="114"  >SOCOM</option>
+<option value="115"  >Sorcery</option>
+<option value="116"  >Sound Shapes</option>
+<option value="117"  >Space</option>
+<option value="118"  >Stamp</option>
+<option value="119"  >STAR STRIKE</option>
+<option value="120"  >Starhawk</option>
+<option value="121"  >Stockholm</option>
+<option value="122"  >SUJI-ZAN</option>
+<option value="123"  >Super Rub a Dub</option>
+<option value="124"  >SUPER SENSORY </option>
+<option value="125"  >Super Stardust</option>
+<option value="126"  >Taiboku no Chiisanajuunintachi</option>
+<option value="127"  >Talkman Travel</option>
+<option value="128"  >The Eye of Judgement</option>
+<option value="129"  >The Getaway</option>
+<option value="130"  >The Journey</option>
+<option value="131"  >The Last Guy</option>
+<option value="132"  >The Unfinished Swan</option>
+<option value="133"  >theBlock</option>
+<option value="134"  >TOKYO JUNGLE </option>
+<option value="135"  >Toro to Morimori</option>
+<option value="136"  >Tower</option>
+<option value="137"  >Trash Panic</option>
+<option value="138"  >TRICKxLOGIC</option>
+<option value="139"  >TV Superstars</option>
+<option value="140"  >Twisted Metal</option>
+<option value="141"  >Uncharted</option>
+<option value="142"  >Until Dawn</option>
+<option value="143"  >VidZone</option>
+<option value="144"  >Warhawk</option>
+<option value="145"  >White Knight Chronicles</option>
+<option value="146"  >Wipeout</option>
+<option value="147"  >World Festival</option>
+<option value="148"  >Xam'd</option>
+<option value="149"  >Zombie</option>
+						</select>
+					</td>
+					<td>
+						<select name="tnt_project" id="tnt_project_<?php echo $i ?>">
+							<option value="">Select</option>
+							<option value="ATF">ATF</option>
+							<option value="ATF Level Editor">ATF Level Editor</option>
+							<option value="ATF Metrics">ATF Metrics</option>
+							<option value="ATF SLED/LUA">ATF SLED/LUA</option>
+							<option value="ATF StateMachine">ATF StateMachine</option>
+							<option value="Audio">Audio</option>
+							<option value="Audio BRB / Codecs">Audio BRB / Codecs</option>
+							<option value="Audio Compression">Audio Compression</option>
+							<option value="Audio iMat">Audio iMat</option>
+							<option value="Audio Adv. DSP">Audio Adv. DSP</option>
+							<option value="Audio Scream RT">Audio Scream RT</option>
+							<option value="Audio Scream Tool">Audio Scream Tool</option>
+							<option value="Audio Streamer">Audio Streamer</option>
+							<option value="Devkits">Devkits</option>
+							<option value="Dialog Tool">Dialog Tool</option>
+							<option value="Docs">Docs</option>
+							<option value="DTE">DTE</option>
+							<option value="DTE AVCAP">DTE AVCAP</option>
+							<option value="DTE BinXML">DTE BinXML</option>
+							<option value="DTE DART">DTE DART</option>
+							<option value="DTE Recap">DTE Recap</option>
+							<option value="DTE Support">DTE Support</option>
+							<option value="DTE SyncLaunch">DTE SyncLaunch</option>
+							<option value="Dtrace">Dtrace</option>
+							<option value="FIOS">FIOS</option>
+							<option value="G&A">G&A</option>
+							<option value="GameTech">GameTech</option>
+							<option value="GTC">GTC</option>
+							<option value="Imogen">Imogen</option>
+							<option value="Japanese Translation">Japanese Translation</option>
+							<option value="LiveConnect">LiveConnect</option>
+							<option value="LiveEdit">LiveEdit</option>
+							<option value="LLVM">LLVM</option>
+							<option value="LLVM Buildbot">LLVM Buildbot</option>
+							<option value="LLVM Clang Analyzer">LLVM Clang Analyzer</option>
+							<option value="LLVM Clang compat">LLVM Clang compat</option>
+							<option value="LLVM Improvements">LLVM Improvements</option>
+							<option value="LLVM Linker">LLVM Linker</option>
+							<option value="LLVM A9 compiler">LLVM A9 compiler</option>
+							<option value="LLVM A9 linker">LLVM A9 linker</option>
+							<option value="News">News</option>
+							<option value="NGP">NGP</option>
+							<option value="Orbis">Orbis</option>
+							<option value="Shazam">Shazam</option>
+							<option value="SHIP">SHIP</option>
+							<option value="SHIP Alfresco">SHIP Alfresco</option>
+							<option value="SHIP Bamboo/CI">SHIP Bamboo/CI</option>
+							<option value="SHIP Confluence">SHIP Confluence</option>
+							<option value="SHIP Jira/Greenhopper">SHIP Jira/Greenhopper</option>
+							<option value="SHIP Portal">SHIP Portal</option>
+							<option value="SHIP SCMs">SHIP SCMs</option>
+							<option value="SHIP Search/Fisheye">SHIP Search/Fisheye</option>
+							<option value="SHIP SourceForge">SHIP SourceForge</option>
+							<option value="SHIP SSO / LDAP">SHIP SSO / LDAP</option>
+							<option value="SHIP Support">SHIP Support</option>
+							<option value="SHIP SysEng">SHIP SysEng</option>
+							<option value="SHIP User Directory">SHIP User Directory</option>
+							<option value="SHIP WSR">SHIP WSR</option>
+							<option value="SystemTech">SystemTech</option>
+							<option value="WWS Content">WWS Content</option>
+							<option value="WWS SDK">WWS SDK</option>
+							<option value="Zeus">Zeus</option>
+						</select>
+					</td>
+					<td>
+						<select name="year" id="year_<?php echo $i ?>">
+							<option value="">Select</option>
+							<option value="2005">2005</option>
+							<option value="2006">2006</option>
+							<option value="2007">2007</option>
+							<option value="2008">2008</option>
+							<option value="2009">2009</option>
+							<option value="2010">2010</option>
+							<option value="2011">2011</option>
+							<option value="2012">2012</option>
+							<option value="2013">2013</option>
+						</select>
+					</td>
+					<td>
+ <input type="text" name="evidence" size=80 />
+</td>
+				</tr>
+			<?php
+				}
+			?>
+			</tbody>
+		</table>
+
+		<div class="formActions">
+			<input type="submit" value="Submit" />
+		</div>
+	</fieldset>
+
+</body>
+</html>

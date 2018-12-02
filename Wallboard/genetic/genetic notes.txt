@@ -1,0 +1,8 @@
+1) function which chooses a gene arbitrarily from those that have the minimum rating
+Thus, we find the gene with the lowest number of ratings and then get the list of genes with that number of ratings and have that rated.
+
+2 genrate a bunch of genes
+
+3 mate genes
+
+close out a generation

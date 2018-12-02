@@ -1,0 +1,87 @@
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="description" content="Standings">
+   <meta name="">
+   <meta name="DISTRIBUTION" content="IU">
+   <meta name="ROBOTS" content="noindex,nofollow">
+   <meta name="revisit-after" content="30 days">
+   <meta name="copyright" content="Copyright Ã© 2012 Dave Menconi, All Rights Reserved">
+
+   <meta name="author" content="Dave Menconi">
+
+   <meta name="rating" content="PG-13">
+    <Title>Standings</title>
+	
+   <link rel="stylesheet" type="text/css" href="WhyWeight.css" />
+</head>
+
+<body bgcolor="#ffffffff" >
+
+  <div class="banner">
+   <span id="title">Why Weight</span>
+
+  </div>
+  
+  <div class="links">
+    <a href="index.php?mode=market">Back To The WhyWeight Page</a>
+  </div>
+  
+<table border="1">
+<caption>Public Standings</caption>
+<thead>
+<th>Player</th><th>December</th><th>January</th><th>February</th><th>March</th><th>April</th><th>May</th><th>June</th><th>July</th><th>August</th><th>September</th><th>October</th><th>November</th><th>December</th></tr></thead><tr><td>Dave Menconi</td><td>267</td>
+
+<td>272 | 5 | 1.9%</td>
+<td>263.5 | -8.5 | -3.1%</td>
+<td>268.5 | 5 | 1.9%</td>
+<td>270 | 1.5 | 0.6%</td>
+<td>272 | 2 | 0.7%</td>
+<td>276 | 4 | 1.5%</td>
+<td>263 | -13 | -4.7%</td>
+<td>&nbsp;</td><td>&nbsp;</td><td>261.2 | -1.8 | -0.7%</td>
+<td>260.5 | -0.7 | -0.3%</td>
+
+<td>&nbsp;</td></tr>
+<tr><td>Kurt</td><td>212</td>
+<td>214 | 2 | 0.9%</td>
+<td>209.5 | -4.5 | -2.1%</td>
+<td>&nbsp;</td><td>212 | 2.5 | 1.2%</td>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Sabrina Nelson</td><td>200.5</td>
+<td>195.5 | -5 | -2.5%</td>
+<td>195.5 | 0 | 0%</td>
+
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Mike Edwards</td><td>231</td>
+<td>235 | 4 | 1.7%</td>
+<td>238 | 3 | 1.3%</td>
+<td>&nbsp;</td><td>235 | -3 | -1.3%</td>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>241 | 6 | 2.6%</td>
+<td>241 | 0 | 0%</td>
+<td>234.5 | -6.5 | -2.7%</td>
+</tr>
+
+<tr><td>Dorita Menconi</td><td>183</td>
+<td>182 | -1 | -0.5%</td>
+<td>183 | 1 | 0.5%</td>
+<td>183 | 0 | 0%</td>
+<td>183 | 0 | 0%</td>
+<td>180 | -3 | -1.6%</td>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>183 | 3 | 1.7%</td>
+<td>183 | 0 | 0%</td>
+
+<td>197 | 14 | 7.7%</td>
+</tr>
+</tbody>
+</table>
+
+<div class="pageinfo">
+	<a href="mailto:webmaster@menconi.com">Webmaster</a>
+	<p>Version: 0.1; RCSversion:  1.2 2012/01/23 14:29:49 dave Exp <br>Last changed on 1/17/12.
+
+	<p>This page (including all images) Copyright &copy; 2012  Dave Menconi.
+</div>
+
+</body>
+</html>

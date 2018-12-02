@@ -1,0 +1,3 @@
+<?php
+$instance = 1;
+?>

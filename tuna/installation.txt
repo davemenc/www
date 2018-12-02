@@ -1,0 +1,30 @@
+Installation Notes
+The installation of this project, as of this writing, is an ugly thing. But I have to start somewhere and if I'm going to open source this I will be seen in my underwear at some point; maybe someone, embarrassed by my hairy legs will help me clean this mess up.
+
+1) First, you have to create a database with the right tables. Database.txt has the commands for mysql; you edit them to create the correct database on your system. 
+
+2) Populating the database is another fine mess I've gotten you into. There is a file, audiolist.txt. This has to have a tab delimited list of audio files. The format is given by the header: "Type Group Album Track URL" where "Type" is the type of the file (for example, "Music", "Book", "Podcast" etc); "Group" is the people who created the track; "Album" is the name of the album; "Track" is the name of the track and "url" is the URL where the file can be found. 
+
+I have a program that generates this: listaudiofiles.py. It assumes that your audio files are arranged, as mine are, in a hiearchy of directories like this: <type>/<GROUP>/<ALBUM><Track> and with the first three characters of the file name indicating the track number. If your files are not arranged this way (I think it's common but by no means universal) you might want to write your own version of the this program. 
+
+3) You must set up the right parameters for your database. There is a file, config.php, which has these lines in it:
+$dbname="tuna";
+$dbuser="dave";
+$dbpass="foobar";
+$dbhost="127.0.0.1";
+You must set these up so that they reflect your access to your mysql database server. The system will CREATE the database so "$dbname" should be left as is. $dbuser is your user name and $dbpass is your password (is there a better way to do this!?). It would be best to have this particular username have access ONLY to the tuna database to limit the exposure here (but it has to have ALL privs for this database so it can create the structures it needs). Unless your mysql server is on a different box from the rest of your web stuff (which is probably not the case and you'd know it if it were) then $dbhost can be left as it is. 
+
+The rest of the stuff in the file matters very little. 
+
+4) Then you run tunainit.php which creates a database and populates it with all the songs in the file. This program, as written at this moment, is a huge security hole which needs to be filled ASAP because it executes commands out of a file. Before you run it you should take a good look at database.txt which creates the db stuff. Should be just a bunch of "drop table" "create table" pairs with no data populated
+
+5) Now you can run tuna.php which will do the actual work. As of this writing it does bupkis (just lists some arbitrary songs from the db) but before I make this available to anyone it will probably have soem kind of search capability. 
+
+6) In order for other people to see this you have to modify your appache settings in http.conf. In my case, I'm running apache 2.2 (which is deprecated) because I'm running php 5.3 (which is deprecated). Gotta get that fixed soonest. But I digress; in apache 2.2 you set access with an "allow" command. To allow people on your LAN to access it you might do something like
+    Allow from 192.168.1
+Which says "allow access to my web server from any ip address that starts with 192.168.1 and ends with anything". Or more simply, "Allow access from anywhere on my LAN" (it is not necessarily so that your LAN is 192.168.1.* but if it isn't whoever set it up changed the defaults so they know more about it than I do). 
+
+7) This first version has no access control, no users, no significant complications.
+
+
+

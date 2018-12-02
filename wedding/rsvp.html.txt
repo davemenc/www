@@ -1,5 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
 
 <head>
 <title>Janine and Jason's Wedding RSVP</title>
@@ -42,7 +41,7 @@
 
 <div class="info">
 	<h2>Janine and Jason's Wedding RSVP</h2>
-	<h4>Please RSVP by Some Date </h4>
+	<h4>Please RSVP by September 1, 2017 </h4>
 </div>
 
 <ul>
@@ -112,7 +111,7 @@
 </li>
 
 <li id="brunch" >
- <label class="desc" for="brunch">Attend brunch</label>
+ <label class="desc" for="brunch">Attend Potluck</label>
  <div><select
   class="field select medium"
   id="brunch"
@@ -122,6 +121,19 @@
   <option value="Yes">Yes</option>
   <option value="No">No</option>
   </select></div>
+</li>
+
+<li id="food" >
+ <label class="desc" for="food">What food will you bring?</label>
+
+ <span><input 
+  class="field text"
+  id="food"
+  name="food"
+  type="text"
+  value=""
+  size="40"
+  tabindex="5"/></span>
 </li>
 
 <li class="buttons ">

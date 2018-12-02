@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Animation Information</title>
+  <link rel="stylesheet" href="drawcells.css">
+</head>
+
+<body>
+	<h1>Computer Generated Animations</h1>
+<a href="index.php"><b>More Animations</b></a>
+<h2> A Brief Description</h2>
+<P>The program displays "animations" of little dots. If you rate these animation it will show you new animations. As people (not just you but anyone who does this) rates the animations the computer learns and will improve them. It takes a lot of ratings (100 per generation and perhaps 10 generations to get pretty good so that's 1000) for the computer to learn so it may take a while. 
+<h2>The Animations</h2>
+<P>These animations are actually a kind of mathematical model called a <a href="http://en.wikipedia.org/wiki/Cellular_automaton">cellular automata</a>.
+ Each "cell," or little square, either has a dot (which means it's live) or is empty (which means it's dead).
+ There are strict rules about how dead squares become alive and how live squares die.
+ <i><a href="http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Conway's Game of Life</a></i>, the most famous cellular automaton, is a particular set of rules. 
+The whole set of rules (along with the initial conditions) are what the computer is learning to do better.
+<h2>How Are They Generated?</h2>
+There is a collection of strings that determine what animation will be played. When you rate an annimation you're really rating that string. When we've rated enough, the computer "mates" the strings but taking pieces of the top rated strings and combining them with pieces of other top rated strings. This is a form of <a href="http://en.wikipedia.org/wiki/Genetic_algorithm">genetic algorithm</a> which means that the strings are actually "genes" and the "rating enough" is called a generation. 
+<h2>What Am I Doing?</h2>
+<P> When you rate the animations, then, you're helping the genetic algorithm learn to make better animations. Of course, your opinion may not be the same as my opinion, but I think that just makes it more interesting. 
+<h2>A Few Rating Guidelines</h2>
+<P>There are 6 ratings from "Worst" to "Best". Ideally, it would good if you could find a few animations in the generation that are really bad and a few that are really good. If you rate them ALL as "Worst" then the algorithm won't work.
+<P>I recommend that you wait to rate animations until they've had a few seconds to work. 
+<P>Inially, you need to just click "OK" so you can see the next one. After a few of these, however, you'll begin to get a sense of the range of animations you can expect from this generation. The hard part, early on, is finding any that look better than any others -- a few die out quickly but most just seem to randomly flash around in a boring way. But try to see which ones you like better and rate those higher. For what it's worth, I like less dense patterns so I tend to rate based on white space.
+<h2> Thanks</h2>
+Thanks very much for helping with this. I hope something interesting will come of it. 
+</body>
+</html>
+

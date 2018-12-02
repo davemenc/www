@@ -1,0 +1,9 @@
+use caketoodoo;
+drop table if exists tasks;
+create table tasks(
+	id int unsigned not null primary key auto_increment,
+	title tinytext,
+	done tinyint default null,
+	created datetime default null,
+	modified datetime default null
+);

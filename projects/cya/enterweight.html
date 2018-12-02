@@ -1,0 +1,110 @@
+$name = "Dave Menconi";
+$gameinstance = "Main";
+$roundno = 2011;
+$gamestatus = "Running";
+$weight = 152;
+$gameno = 1;
+$userno = 1;
+$monthnamess = array('1'=>"January",'2'=>"February",'3'=>"March",'4'=>"April",'5'=>"May",'6'=>"June",'7'=>"July",'8'=>"August",'9'=>"September",'10'=>"October",'11'=>"November",'12'=>"December");
+$userweights = array('1'=>"270",'2'=>"265",'3'=>"260",'4'=>"250",'5'=>"255",'6'=>"250",'7'=>"245",'8'=>"245",'9'=>"243",'10'=>"240");
+echo <<<EOF
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;
+		charset=iso-8859-1">
+		<meta name="description" content="Guess a Number">
+		<meta name="">
+		<meta name="DISTRIBUTION" content="IU">
+		<meta name="ROBOTS" content="noindex,nofollow">
+		<meta name="revisit-after" content="30 days">
+		<link rel="SHORTCUT ICON" href="http://http://menconi.com/images/scale.ico"/>
+		<meta name="copyright" content="Copyright © 2011 Dave Menconi, All
+		Rights Reserved">
+
+		<meta name="author" content="Dave Menconi">
+
+		<meta name="rating" content="PG-13">
+		<Title>Enter Your Weight</title>
+	</head>
+	<body >
+	<div id="mainpage">
+		<h1>Why Weight</h1>
+
+		<div class="links">
+			| <a href="http://www.meissen.org/redwall/numbersgamerules.html">  Help</a> |
+			<a href="index.php?mode=logout">Logout</a> |
+			<a href="http://games.groups.yahoo.com/group/thenumbersgame/">Join the Forum</a>|
+			<a href="index.php">Back To Main Page</a> |
+		</div>
+
+		<h2>Weight Entry for <span id="name"> <?php echo $name; ?> </span></h2>
+		<P id="status"><span id="game">Game: <span id="gamename"> <?php echo $gameinstance; ?></span></span>|<span id="round"> Round # <span id="roundno"><?php echo $roundno; ?></span> </span>| <span id="gamestatus">Status: <span id="gamestatusname"><?php echo $gamestatus; ?></span></span></P>
+
+		<p id="lastweight>Your Last Weight: <?php echo $weight; ?> </p>
+		<p id="instructions">Enter your weight and the month. You can only enter weights for the current year.<a href="whyweightrules.html">More info.</a></P>
+
+		<div class="form">
+			<form action="index.php" method="post">
+			<input type=hidden name="mode" value="parseguess">
+			<input type=hidden name="gameno" value="<?php echo $gameno; ?>">
+			<input type=hidden name="roundno" value="<?php echo $roundno; ?>">
+			<input type=hidden name="userno" value="<?php echo $userno; ?> ">
+			<br>
+			<div id="month">
+				<span id="monthtitle">Month:<span>
+				<select name="month" >
+				<option selected="selected" value="0" label = "Select Month">Select Month</option>
+				<option value= "1" label = "January">January</option>
+				<option value= "2" label = "February">February</option>
+				<option value= "3" label = "March">March</option>
+				<option value= "4" label = "April">April</option>
+				<option value= "5" label = "May">May</option>
+				<option value= "6" label = "June">June</option>
+				<option value= "7" label = "July">July</option>
+				<option value= "8" label = "August">August</option>
+				<option value= "9" label = "September">September</option>
+				<option value="10" label = "October">October</option>
+				<option value="11" label = "November">November</option>
+				<option value="12" label = "December">December</option>
+				</select>
+			</div>
+			<div id="weight">
+				<span id="weighttitle">Weight:</span>
+				<input type=text name="weight" size=5>
+			</div>
+			<div id="input">
+				<input type="submit" value="Enter Weight">
+			</div>
+			</form>
+		</div>
+	</div>
+	<hr>
+	<div id="stats">
+		<h2 id="statstitle">Dave Menconi Weight History by Month (2011)</h2>
+		<div id="statstable">
+			<table border=1>
+				<span id="tablehead"><tr><th>Month &nbsp;&nbsp;&nbsp;&nbsp;</th><th>Weight</th><th>% Change</th><th>% Change <br>(YTD)</th></tr></span>
+<?php
+	$prevweight = $startweight = $userwights['1'];
+	if ($startweight == 0) $startweight = 1;
+	foreach ($userweights as $month=>$weight){
+		$ytdchange   = round(100*($startweight - $weight)/$startweight,2);
+		$monthchange = round(100*($prevweight - $weight)/$prevweight,2);
+		$prevweight  = $weight;
+		$monthname = $monthnamess[$month];
+		print "<span class=\"tablebody\"><tr ><td>$monthname</td><td>$weight</td><td>$monthchange%</td><td>$ytdchange%</td></tr></span>";
+	}
+?>
+			</table>
+		</div>
+	</div>
+	<div id="pageinfo">
+		<p><a href="mailto:webmaster@menconi.com">Webmaster</a>
+		<p>Version: 0.1 <br>Last changed on 12/31/11.
+		<p>This page (including all images) Copyright &copy; 2011  Dave Menconi.
+	</div>
+
+	</body>
+
+</html>
+EOF;

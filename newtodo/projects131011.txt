@@ -1,0 +1,16 @@
+!projects
+xx stripper book
+xx infusion book
+xx indie conference
+xx gratitude
+xx parsing stl files
+xx laser business
+	letters - blocks
+	leters - stamps
+	letters - tiles
+	spiral jewelry
+	fractal jewelry
+	nameplates
+xxrobacchus
+xxdistilling
+xxstocks

@@ -1,0 +1,10 @@
+IDX,URL,Type,Time,Shape,Duration,Venue,Active,Note
+0,http://platform.share.scea.com/days/moveday.php,F,B,4,0,0,Y,
+100,http://platform.share.scea.com/raffle/,F,b,4,0,0,Y,
+180,http://wiki.ship.scea.com/confluence/display/MANPOWERREPORT/Manpower+Completion+Report,F,B,4,0,0,N,
+200,http://www.zerocater.com/sony/,f,b,4,0,0,N,
+220,http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:94404.1.99999,F,B,4,0,0,N,
+240,http://www.sfbaytraffic.info/,F,B,4,0,0,N,
+260,http://slashdot.org/,F,B,4,0,0,N,
+280,http://technewstube.com/site/ars-technica/,F,B,4,0,0,N,
+320,http://www.sigalert.com/Map.asp?lat=37.548801&lon=-122.312401&z=1#lat=37.57718&lon=-122.10272&z=1,F,B,4,0,0,N,

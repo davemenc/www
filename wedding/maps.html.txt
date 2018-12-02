@@ -1,6 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
 
 <head> 
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
@@ -32,7 +30,10 @@
 </div>
 
 <div class="content">
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/d/edit?ie=UTF8&amp%3Bhl=en&amp%3Bhl=en&amp%3Bmsa=0&amp%3Bmsa=0&amp%3Bmsid=110246065039818689932.00047a5902e61f77c6543&amp%3Bmsid=110246065039818689932.00047a5902e61f77c6543&amp%3Bll=37.435365%2C-121.892988&amp%3Bll=37.435365%2C-121.892988&amp%3Bspn=0.014261%2C0.033431&amp%3Bspn=0.014261%2C0.033431&amp%3Boutput=embed%22%3E%3C%2Fiframe%3E%3Cbr%20%2F%3E%3Csmall%3EView%20%3Ca%20href%3D%22http%3A%2F%2Fmaps.google.com%2Fmaps%2Fms%3Fie%3DUTF8&amp%3Bsource=embed&mid=1WmXeFp46j4utN8_pVfq5Na-vWTg&ll=31.500205155840018%2C-92.41699249999999&z=4" style="color:#0000FF;text-align:left">VENUE</a> in a larger map</small>
+<h1><a href="https://drive.google.com/open?id=1ENdIe6-qeuw2cd594gOsDiGupZc&usp=sharing"> Map</a></h1>
+<!--- <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://drive.google.com/open?id=1ENdIe6-qeuw2cd594gOsDiGupZc&usp=sharing" />
+-->
+
 </div>
 </div>
 </div>

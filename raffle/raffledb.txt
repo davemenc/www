@@ -1,0 +1,151 @@
+drop database if exists raffle;
+create database raffle;
+use raffle;
+drop table if exists `items`;
+create table `items` (
+	`id` int not null auto_increment primary key,
+	`title` tinytext,
+	`active` int default 1,
+	`image1` tinytext,
+	`image2` tinytext,
+	`itmcnt` int default 1,
+	`end` tinytext,
+	`owner` tinytext,
+	`ts` timestamp
+);
+drop table if exists `tickest`;
+create table `tickets` (
+	`id` int not null auto_increment primary key,
+	`ticketholder` tinytext,
+	`itemno` int not null default 0,
+	`received`int default 0,
+	`ts` timestamp
+);
+
+insert into items (title,image1,image2,itmcnt,end,owner) values ('Box of 5 Blue Ray Discs','bdrs.jpg','blank.jpg','15','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('Spindle of 50+ Blank CDs','blankcds.jpg','blank.jpg','1','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('Spindle of 50+ blank discs (Blue ray, I think)','blank.jpg','blank.jpg','1','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('Blue Ray Drive','blueray1a.jpg','blueray1b.jpg','1','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('Blue Ray Drive','blueray2b.jpg','blueray2a.jpg','1','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('Blue Ray Drive','blueray3.jpg','blank.jpg','1','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('Blue Ray Drive','blueray4.jpg','blank.jpg','1','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('Blue Ray Drive','blueray5.jpg','blank.jpg','1','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('Denon Receiver','denon1.jpg','denon2.jpg','1','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('Hauppauge HD Recorder (digitizes HD signals)','hauppaugerecorder.jpg','blank.jpg','1','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('40 Gig Hard drive','hd.jpg','blank.jpg','1','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('HDMI Wireless Transmitter','hdtransmittera.jpg','hdtransmitterb.jpg','1','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('Fuseball Table from GTC 2011','minifuseball.jpg','blank.jpg','1','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('PS Eye Camera','pseye.jpg','blank.jpg','10','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('Black PSP Go','pspgo1.jpg','blank.jpg','1','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('White PSP Go','pspgo2.jpg','blank.jpg','1','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('Ratchet Strap ','ratchetstrap1.jpg','blank.jpg','2','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('Easel for charts -- unfolds automatically','tripod.jpg','tripod2.jpg','11','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('40" Sony TV (KDL-40xBR2)','tv2a.jpg','tv2b.jpg','1','2013-04-18','');
+insert into items (title,image1,image2,itmcnt,end,owner) values ('100 GB USB Drive','usbdrive1.jpg','usbdrive2.jpg','1','2013-04-18','');
+
+insert into tickets (ticketholder,itemno) values ('F','5');
+insert into tickets (ticketholder,itemno) values ('J','6');
+insert into tickets (ticketholder,itemno) values ('I','11');
+insert into tickets (ticketholder,itemno) values ('A','1');
+insert into tickets (ticketholder,itemno) values ('F','5');
+insert into tickets (ticketholder,itemno) values ('E','4');
+insert into tickets (ticketholder,itemno) values ('F','13');
+insert into tickets (ticketholder,itemno) values ('C','8');
+insert into tickets (ticketholder,itemno) values ('B','4');
+insert into tickets (ticketholder,itemno) values ('E','6');
+insert into tickets (ticketholder,itemno) values ('F','13');
+insert into tickets (ticketholder,itemno) values ('I','4');
+insert into tickets (ticketholder,itemno) values ('A','13');
+insert into tickets (ticketholder,itemno) values ('G','15');
+insert into tickets (ticketholder,itemno) values ('E','8');
+insert into tickets (ticketholder,itemno) values ('C','16');
+insert into tickets (ticketholder,itemno) values ('D','17');
+insert into tickets (ticketholder,itemno) values ('J','8');
+insert into tickets (ticketholder,itemno) values ('C','18');
+insert into tickets (ticketholder,itemno) values ('I','10');
+insert into tickets (ticketholder,itemno) values ('B','14');
+insert into tickets (ticketholder,itemno) values ('B','8');
+insert into tickets (ticketholder,itemno) values ('D','2');
+insert into tickets (ticketholder,itemno) values ('A','2');
+insert into tickets (ticketholder,itemno) values ('I','18');
+insert into tickets (ticketholder,itemno) values ('B','3');
+insert into tickets (ticketholder,itemno) values ('J','7');
+insert into tickets (ticketholder,itemno) values ('I','7');
+insert into tickets (ticketholder,itemno) values ('I','12');
+insert into tickets (ticketholder,itemno) values ('K','19');
+insert into tickets (ticketholder,itemno) values ('I','16');
+insert into tickets (ticketholder,itemno) values ('A','20');
+insert into tickets (ticketholder,itemno) values ('J','16');
+insert into tickets (ticketholder,itemno) values ('K','13');
+insert into tickets (ticketholder,itemno) values ('K','4');
+insert into tickets (ticketholder,itemno) values ('E','18');
+insert into tickets (ticketholder,itemno) values ('I','19');
+insert into tickets (ticketholder,itemno) values ('J','10');
+insert into tickets (ticketholder,itemno) values ('D','18');
+insert into tickets (ticketholder,itemno) values ('I','16');
+insert into tickets (ticketholder,itemno) values ('D','14');
+insert into tickets (ticketholder,itemno) values ('J','15');
+insert into tickets (ticketholder,itemno) values ('F','16');
+insert into tickets (ticketholder,itemno) values ('H','3');
+insert into tickets (ticketholder,itemno) values ('E','1');
+insert into tickets (ticketholder,itemno) values ('K','18');
+insert into tickets (ticketholder,itemno) values ('I','2');
+insert into tickets (ticketholder,itemno) values ('D','18');
+insert into tickets (ticketholder,itemno) values ('G','17');
+insert into tickets (ticketholder,itemno) values ('C','11');
+insert into tickets (ticketholder,itemno) values ('B','19');
+insert into tickets (ticketholder,itemno) values ('B','11');
+insert into tickets (ticketholder,itemno) values ('J','10');
+insert into tickets (ticketholder,itemno) values ('B','10');
+insert into tickets (ticketholder,itemno) values ('G','6');
+insert into tickets (ticketholder,itemno) values ('F','12');
+insert into tickets (ticketholder,itemno) values ('K','7');
+insert into tickets (ticketholder,itemno) values ('K','18');
+insert into tickets (ticketholder,itemno) values ('H','17');
+insert into tickets (ticketholder,itemno) values ('D','14');
+insert into tickets (ticketholder,itemno) values ('J','16');
+insert into tickets (ticketholder,itemno) values ('E','19');
+insert into tickets (ticketholder,itemno) values ('E','10');
+insert into tickets (ticketholder,itemno) values ('C','19');
+insert into tickets (ticketholder,itemno) values ('J','12');
+insert into tickets (ticketholder,itemno) values ('H','2');
+insert into tickets (ticketholder,itemno) values ('A','18');
+insert into tickets (ticketholder,itemno) values ('I','18');
+insert into tickets (ticketholder,itemno) values ('C','3');
+insert into tickets (ticketholder,itemno) values ('C','13');
+insert into tickets (ticketholder,itemno) values ('D','8');
+insert into tickets (ticketholder,itemno) values ('C','3');
+insert into tickets (ticketholder,itemno) values ('D','12');
+insert into tickets (ticketholder,itemno) values ('K','6');
+insert into tickets (ticketholder,itemno) values ('B','16');
+insert into tickets (ticketholder,itemno) values ('K','6');
+insert into tickets (ticketholder,itemno) values ('E','2');
+insert into tickets (ticketholder,itemno) values ('C','20');
+insert into tickets (ticketholder,itemno) values ('J','5');
+insert into tickets (ticketholder,itemno) values ('B','1');
+insert into tickets (ticketholder,itemno) values ('F','15');
+insert into tickets (ticketholder,itemno) values ('D','17');
+insert into tickets (ticketholder,itemno) values ('B','1');
+insert into tickets (ticketholder,itemno) values ('E','15');
+insert into tickets (ticketholder,itemno) values ('G','20');
+insert into tickets (ticketholder,itemno) values ('B','18');
+insert into tickets (ticketholder,itemno) values ('E','17');
+insert into tickets (ticketholder,itemno) values ('H','11');
+insert into tickets (ticketholder,itemno) values ('F','8');
+insert into tickets (ticketholder,itemno) values ('K','13');
+insert into tickets (ticketholder,itemno) values ('H','11');
+insert into tickets (ticketholder,itemno) values ('G','20');
+insert into tickets (ticketholder,itemno) values ('H','11');
+insert into tickets (ticketholder,itemno) values ('H','17');
+insert into tickets (ticketholder,itemno) values ('E','10');
+insert into tickets (ticketholder,itemno) values ('F','4');
+insert into tickets (ticketholder,itemno) values ('G','11');
+insert into tickets (ticketholder,itemno) values ('C','8');
+insert into tickets (ticketholder,itemno) values ('I','18');
+
+
+select items.id,items.title,image1,image2,itmcnt from items where itmcnt>0 and active>0;
+
+select items.id, count(tickets.id) as `count` from items,tickets where items.id=tickets.itemno and items.active>0 and items.itmcnt>0 group by items.id;
+
+

@@ -1,0 +1,281 @@
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html;
+charset=iso-8859-1">
+   <meta name="description" content="Menconi's Todo List">
+   <meta name="">
+   <meta name="DISTRIBUTION" content="IU">
+   <meta name="ROBOTS" content="noindex,nofollow">
+   <meta name="revisit-after" content="30 days">
+   <meta name="copyright" content="Copyright © 2004 Dave Menconi, All
+Rights Reserved">
+
+   <meta name="author" content="Dave Menconi">
+
+   <meta name="rating" content="PG-13">
+    <Title>Todo List</title>
+</head>
+<body bgcolor="#dFdFfF" ><h1>Pending Todo Items</h1><TABLE>
+  <TR>
+    <TD><B>Filter:</B></TD>
+    <TD>
+		<a href="index.php">Show Todo Items </a> |
+		<a href="index.php?mode=display_weekly">Show Weekly Report  </a> |
+		<a href="index.php?mode=display_monday">Show Monday Report  </a> |
+		<a href="index.php?mode=display_daily">Show Daily Report  </a> |
+		<a href="index.php?mode=done_page"">Show Done Items</a>&nbsp;&nbsp;&nbsp;
+    </TD>
+    <TD><B>Project:</B></TD>
+    <TD> 
+    	<a href="index.php?mode=d_prod">Show Projects</a>  </a> |
+    	<a href="index.php?mode=display_prstat">Show Project Stats  </a> |
+    	<a href="index.php?mode=a_prod">Add Project </a> 
+    </TD>
+  </TR>
+  <TR>
+    <TD><B>Other:</B></TD>
+    <TD>
+    	<a href="index.php?mode=display_add">Add New Todo Items</a> |
+    	<a href="index.php?mode=logout">Log Out</a>
+    </TD>
+    <TD><B>Sort:</B></TD>
+    <TD>
+		<a href="index.php?order=ps">Order By Project </a> |
+		<a href="index.php?order=st">Order by Status</a> |
+		<a href="index.php?order=sp">Order By Seq  </a> 
+    </TD>
+  </TR>
+</TABLE><br>Total Incomplete Items: 28<form method="POST" action="index.php">
+<input type="hidden" name="mode" value="parse_summary"/>
+<input type="hidden" name="order" value="st"/>
+<input type="submit" value="Update Changes">
+<table border=0>
+<tr><td><b>Done</b></td><td><b>Seq</b></td><td><b>Status</b></td><td><b>Project</b></td><td ><b>Title</b></td></tr><tr>
+<td> <input name=dn3230 type=checkbox value=1 ></td>	<td><input name=sq3230 type=text size=3 value=-5></td>
+<td><select  name="st3230"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Management</td>
+	<td><a href="index.php?mode=detail&item=3230&order=st"> post ticket on devnet for support</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn3226 type=checkbox value=1 ></td>	<td><input name=sq3226 type=text size=3 value=-4></td>
+<td><select  name="st3226"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Accounting</td>
+	<td><a href="index.php?mode=detail&item=3226&order=st"> manpower reports for April May June</a></td>
+</tr>
+<tr>
+<td> <input name=dn3232 type=checkbox value=1 ></td>	<td><input name=sq3232 type=text size=3 value=-4></td>
+<td><select  name="st3232"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Personal</td>
+	<td><a href="index.php?mode=detail&item=3232&order=st"> steven's creek toyota</a></td>
+</tr>
+<tr>
+<td> <input name=dn3235 type=checkbox value=1 ></td>	<td><input name=sq3235 type=text size=3 value=-3></td>
+<td><select  name="st3235"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Miscellaneous</td>
+	<td><a href="index.php?mode=detail&item=3235&order=st"> do expense report stuf</a></td>
+</tr>
+<tr>
+<td> <input name=dn3205 type=checkbox value=1 ></td>	<td><input name=sq3205 type=text size=3 value=0></td>
+<td><select  name="st3205"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Management</td>
+	<td><a href="index.php?mode=detail&item=3205&order=st"> Goals</a></td>
+</tr>
+<tr>
+<td> <input name=dn3221 type=checkbox value=1 ></td>	<td><input name=sq3221 type=text size=3 value=2></td>
+<td><select  name="st3221"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Special Projects</td>
+	<td><a href="index.php?mode=detail&item=3221&order=st"> track down our payment to Naughty Dog</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn3218 type=checkbox value=1 ></td>	<td><input name=sq3218 type=text size=3 value=4></td>
+<td><select  name="st3218"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Miscellaneous</td>
+	<td><a href="index.php?mode=detail&item=3218&order=st"> find out how to get a unity source license</a></td>
+</tr>
+<tr>
+<td> <input name=dn3211 type=checkbox value=1 ></td>	<td><input name=sq3211 type=text size=3 value=4></td>
+<td><select  name="st3211"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Personal</td>
+	<td><a href="index.php?mode=detail&item=3211&order=st"> amazon invoices</a></td>
+</tr>
+<tr>
+<td> <input name=dn3219 type=checkbox value=1 ></td>	<td><input name=sq3219 type=text size=3 value=4></td>
+<td><select  name="st3219"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Special Projects</td>
+	<td><a href="index.php?mode=detail&item=3219&order=st"> ask ship support for a new list server</a></td>
+</tr>
+<tr>
+<td> <input name=dn3212 type=checkbox value=1 ></td>	<td><input name=sq3212 type=text size=3 value=5></td>
+<td><select  name="st3212"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Accounting</td>
+	<td><a href="index.php?mode=detail&item=3212&order=st"> finish invoice program</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn3231 type=checkbox value=1 ></td>	<td><input name=sq3231 type=text size=3 value=5></td>
+<td><select  name="st3231"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Personal</td>
+	<td><a href="index.php?mode=detail&item=3231&order=st"> call stevens creek toyota about bad tires and brakes</a></td>
+</tr>
+<tr>
+<td> <input name=dn3209 type=checkbox value=1 ></td>	<td><input name=sq3209 type=text size=3 value=6></td>
+<td><select  name="st3209"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Management</td>
+	<td><a href="index.php?mode=detail&item=3209&order=st"> operations discover pages</a></td>
+</tr>
+<tr>
+<td> <input name=dn3229 type=checkbox value=1 ></td>	<td><input name=sq3229 type=text size=3 value=6></td>
+<td><select  name="st3229"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Miscellaneous</td>
+	<td><a href="index.php?mode=detail&item=3229&order=st"> digital tutors</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn3223 type=checkbox value=1 ></td>	<td><input name=sq3223 type=text size=3 value=7></td>
+<td><select  name="st3223"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>GTC</td>
+	<td><a href="index.php?mode=detail&item=3223&order=st"> Contact Mark Woodsma</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn3214 type=checkbox value=1 ></td>	<td><input name=sq3214 type=text size=3 value=7></td>
+<td><select  name="st3214"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Miscellaneous</td>
+	<td><a href="index.php?mode=detail&item=3214&order=st"> check the xdevs agains the bpaf database</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn3224 type=checkbox value=1 ></td>	<td><input name=sq3224 type=text size=3 value=8></td>
+<td><select  name="st3224"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Management</td>
+	<td><a href="index.php?mode=detail&item=3224&order=st"> call Lea fink about Amaresh Shukla</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn3216 type=checkbox value=1 ></td>	<td><input name=sq3216 type=text size=3 value=8></td>
+<td><select  name="st3216"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Miscellaneous</td>
+	<td><a href="index.php?mode=detail&item=3216&order=st"> find out how to tether to phone</a></td>
+</tr>
+<tr>
+<td> <input name=dn3220 type=checkbox value=1 ></td>	<td><input name=sq3220 type=text size=3 value=8></td>
+<td><select  name="st3220"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Special Projects</td>
+	<td><a href="index.php?mode=detail&item=3220&order=st"> find out how much money it would cost to duplicate ship</a></td>
+</tr>
+<tr>
+<td> <input name=dn3130 type=checkbox value=1 ></td>	<td><input name=sq3130 type=text size=3 value=9></td>
+<td><select  name="st3130"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Miscellaneous</td>
+	<td><a href="index.php?mode=detail&item=3130&order=st"> excel reader</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn3217 type=checkbox value=1 ></td>	<td><input name=sq3217 type=text size=3 value=9></td>
+<td><select  name="st3217"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Miscellaneous</td>
+	<td><a href="index.php?mode=detail&item=3217&order=st"> find out how to get a unreal source license</a></td>
+</tr>
+<tr>
+<td> <input name=dn2989 type=checkbox value=1 ></td>	<td><input name=sq2989 type=text size=3 value=10></td>
+<td><select  name="st2989"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Miscellaneous</td>
+	<td><a href="index.php?mode=detail&item=2989&order=st"> find info</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn3136 type=checkbox value=1 ></td>	<td><input name=sq3136 type=text size=3 value=11></td>
+<td><select  name="st3136"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Personal</td>
+	<td><a href="index.php?mode=detail&item=3136&order=st"> call windows covering place</a></td>
+</tr>
+<tr>
+<td> <input name=dn3227 type=checkbox value=1 ></td>	<td><input name=sq3227 type=text size=3 value=12></td>
+<td><select  name="st3227"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Accounting</td>
+	<td><a href="index.php?mode=detail&item=3227&order=st"> LLVM Dashboard</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn3199 type=checkbox value=1 ></td>	<td><input name=sq3199 type=text size=3 value=12></td>
+<td><select  name="st3199"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>GTC</td>
+	<td><a href="index.php?mode=detail&item=3199&order=st"> games</a></td>
+</tr>
+<tr>
+<td> <input name=dn3228 type=checkbox value=1 ></td>	<td><input name=sq3228 type=text size=3 value=12></td>
+<td><select  name="st3228"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Special Projects</td>
+	<td><a href="index.php?mode=detail&item=3228&order=st"> TNTBUILD SYSTEM</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn3233 type=checkbox value=1 ></td>	<td><input name=sq3233 type=text size=3 value=15></td>
+<td><select  name="st3233"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Personal</td>
+	<td><a href="index.php?mode=detail&item=3233&order=st"> facilities & security about car</a></td>
+</tr>
+<tr>
+<td> <input name=dn2976 type=checkbox value=1 ></td>	<td><input name=sq2976 type=text size=3 value=80></td>
+<td><select  name="st2976"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Miscellaneous</td>
+	<td><a href="index.php?mode=detail&item=2976&order=st"> create a site where people can submit urls</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn3093 type=checkbox value=1 ></td>	<td><input name=sq3093 type=text size=3 value=999></td>
+<td><select  name="st3093"><option value="Active" selected>Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" >Reference</select></td>
+	<td>Miscellaneous</td>
+	<td><a href="index.php?mode=detail&item=3093&order=st"> add features to todo list</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn3225 type=checkbox value=1 ></td>	<td><input name=sq3225 type=text size=3 value=-5></td>
+<td><select  name="st3225"><option value="Active" >Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" selected>Reference</select></td>
+	<td>Management</td>
+	<td><a href="index.php?mode=detail&item=3225&order=st"> camera mac address</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn3204 type=checkbox value=1 ></td>	<td><input name=sq3204 type=text size=3 value=999></td>
+<td><select  name="st3204"><option value="Active" >Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" selected>Reference</select></td>
+	<td>GTC</td>
+	<td><a href="index.php?mode=detail&item=3204&order=st"> HOTEL CONTACT</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn1374 type=checkbox value=1 ></td>	<td><input name=sq1374 type=text size=3 value=999></td>
+<td><select  name="st1374"><option value="Active" >Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" selected>Reference</select></td>
+	<td>Hardware Admin</td>
+	<td><a href="index.php?mode=detail&item=1374&order=st"> snsys info</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn3017 type=checkbox value=1 ></td>	<td><input name=sq3017 type=text size=3 value=999></td>
+<td><select  name="st3017"><option value="Active" >Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" selected>Reference</select></td>
+	<td>Hardware Admin</td>
+	<td><a href="index.php?mode=detail&item=3017&order=st"> Wall Board Data</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn69 type=checkbox value=1 ></td>	<td><input name=sq69 type=text size=3 value=999></td>
+<td><select  name="st69"><option value="Active" >Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" selected>Reference</select></td>
+	<td>Miscellaneous</td>
+	<td><a href="index.php?mode=detail&item=69&order=st"> LSInfo</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn913 type=checkbox value=1 ></td>	<td><input name=sq913 type=text size=3 value=999></td>
+<td><select  name="st913"><option value="Active" >Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" selected>Reference</select></td>
+	<td>Miscellaneous</td>
+	<td><a href="index.php?mode=detail&item=913&order=st"> Password Expiration</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn2641 type=checkbox value=1 ></td>	<td><input name=sq2641 type=text size=3 value=999></td>
+<td><select  name="st2641"><option value="Active" >Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" selected>Reference</select></td>
+	<td>Miscellaneous</td>
+	<td><a href="index.php?mode=detail&item=2641&order=st"> Mailing List SCEA PD T&T // SCEA FC PD T&T</a>*</td>
+</tr>
+<tr>
+<td> <input name=dn2648 type=checkbox value=1 ></td>	<td><input name=sq2648 type=text size=3 value=2000></td>
+<td><select  name="st2648"><option value="Active" >Active<option value="Deferred" >Deferred<option value="Delegated" >Delegated<option value="Deleted" >Deleted<option value="Done" >Done<option value="Reference" selected>Reference</select></td>
+	<td>Miscellaneous</td>
+	<td><a href="index.php?mode=detail&item=2648&order=st"> Add these people to address list</a>*</td>
+</tr>
+</table>
+<input type="submit" value="Update Changes">
+</form>
+Total Incomplete Items: 36<br>
+<p>
+<a href="index.php?mode=done_page">Show Done Items</a><br>
+	     <hr ><hr >
+
+		 <p><font size=-2>Last modified: April 11 2012 13:00:44. Version 1.3.</font>
+	     <p><font size=-2>This page (including all images) Copyright &copy; 2004,2005,2006,2007 Dave
+	     Menconi.</font>
+	     </body>
+</html>

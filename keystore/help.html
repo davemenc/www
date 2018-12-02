@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="description" content="KeyStore Help">
+   <meta name="ROBOTS" content="noindex,nofollow">
+   <meta name="revisit-after" content="30 days">
+
+   <meta name="author" content="Dave Menconi">
+
+   <meta name="rating" content="PG-13">
+    <Title>KeyStore Help</title>
+    <link rel="stylesheet" href="" type="text/css">
+</head>
+<body>
+<h1>KeyStore Help page</h1>
+This is the help page for the keystore.
+<h2>Purpose</h2>
+The purpose of the keystore is to (duh) store keys.
+<h2>Structure</h2>
+There is a list of key names. For each name a key is generated for each day.
+Strictly speaking, the key isn't generated until it's requested but that shouldn't matter.
+For each name/date pair one key is stored forever. It can be fetched back at any time.
+<h2>Syntax</h2>
+This is php program. It uses standard php syntax in the url.
+https://domainname.com/keystore.php?<param>=<value>&<param>=<value>...
+One of the param/value pairs must always be the password (pw=<password>)
+One of the param/value pairs will usually be the action (act=<action>)
+<h2>Parameters</h2>
+There are four parameters that are possible. Depending on the action some may be optional.
+<ul>
+	<li>act -- name of the action to be taken; if missing help will be assumed
+	<li>pw -- password, always required
+	<li>date -- the date in YYYY-MM-DD formet; if missing todays date (at the server) will be used
+	<li>name -- name of the key; this is required for the fetch and add commands
+</ul>
+<h2>Actions</h2>
+
+There are 4 actions available :
+<ul>
+	<li>help -- this help page; the password (pw) is required
+	<li>fetch -- get a key; the password (pw) and the name are required; the date defaults to today (at the server); this fetches a key for this name & date; if this key has never been requested before it will be generated, else it will be
+	<li>add -- add a name; the password (ps) and the name are required -- this just adds a name to the list
+	<li>list --
+</ul>
+<h2>Setup</h2>
+   <hr >Version .1<hr >Copyright &copy; 2015 Dave Menconi. All Rights Reserved.
+   </body>
+</html>

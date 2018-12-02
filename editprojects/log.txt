@@ -1,0 +1,897 @@
+===2014-09-28 20:54 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-09-28 20:54 ---
+*PARAMS:
+Array ([projno]=>3[mode]=>parseedit[title]=>Spiral Pendants[seq]=>50[type]=>Laser[pix1]=>[pix2]=>[pix3]=>[description]=>A burning man gift[problem]=>It is customary at Burning Man for a Camp to give gifts to people who visit them. At Object of Worship we were going to give out 3D printed medallions but not everyone would get those (they take at least an hour to make) so I wanted something to just give out.[solution]=>I was playing around with CorelDraw and I did a spiral. It occurred to me that if I cut it out of wood it would make a nice pendant. [implementation]=>I played around with putting letters on it and that looked pretty nice. I noticed that the wood left behind when I removed the spiral was also a spiral so I cut that out, too.[result]=>[sourcecode]=>[notes]=>Don't worry, this is now fixed![AW]=>lib37use)
+===2014-09-28 20:54 ===
+*projno: 3
+===2014-09-28 20:54 ===
+*parseedit:
+===2014-09-28 20:54 ===
+*parseadd(params):
+---2014-09-28 20:54 ---
+*params:
+Array ([projno]=>3[mode]=>parseedit[title]=>Spiral Pendants[seq]=>50[type]=>Laser[pix1]=>[pix2]=>[pix3]=>[description]=>A burning man gift[problem]=>It is customary at Burning Man for a Camp to give gifts to people who visit them. At Object of Worship we were going to give out 3D printed medallions but not everyone would get those (they take at least an hour to make) so I wanted something to just give out.[solution]=>I was playing around with CorelDraw and I did a spiral. It occurred to me that if I cut it out of wood it would make a nice pendant. [implementation]=>I played around with putting letters on it and that looked pretty nice. I noticed that the wood left behind when I removed the spiral was also a spiral so I cut that out, too.[result]=>[sourcecode]=>[notes]=>Don't worry, this is now fixed![AW]=>lib37use)
+===2014-09-28 20:54 ===
+*magicpw: lib37use
+---2014-09-28 20:54 ---
+*paramToDB:
+Array ([title]=>title[seq]=>seq[type]=>category[pix1]=>pix1[pix2]=>pix2[pix3]=>pix3[description]=>description[problem]=>problem[solution]=>solution[implementation]=>implementation[result]=>result[sourcecode]=>sourcecode[notes]=>notes)
+===2014-09-28 20:54 ===
+*parseedit SQL: update projects set title='Spiral Pendants' where id=3
+===2014-09-28 20:54 ===
+*MYSQLSanitize(update projects set title='Spiral Pendants' where id=3):
+===2014-09-28 21:00 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-09-28 21:00 ---
+*PARAMS:
+Array ([mode]=>edit[projno]=>3)
+===2014-09-28 21:00 ===
+*MYSQLSanitize(edit):
+===2014-09-28 21:00 ===
+*MYSQLSanitize(3):
+===2014-09-28 21:00 ===
+*projno: 3
+===2014-09-28 21:00 ===
+*edit:
+===2014-09-28 21:00 ===
+*editproject(3):
+===2014-09-28 21:00 ===
+*Select * from projects where id=3 and active=1:
+===2014-09-28 21:00 ===
+*HTMLHead():
+===2014-09-28 21:00 ===
+*HTMLFOOT():
+===2014-09-28 21:00 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-09-28 21:00 ---
+*PARAMS:
+Array ([projno]=>3[mode]=>parseedit[title]=>Spiral Pendants[seq]=>50[type]=>Laser[pix1]=>[pix2]=>[pix3]=>[description]=>A burning man gift[problem]=>It is customary at Burning Man for a Camp to give gifts to people who visit them. At Object of Worship we were going to give out 3D printed medallions but not everyone would get those (they take at least an hour to make) so I wanted something to just give out.[solution]=>I was playing around with CorelDraw and I did a spiral. It occurred to me that if I cut it out of wood it would make a nice pendant. [implementation]=>I played around with putting letters on it and that looked pretty nice. I noticed that the wood left behind when I removed the spiral was also a spiral so I cut that out, too.[result]=>[sourcecode]=>[notes]=>Don't worry this is handle[AW]=>lib37use)
+===2014-09-28 21:00 ===
+*MYSQLSanitize(parseedit):
+===2014-09-28 21:00 ===
+*MYSQLSanitize(3):
+===2014-09-28 21:00 ===
+*projno: 3
+===2014-09-28 21:00 ===
+*parseedit:
+===2014-09-28 21:00 ===
+*parseadd(params):
+---2014-09-28 21:00 ---
+*params:
+Array ([projno]=>3[mode]=>parseedit[title]=>Spiral Pendants[seq]=>50[type]=>Laser[pix1]=>[pix2]=>[pix3]=>[description]=>A burning man gift[problem]=>It is customary at Burning Man for a Camp to give gifts to people who visit them. At Object of Worship we were going to give out 3D printed medallions but not everyone would get those (they take at least an hour to make) so I wanted something to just give out.[solution]=>I was playing around with CorelDraw and I did a spiral. It occurred to me that if I cut it out of wood it would make a nice pendant. [implementation]=>I played around with putting letters on it and that looked pretty nice. I noticed that the wood left behind when I removed the spiral was also a spiral so I cut that out, too.[result]=>[sourcecode]=>[notes]=>Don't worry this is handle[AW]=>lib37use)
+===2014-09-28 21:00 ===
+*magicpw: lib37use
+---2014-09-28 21:00 ---
+*paramToDB:
+Array ([title]=>title[seq]=>seq[type]=>category[pix1]=>pix1[pix2]=>pix2[pix3]=>pix3[description]=>description[problem]=>problem[solution]=>solution[implementation]=>implementation[result]=>result[sourcecode]=>sourcecode[notes]=>notes)
+===2014-09-28 21:00 ===
+*MYSQLSanitize(Spiral Pendants):
+===2014-09-28 21:00 ===
+*parseedit SQL: update projects set title='Spiral Pendants' where id=3
+===2014-09-28 21:00 ===
+*MYSQLSanitize(50):
+===2014-09-28 21:00 ===
+*parseedit SQL: update projects set seq='50' where id=3
+===2014-09-28 21:00 ===
+*MYSQLSanitize(Laser):
+===2014-09-28 21:00 ===
+*parseedit SQL: update projects set category='Laser' where id=3
+===2014-09-28 21:00 ===
+*MYSQLSanitize():
+===2014-09-28 21:00 ===
+*parseedit SQL: update projects set pix1='' where id=3
+===2014-09-28 21:00 ===
+*MYSQLSanitize():
+===2014-09-28 21:00 ===
+*parseedit SQL: update projects set pix2='' where id=3
+===2014-09-28 21:00 ===
+*MYSQLSanitize():
+===2014-09-28 21:00 ===
+*parseedit SQL: update projects set pix3='' where id=3
+===2014-09-28 21:00 ===
+*MYSQLSanitize(A burning man gift):
+===2014-09-28 21:00 ===
+*parseedit SQL: update projects set description='A burning man gift' where id=3
+===2014-09-28 21:00 ===
+*MYSQLSanitize(It is customary at Burning Man for a Camp to give gifts to people who visit them. At Object of Worship we were going to give out 3D printed medallions but not everyone would get those (they take at least an hour to make) so I wanted something to just give out.):
+===2014-09-28 21:00 ===
+*parseedit SQL: update projects set problem='It is customary at Burning Man for a Camp to give gifts to people who visit them. At Object of Worship we were going to give out 3D printed medallions but not everyone would get those (they take at least an hour to make) so I wanted something to just give out.' where id=3
+===2014-09-28 21:00 ===
+*MYSQLSanitize(I was playing around with CorelDraw and I did a spiral. It occurred to me that if I cut it out of wood it would make a nice pendant. ):
+===2014-09-28 21:00 ===
+*parseedit SQL: update projects set solution='I was playing around with CorelDraw and I did a spiral. It occurred to me that if I cut it out of wood it would make a nice pendant. ' where id=3
+===2014-09-28 21:00 ===
+*MYSQLSanitize(I played around with putting letters on it and that looked pretty nice. I noticed that the wood left behind when I removed the spiral was also a spiral so I cut that out, too.):
+===2014-09-28 21:00 ===
+*parseedit SQL: update projects set implementation='I played around with putting letters on it and that looked pretty nice. I noticed that the wood left behind when I removed the spiral was also a spiral so I cut that out, too.' where id=3
+===2014-09-28 21:00 ===
+*MYSQLSanitize():
+===2014-09-28 21:00 ===
+*parseedit SQL: update projects set result='' where id=3
+===2014-09-28 21:00 ===
+*MYSQLSanitize():
+===2014-09-28 21:00 ===
+*parseedit SQL: update projects set sourcecode='' where id=3
+===2014-09-28 21:00 ===
+*MYSQLSanitize(Don't worry this is handle):
+===2014-09-28 21:00 ===
+*parseedit SQL: update projects set notes='Don\\'t worry this is handle' where id=3
+===2014-09-28 21:02 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+===2014-09-28 21:02 ===
+*MYSQLSanitize(Don't worry this is handled.):
+---2014-09-28 21:02 ---
+*PARAMS:
+Array ()
+===2014-09-28 21:02 ===
+*projno: -1
+===2014-09-28 21:02 ===
+*projectlist:
+===2014-09-28 21:02 ===
+*projectlist():
+===2014-09-28 21:02 ===
+*HTMLHead():
+===2014-09-28 21:02 ===
+*HTMLFOOT():
+===2014-09-28 21:03 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+===2014-09-28 21:03 ===
+*MYSQLSanitize(Don't worry this is handled.):
+---2014-09-28 21:03 ---
+*PARAMS:
+Array ()
+===2014-09-28 21:03 ===
+*projno: -1
+===2014-09-28 21:03 ===
+*projectlist:
+===2014-09-28 21:03 ===
+*projectlist():
+===2014-09-28 21:03 ===
+*HTMLHead():
+===2014-09-28 21:03 ===
+*HTMLFOOT():
+===2014-09-28 21:03 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+===2014-09-28 21:03 ===
+*MYSQLSanitize(Don't worry this is handled.):
+---2014-09-28 21:03 ---
+*PARAMS:
+Array ()
+===2014-09-28 21:03 ===
+*projno: -1
+===2014-09-28 21:03 ===
+*projectlist:
+===2014-09-28 21:03 ===
+*projectlist():
+===2014-09-28 21:03 ===
+*HTMLHead():
+===2014-09-28 21:03 ===
+*HTMLFOOT():
+===2014-09-28 21:04 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+===2014-09-28 21:04 ===
+*MYSQLSanitize(Don't worry this is handled.):
+---2014-09-28 21:04 ---
+*PARAMS:
+Array ()
+===2014-09-28 21:04 ===
+*projno: -1
+===2014-09-28 21:04 ===
+*projectlist:
+===2014-09-28 21:04 ===
+*projectlist():
+===2014-09-28 21:04 ===
+*HTMLHead():
+===2014-09-28 21:04 ===
+*HTMLFOOT():
+===2014-09-28 21:05 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+===2014-09-28 21:05 ===
+*MYSQLSanitize(Don't worry this is handled.):
+---2014-09-28 21:05 ---
+*PARAMS:
+Array ()
+===2014-09-28 21:05 ===
+*projno: -1
+===2014-09-28 21:05 ===
+*projectlist:
+===2014-09-28 21:05 ===
+*projectlist():
+===2014-09-28 21:05 ===
+*HTMLHead():
+===2014-09-28 21:05 ===
+*HTMLFOOT():
+===2014-09-28 21:05 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-09-28 21:05 ---
+*PARAMS:
+Array ()
+===2014-09-28 21:05 ===
+*projno: -1
+===2014-09-28 21:05 ===
+*projectlist:
+===2014-09-28 21:05 ===
+*projectlist():
+===2014-09-28 21:05 ===
+*HTMLHead():
+===2014-09-28 21:05 ===
+*HTMLFOOT():
+===2014-09-28 21:05 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-09-28 21:05 ---
+*PARAMS:
+Array ([mode]=>edit[projno]=>2)
+===2014-09-28 21:05 ===
+*MYSQLSanitize(edit):
+===2014-09-28 21:05 ===
+*MYSQLSanitize(2):
+===2014-09-28 21:05 ===
+*projno: 2
+===2014-09-28 21:05 ===
+*edit:
+===2014-09-28 21:05 ===
+*editproject(2):
+===2014-09-28 21:05 ===
+*Select * from projects where id=2 and active=1:
+===2014-09-28 21:05 ===
+*HTMLHead():
+===2014-09-28 21:05 ===
+*HTMLFOOT():
+===2014-09-28 21:05 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-09-28 21:05 ---
+*PARAMS:
+Array ([mode]=>edit[projno]=>3)
+===2014-09-28 21:05 ===
+*MYSQLSanitize(edit):
+===2014-09-28 21:05 ===
+*MYSQLSanitize(3):
+===2014-09-28 21:05 ===
+*projno: 3
+===2014-09-28 21:05 ===
+*edit:
+===2014-09-28 21:05 ===
+*editproject(3):
+===2014-09-28 21:05 ===
+*Select * from projects where id=3 and active=1:
+===2014-09-28 21:05 ===
+*HTMLHead():
+===2014-09-28 21:05 ===
+*HTMLFOOT():
+===2014-09-28 21:06 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-09-28 21:06 ---
+*PARAMS:
+Array ([projno]=>3[mode]=>parseedit[title]=>Spiral Pendants[seq]=>50[type]=>Laser[pix1]=>[pix2]=>[pix3]=>[description]=>A burning man gift[problem]=>It is customary at Burning Man for a Camp to give gifts to people who visit them. At Object of Worship we were going to give out 3D printed medallions but not everyone would get those (they take at least an hour to make) so I wanted something to just give out.[solution]=>I was playing around with CorelDraw and I did a spiral. It occurred to me that if I cut it out of wood it would make a nice pendant. [implementation]=>I played around with putting letters on it and that looked pretty nice. I noticed that the wood left behind when I removed the spiral was also a spiral so I cut that out, too.[result]=>[sourcecode]=>[notes]=>Don't worry this is handled![AW]=>lib37use)
+===2014-09-28 21:06 ===
+*MYSQLSanitize(parseedit):
+===2014-09-28 21:06 ===
+*MYSQLSanitize(3):
+===2014-09-28 21:06 ===
+*projno: 3
+===2014-09-28 21:06 ===
+*parseedit:
+===2014-09-28 21:06 ===
+*parseadd(params):
+---2014-09-28 21:06 ---
+*params:
+Array ([projno]=>3[mode]=>parseedit[title]=>Spiral Pendants[seq]=>50[type]=>Laser[pix1]=>[pix2]=>[pix3]=>[description]=>A burning man gift[problem]=>It is customary at Burning Man for a Camp to give gifts to people who visit them. At Object of Worship we were going to give out 3D printed medallions but not everyone would get those (they take at least an hour to make) so I wanted something to just give out.[solution]=>I was playing around with CorelDraw and I did a spiral. It occurred to me that if I cut it out of wood it would make a nice pendant. [implementation]=>I played around with putting letters on it and that looked pretty nice. I noticed that the wood left behind when I removed the spiral was also a spiral so I cut that out, too.[result]=>[sourcecode]=>[notes]=>Don't worry this is handled![AW]=>lib37use)
+===2014-09-28 21:06 ===
+*magicpw: lib37use
+---2014-09-28 21:06 ---
+*paramToDB:
+Array ([title]=>title[seq]=>seq[type]=>category[pix1]=>pix1[pix2]=>pix2[pix3]=>pix3[description]=>description[problem]=>problem[solution]=>solution[implementation]=>implementation[result]=>result[sourcecode]=>sourcecode[notes]=>notes)
+===2014-09-28 21:06 ===
+*MYSQLSanitize(Spiral Pendants):
+===2014-09-28 21:06 ===
+*parseedit SQL: update projects set title='Spiral Pendants' where id=3
+===2014-09-28 21:06 ===
+*MYSQLSanitize(50):
+===2014-09-28 21:06 ===
+*parseedit SQL: update projects set seq='50' where id=3
+===2014-09-28 21:06 ===
+*MYSQLSanitize(Laser):
+===2014-09-28 21:06 ===
+*parseedit SQL: update projects set category='Laser' where id=3
+===2014-09-28 21:06 ===
+*MYSQLSanitize():
+===2014-09-28 21:06 ===
+*parseedit SQL: update projects set pix1='' where id=3
+===2014-09-28 21:06 ===
+*MYSQLSanitize():
+===2014-09-28 21:06 ===
+*parseedit SQL: update projects set pix2='' where id=3
+===2014-09-28 21:06 ===
+*MYSQLSanitize():
+===2014-09-28 21:06 ===
+*parseedit SQL: update projects set pix3='' where id=3
+===2014-09-28 21:06 ===
+*MYSQLSanitize(A burning man gift):
+===2014-09-28 21:06 ===
+*parseedit SQL: update projects set description='A burning man gift' where id=3
+===2014-09-28 21:06 ===
+*MYSQLSanitize(It is customary at Burning Man for a Camp to give gifts to people who visit them. At Object of Worship we were going to give out 3D printed medallions but not everyone would get those (they take at least an hour to make) so I wanted something to just give out.):
+===2014-09-28 21:06 ===
+*parseedit SQL: update projects set problem='It is customary at Burning Man for a Camp to give gifts to people who visit them. At Object of Worship we were going to give out 3D printed medallions but not everyone would get those (they take at least an hour to make) so I wanted something to just give out.' where id=3
+===2014-09-28 21:06 ===
+*MYSQLSanitize(I was playing around with CorelDraw and I did a spiral. It occurred to me that if I cut it out of wood it would make a nice pendant. ):
+===2014-09-28 21:06 ===
+*parseedit SQL: update projects set solution='I was playing around with CorelDraw and I did a spiral. It occurred to me that if I cut it out of wood it would make a nice pendant. ' where id=3
+===2014-09-28 21:06 ===
+*MYSQLSanitize(I played around with putting letters on it and that looked pretty nice. I noticed that the wood left behind when I removed the spiral was also a spiral so I cut that out, too.):
+===2014-09-28 21:06 ===
+*parseedit SQL: update projects set implementation='I played around with putting letters on it and that looked pretty nice. I noticed that the wood left behind when I removed the spiral was also a spiral so I cut that out, too.' where id=3
+===2014-09-28 21:06 ===
+*MYSQLSanitize():
+===2014-09-28 21:06 ===
+*parseedit SQL: update projects set result='' where id=3
+===2014-09-28 21:06 ===
+*MYSQLSanitize():
+===2014-09-28 21:06 ===
+*parseedit SQL: update projects set sourcecode='' where id=3
+===2014-09-28 21:06 ===
+*MYSQLSanitize(Don't worry this is handled!):
+===2014-09-28 21:06 ===
+*parseedit SQL: update projects set notes='Don\'t worry this is handled!' where id=3
+===2014-09-28 21:06 ===
+*projectlist():
+===2014-09-28 21:06 ===
+*HTMLHead():
+===2014-09-28 21:06 ===
+*HTMLFOOT():
+===2014-09-28 21:06 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-09-28 21:06 ---
+*PARAMS:
+Array ([mode]=>edit[projno]=>3)
+===2014-09-28 21:06 ===
+*MYSQLSanitize(edit):
+===2014-09-28 21:06 ===
+*MYSQLSanitize(3):
+===2014-09-28 21:06 ===
+*projno: 3
+===2014-09-28 21:06 ===
+*edit:
+===2014-09-28 21:06 ===
+*editproject(3):
+===2014-09-28 21:06 ===
+*Select * from projects where id=3 and active=1:
+===2014-09-28 21:06 ===
+*HTMLHead():
+===2014-09-28 21:06 ===
+*HTMLFOOT():
+===2014-09-28 21:36 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-09-28 21:36 ---
+*PARAMS:
+Array ()
+===2014-09-28 21:36 ===
+*projno: -1
+===2014-09-28 21:36 ===
+*projectlist:
+===2014-09-28 21:36 ===
+*projectlist():
+===2014-09-28 21:36 ===
+*HTMLHead():
+===2014-09-28 21:36 ===
+*HTMLFOOT():
+===2014-09-28 21:36 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-09-28 21:36 ---
+*PARAMS:
+Array ([mode]=>edit[projno]=>9)
+===2014-09-28 21:36 ===
+*MYSQLSanitize(edit):
+===2014-09-28 21:36 ===
+*MYSQLSanitize(9):
+===2014-09-28 21:36 ===
+*projno: 9
+===2014-09-28 21:36 ===
+*edit:
+===2014-09-28 21:36 ===
+*editproject(9):
+===2014-09-28 21:36 ===
+*Select * from projects where id=9 and active=1:
+===2014-09-28 21:36 ===
+*HTMLHead():
+===2014-09-28 21:36 ===
+*HTMLFOOT():
+===2014-09-28 21:36 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-09-28 21:36 ---
+*PARAMS:
+Array ([projno]=>9[mode]=>parseedit[title]=>Company List[seq]=>50[type]=>Web[pix1]=>http://localhost/projects/pix/companylist.jpg[pix2]=>[pix3]=>[description]=>A web application to crowd source companies. [problem]=>I was out of work and I wanted a list of companies that I could research and try to apply to. I was making list in excel but I wanted a more organized and easily edited approach. Besides, was I the only person who needed this or could the efforts of other people be leveraged? [solution]=>I wrote a web app very similar to my game list but, this time, it was a company list. The idea was to make it a sort of wiki. <a href="http://menconi.com/companylist/">Company List</a>[implementation]=>This time I took the game list and automated it. This program is, essentially, a framework. Instead of a routine that opens a database and displays the contents, I wrote a routine that takes a list of stuff (maybe you got it from a database but the routine does not know about that) and displays it, automatically calculating sort parameters and pagination and all the other things require. It works but there were a lot of edge cases, a lot of places where it would break. This experience caused me to explore cake (which is to PHP what rails is to ruby). In the end, although the program worked, in the end I gave up because there were just too many companies out there and too few of them were interesting to me. I was boiling the ocean. Fun project to program, though.[result]=>[sourcecode]=>[notes]=>[AW]=>lib37use)
+===2014-09-28 21:36 ===
+*MYSQLSanitize(parseedit):
+===2014-09-28 21:36 ===
+*MYSQLSanitize(9):
+===2014-09-28 21:36 ===
+*projno: 9
+===2014-09-28 21:36 ===
+*parseedit:
+===2014-09-28 21:36 ===
+*parseadd(params):
+---2014-09-28 21:36 ---
+*params:
+Array ([projno]=>9[mode]=>parseedit[title]=>Company List[seq]=>50[type]=>Web[pix1]=>http://localhost/projects/pix/companylist.jpg[pix2]=>[pix3]=>[description]=>A web application to crowd source companies. [problem]=>I was out of work and I wanted a list of companies that I could research and try to apply to. I was making list in excel but I wanted a more organized and easily edited approach. Besides, was I the only person who needed this or could the efforts of other people be leveraged? [solution]=>I wrote a web app very similar to my game list but, this time, it was a company list. The idea was to make it a sort of wiki. <a href="http://menconi.com/companylist/">Company List</a>[implementation]=>This time I took the game list and automated it. This program is, essentially, a framework. Instead of a routine that opens a database and displays the contents, I wrote a routine that takes a list of stuff (maybe you got it from a database but the routine does not know about that) and displays it, automatically calculating sort parameters and pagination and all the other things require. It works but there were a lot of edge cases, a lot of places where it would break. This experience caused me to explore cake (which is to PHP what rails is to ruby). In the end, although the program worked, in the end I gave up because there were just too many companies out there and too few of them were interesting to me. I was boiling the ocean. Fun project to program, though.[result]=>[sourcecode]=>[notes]=>[AW]=>lib37use)
+===2014-09-28 21:36 ===
+*magicpw: lib37use
+---2014-09-28 21:36 ---
+*paramToDB:
+Array ([title]=>title[seq]=>seq[type]=>category[pix1]=>pix1[pix2]=>pix2[pix3]=>pix3[description]=>description[problem]=>problem[solution]=>solution[implementation]=>implementation[result]=>result[sourcecode]=>sourcecode[notes]=>notes)
+===2014-09-28 21:36 ===
+*MYSQLSanitize(Company List):
+===2014-09-28 21:36 ===
+*parseedit SQL: update projects set title='Company List' where id=9
+===2014-09-28 21:36 ===
+*MYSQLSanitize(50):
+===2014-09-28 21:36 ===
+*parseedit SQL: update projects set seq='50' where id=9
+===2014-09-28 21:36 ===
+*MYSQLSanitize(Web):
+===2014-09-28 21:36 ===
+*parseedit SQL: update projects set category='Web' where id=9
+===2014-09-28 21:36 ===
+*MYSQLSanitize(http://localhost/projects/pix/companylist.jpg):
+===2014-09-28 21:36 ===
+*parseedit SQL: update projects set pix1='http://localhost/projects/pix/companylist.jpg' where id=9
+===2014-09-28 21:36 ===
+*MYSQLSanitize():
+===2014-09-28 21:36 ===
+*parseedit SQL: update projects set pix2='' where id=9
+===2014-09-28 21:36 ===
+*MYSQLSanitize():
+===2014-09-28 21:36 ===
+*parseedit SQL: update projects set pix3='' where id=9
+===2014-09-28 21:36 ===
+*MYSQLSanitize(A web application to crowd source companies. ):
+===2014-09-28 21:36 ===
+*parseedit SQL: update projects set description='A web application to crowd source companies. ' where id=9
+===2014-09-28 21:36 ===
+*MYSQLSanitize(I was out of work and I wanted a list of companies that I could research and try to apply to. I was making list in excel but I wanted a more organized and easily edited approach. Besides, was I the only person who needed this or could the efforts of other people be leveraged? ):
+===2014-09-28 21:36 ===
+*parseedit SQL: update projects set problem='I was out of work and I wanted a list of companies that I could research and try to apply to. I was making list in excel but I wanted a more organized and easily edited approach. Besides, was I the only person who needed this or could the efforts of other people be leveraged? ' where id=9
+===2014-09-28 21:36 ===
+*MYSQLSanitize(I wrote a web app very similar to my game list but, this time, it was a company list. The idea was to make it a sort of wiki. <a href="http://menconi.com/companylist/">Company List</a>):
+===2014-09-28 21:36 ===
+*parseedit SQL: update projects set solution='I wrote a web app very similar to my game list but, this time, it was a company list. The idea was to make it a sort of wiki. <a href=\"http://menconi.com/companylist/\">Company List</a>' where id=9
+===2014-09-28 21:36 ===
+*MYSQLSanitize(This time I took the game list and automated it. This program is, essentially, a framework. Instead of a routine that opens a database and displays the contents, I wrote a routine that takes a list of stuff (maybe you got it from a database but the routine does not know about that) and displays it, automatically calculating sort parameters and pagination and all the other things require. It works but there were a lot of edge cases, a lot of places where it would break. This experience caused me to explore cake (which is to PHP what rails is to ruby). In the end, although the program worked, in the end I gave up because there were just too many companies out there and too few of them were interesting to me. I was boiling the ocean. Fun project to program, though.):
+===2014-09-28 21:36 ===
+*parseedit SQL: update projects set implementation='This time I took the game list and automated it. This program is, essentially, a framework. Instead of a routine that opens a database and displays the contents, I wrote a routine that takes a list of stuff (maybe you got it from a database but the routine does not know about that) and displays it, automatically calculating sort parameters and pagination and all the other things require. It works but there were a lot of edge cases, a lot of places where it would break. This experience caused me to explore cake (which is to PHP what rails is to ruby). In the end, although the program worked, in the end I gave up because there were just too many companies out there and too few of them were interesting to me. I was boiling the ocean. Fun project to program, though.' where id=9
+===2014-09-28 21:36 ===
+*MYSQLSanitize():
+===2014-09-28 21:36 ===
+*parseedit SQL: update projects set result='' where id=9
+===2014-09-28 21:36 ===
+*MYSQLSanitize():
+===2014-09-28 21:36 ===
+*parseedit SQL: update projects set sourcecode='' where id=9
+===2014-09-28 21:36 ===
+*MYSQLSanitize():
+===2014-09-28 21:36 ===
+*parseedit SQL: update projects set notes='' where id=9
+===2014-09-28 21:36 ===
+*projectlist():
+===2014-09-28 21:36 ===
+*HTMLHead():
+===2014-09-28 21:36 ===
+*HTMLFOOT():
+===2014-09-28 21:37 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-09-28 21:37 ---
+*PARAMS:
+Array ([mode]=>edit[projno]=>9)
+===2014-09-28 21:37 ===
+*MYSQLSanitize(edit):
+===2014-09-28 21:37 ===
+*MYSQLSanitize(9):
+===2014-09-28 21:37 ===
+*projno: 9
+===2014-09-28 21:37 ===
+*edit:
+===2014-09-28 21:37 ===
+*editproject(9):
+===2014-09-28 21:37 ===
+*Select * from projects where id=9 and active=1:
+===2014-09-28 21:37 ===
+*HTMLHead():
+===2014-09-28 21:37 ===
+*HTMLFOOT():
+===2014-09-29 21:37 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-09-29 21:37 ---
+*PARAMS:
+Array ()
+===2014-09-29 21:37 ===
+*projno: -1
+===2014-09-29 21:37 ===
+*projectlist:
+===2014-09-29 21:37 ===
+*projectlist():
+===2014-09-29 21:37 ===
+*HTMLHead():
+===2014-09-29 21:37 ===
+*HTMLFOOT():
+===2014-09-29 21:37 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-09-29 21:37 ---
+*PARAMS:
+Array ([mode]=>edit[projno]=>1)
+===2014-09-29 21:37 ===
+*MYSQLSanitize(edit):
+===2014-09-29 21:37 ===
+*MYSQLSanitize(1):
+===2014-09-29 21:37 ===
+*projno: 1
+===2014-09-29 21:37 ===
+*edit:
+===2014-09-29 21:37 ===
+*editproject(1):
+===2014-09-29 21:37 ===
+*Select * from projects where id=1 and active=1:
+===2014-09-29 21:37 ===
+*HTMLHead():
+===2014-09-29 21:37 ===
+*HTMLFOOT():
+===2014-10-06 23:26 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-10-06 23:26 ---
+*PARAMS:
+Array ()
+===2014-10-06 23:26 ===
+*projno: -1
+===2014-10-06 23:26 ===
+*projectlist:
+===2014-10-06 23:26 ===
+*projectlist():
+===2014-10-06 23:26 ===
+*HTMLHead():
+===2014-10-06 23:26 ===
+*HTMLFOOT():
+===2014-10-06 23:26 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-10-06 23:26 ---
+*PARAMS:
+Array ([mode]=>edit[projno]=>20)
+===2014-10-06 23:26 ===
+*MYSQLSanitize(edit):
+===2014-10-06 23:26 ===
+*MYSQLSanitize(20):
+===2014-10-06 23:26 ===
+*projno: 20
+===2014-10-06 23:26 ===
+*edit:
+===2014-10-06 23:26 ===
+*editproject(20):
+===2014-10-06 23:26 ===
+*Select * from projects where id=20 and active=1:
+===2014-10-06 23:26 ===
+*HTMLHead():
+===2014-10-06 23:26 ===
+*HTMLFOOT():
+===2014-10-06 23:28 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-10-06 23:28 ---
+*PARAMS:
+Array ([projno]=>20[mode]=>parseedit[title]=>Destiny Sticks[seq]=>50[type]=>Laser[pix1]=>[pix2]=>[pix3]=>[description]=>Sticks with burning man camp names; take the stick to a camp and see if you can get someone there to bring it back.[problem]=>I used to go to Burning Man every year. One of the (many) challenges of going to Burning Man is to find a creative way to get other people to participate in an art project. Sure, you can build a 200 foot high sculpture or blow something up but that's not really PARTICIPATORY, just impressive. Besides, those projects are REALLY EXPENSIVE. How to get someone to participate in the project: that's the trick.[solution]=>As it happened, there was a Facebook site for camps in the 7:30 neighborhood (in Black Rock City, as in any other city, a main street and nearby side streets are called a neighborhood and the main streets have clock times -- 3:00, 4:30, 6:00, 7:30, 9:00) which was the neighborhood our camp was located that year. People on the Facebook page posted a message saying who they were and where they were located in the neighborhood. My idea was to create a set of little sticks -- they look like popsicle sticks -- that had the name and address of each of the camps on them. We would try to entice visitors to take a stick and deliver it to the camp listed on the stick and try to convince someone at that camp to bring it back. The reason this is a good project is because it gets people moving around and interacting with each other. I called them "Destiny Sticks" as in "It is your destiny to go to camp X."[implementation]=>I cut the sticks out of 1/8" plywood and, using the list of camps that I pulled off of Facebook (I created a spreadsheet up on Google Docs and shared with everyone in the neighborhood which got me a minor reputation). We put the sticks in a cup in a prominent location in our camp and did our best to convince every visitor to take a stick and "find their destiny." [result]=>A lot of people took sticks. We don't know who many actually took them to their destination camps but certainly some did and, presumably, someone at the camp accepted the stick and kept it. Imagine how that looks from their end: someone shows up with a custom etched stick with your camp's name on it; you naturally keep it as a souvenir! But there were at least 2 cases where someone from a neighboring camp brought the sticks back, so we know the project as at least marginally successful.
+[sourcecode]=>[notes]=>[AW]=>lib37use)
+===2014-10-06 23:28 ===
+*MYSQLSanitize(parseedit):
+===2014-10-06 23:28 ===
+*MYSQLSanitize(20):
+===2014-10-06 23:28 ===
+*projno: 20
+===2014-10-06 23:28 ===
+*parseedit:
+===2014-10-06 23:28 ===
+*parseadd(params):
+---2014-10-06 23:28 ---
+*params:
+Array ([projno]=>20[mode]=>parseedit[title]=>Destiny Sticks[seq]=>50[type]=>Laser[pix1]=>[pix2]=>[pix3]=>[description]=>Sticks with burning man camp names; take the stick to a camp and see if you can get someone there to bring it back.[problem]=>I used to go to Burning Man every year. One of the (many) challenges of going to Burning Man is to find a creative way to get other people to participate in an art project. Sure, you can build a 200 foot high sculpture or blow something up but that's not really PARTICIPATORY, just impressive. Besides, those projects are REALLY EXPENSIVE. How to get someone to participate in the project: that's the trick.[solution]=>As it happened, there was a Facebook site for camps in the 7:30 neighborhood (in Black Rock City, as in any other city, a main street and nearby side streets are called a neighborhood and the main streets have clock times -- 3:00, 4:30, 6:00, 7:30, 9:00) which was the neighborhood our camp was located that year. People on the Facebook page posted a message saying who they were and where they were located in the neighborhood. My idea was to create a set of little sticks -- they look like popsicle sticks -- that had the name and address of each of the camps on them. We would try to entice visitors to take a stick and deliver it to the camp listed on the stick and try to convince someone at that camp to bring it back. The reason this is a good project is because it gets people moving around and interacting with each other. I called them "Destiny Sticks" as in "It is your destiny to go to camp X."[implementation]=>I cut the sticks out of 1/8" plywood and, using the list of camps that I pulled off of Facebook (I created a spreadsheet up on Google Docs and shared with everyone in the neighborhood which got me a minor reputation). We put the sticks in a cup in a prominent location in our camp and did our best to convince every visitor to take a stick and "find their destiny." [result]=>A lot of people took sticks. We don't know who many actually took them to their destination camps but certainly some did and, presumably, someone at the camp accepted the stick and kept it. Imagine how that looks from their end: someone shows up with a custom etched stick with your camp's name on it; you naturally keep it as a souvenir! But there were at least 2 cases where someone from a neighboring camp brought the sticks back, so we know the project as at least marginally successful.
+[sourcecode]=>[notes]=>[AW]=>lib37use)
+===2014-10-06 23:28 ===
+*magicpw: lib37use
+---2014-10-06 23:28 ---
+*paramToDB:
+Array ([title]=>title[seq]=>seq[type]=>category[pix1]=>pix1[pix2]=>pix2[pix3]=>pix3[description]=>description[problem]=>problem[solution]=>solution[implementation]=>implementation[result]=>result[sourcecode]=>sourcecode[notes]=>notes)
+===2014-10-06 23:28 ===
+*MYSQLSanitize(Destiny Sticks):
+===2014-10-06 23:28 ===
+*parseedit SQL: update projects set title='Destiny Sticks' where id=20
+===2014-10-06 23:28 ===
+*MYSQLSanitize(50):
+===2014-10-06 23:28 ===
+*parseedit SQL: update projects set seq='50' where id=20
+===2014-10-06 23:28 ===
+*MYSQLSanitize(Laser):
+===2014-10-06 23:28 ===
+*parseedit SQL: update projects set category='Laser' where id=20
+===2014-10-06 23:28 ===
+*MYSQLSanitize():
+===2014-10-06 23:28 ===
+*parseedit SQL: update projects set pix1='' where id=20
+===2014-10-06 23:28 ===
+*MYSQLSanitize():
+===2014-10-06 23:28 ===
+*parseedit SQL: update projects set pix2='' where id=20
+===2014-10-06 23:28 ===
+*MYSQLSanitize():
+===2014-10-06 23:28 ===
+*parseedit SQL: update projects set pix3='' where id=20
+===2014-10-06 23:28 ===
+*MYSQLSanitize(Sticks with burning man camp names; take the stick to a camp and see if you can get someone there to bring it back.):
+===2014-10-06 23:28 ===
+*parseedit SQL: update projects set description='Sticks with burning man camp names; take the stick to a camp and see if you can get someone there to bring it back.' where id=20
+===2014-10-06 23:28 ===
+*MYSQLSanitize(I used to go to Burning Man every year. One of the (many) challenges of going to Burning Man is to find a creative way to get other people to participate in an art project. Sure, you can build a 200 foot high sculpture or blow something up but that's not really PARTICIPATORY, just impressive. Besides, those projects are REALLY EXPENSIVE. How to get someone to participate in the project: that's the trick.):
+===2014-10-06 23:28 ===
+*parseedit SQL: update projects set problem='I used to go to Burning Man every year. One of the (many) challenges of going to Burning Man is to find a creative way to get other people to participate in an art project. Sure, you can build a 200 foot high sculpture or blow something up but that\'s not really PARTICIPATORY, just impressive. Besides, those projects are REALLY EXPENSIVE. How to get someone to participate in the project: that\'s the trick.' where id=20
+===2014-10-06 23:28 ===
+*MYSQLSanitize(As it happened, there was a Facebook site for camps in the 7:30 neighborhood (in Black Rock City, as in any other city, a main street and nearby side streets are called a neighborhood and the main streets have clock times -- 3:00, 4:30, 6:00, 7:30, 9:00) which was the neighborhood our camp was located that year. People on the Facebook page posted a message saying who they were and where they were located in the neighborhood. My idea was to create a set of little sticks -- they look like popsicle sticks -- that had the name and address of each of the camps on them. We would try to entice visitors to take a stick and deliver it to the camp listed on the stick and try to convince someone at that camp to bring it back. The reason this is a good project is because it gets people moving around and interacting with each other. I called them "Destiny Sticks" as in "It is your destiny to go to camp X."):
+===2014-10-06 23:28 ===
+*parseedit SQL: update projects set solution='As it happened, there was a Facebook site for camps in the 7:30 neighborhood (in Black Rock City, as in any other city, a main street and nearby side streets are called a neighborhood and the main streets have clock times -- 3:00, 4:30, 6:00, 7:30, 9:00) which was the neighborhood our camp was located that year. People on the Facebook page posted a message saying who they were and where they were located in the neighborhood. My idea was to create a set of little sticks -- they look like popsicle sticks -- that had the name and address of each of the camps on them. We would try to entice visitors to take a stick and deliver it to the camp listed on the stick and try to convince someone at that camp to bring it back. The reason this is a good project is because it gets people moving around and interacting with each other. I called them \"Destiny Sticks\" as in \"It is your destiny to go to camp X.\"' where id=20
+===2014-10-06 23:28 ===
+*MYSQLSanitize(I cut the sticks out of 1/8" plywood and, using the list of camps that I pulled off of Facebook (I created a spreadsheet up on Google Docs and shared with everyone in the neighborhood which got me a minor reputation). We put the sticks in a cup in a prominent location in our camp and did our best to convince every visitor to take a stick and "find their destiny." ):
+===2014-10-06 23:28 ===
+*parseedit SQL: update projects set implementation='I cut the sticks out of 1/8\" plywood and, using the list of camps that I pulled off of Facebook (I created a spreadsheet up on Google Docs and shared with everyone in the neighborhood which got me a minor reputation). We put the sticks in a cup in a prominent location in our camp and did our best to convince every visitor to take a stick and \"find their destiny.\" ' where id=20
+===2014-10-06 23:28 ===
+*MYSQLSanitize(A lot of people took sticks. We don't know who many actually took them to their destination camps but certainly some did and, presumably, someone at the camp accepted the stick and kept it. Imagine how that looks from their end: someone shows up with a custom etched stick with your camp's name on it; you naturally keep it as a souvenir! But there were at least 2 cases where someone from a neighboring camp brought the sticks back, so we know the project as at least marginally successful.
+):
+===2014-10-06 23:28 ===
+*parseedit SQL: update projects set result='A lot of people took sticks. We don\'t know who many actually took them to their destination camps but certainly some did and, presumably, someone at the camp accepted the stick and kept it. Imagine how that looks from their end: someone shows up with a custom etched stick with your camp\'s name on it; you naturally keep it as a souvenir! But there were at least 2 cases where someone from a neighboring camp brought the sticks back, so we know the project as at least marginally successful.\r\n' where id=20
+===2014-10-06 23:28 ===
+*MYSQLSanitize():
+===2014-10-06 23:28 ===
+*parseedit SQL: update projects set sourcecode='' where id=20
+===2014-10-06 23:28 ===
+*MYSQLSanitize():
+===2014-10-06 23:28 ===
+*parseedit SQL: update projects set notes='' where id=20
+===2014-10-06 23:28 ===
+*projectlist():
+===2014-10-06 23:28 ===
+*HTMLHead():
+===2014-10-06 23:28 ===
+*HTMLFOOT():
+===2014-10-06 23:28 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-10-06 23:28 ---
+*PARAMS:
+Array ([mode]=>edit[projno]=>20)
+===2014-10-06 23:28 ===
+*MYSQLSanitize(edit):
+===2014-10-06 23:28 ===
+*MYSQLSanitize(20):
+===2014-10-06 23:28 ===
+*projno: 20
+===2014-10-06 23:28 ===
+*edit:
+===2014-10-06 23:28 ===
+*editproject(20):
+===2014-10-06 23:28 ===
+*Select * from projects where id=20 and active=1:
+===2014-10-06 23:28 ===
+*HTMLHead():
+===2014-10-06 23:28 ===
+*HTMLFOOT():
+===2014-10-07 13:43 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-10-07 13:43 ---
+*PARAMS:
+Array ()
+===2014-10-07 13:43 ===
+*projno: -1
+===2014-10-07 13:43 ===
+*projectlist:
+===2014-10-07 13:43 ===
+*projectlist():
+===2014-10-07 13:43 ===
+*HTMLHead():
+===2014-10-07 13:43 ===
+*HTMLFOOT():
+===2014-10-07 13:43 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-10-07 13:43 ---
+*PARAMS:
+Array ([mode]=>edit[projno]=>4)
+===2014-10-07 13:43 ===
+*MYSQLSanitize(edit):
+===2014-10-07 13:43 ===
+*MYSQLSanitize(4):
+===2014-10-07 13:43 ===
+*projno: 4
+===2014-10-07 13:43 ===
+*edit:
+===2014-10-07 13:43 ===
+*editproject(4):
+===2014-10-07 13:43 ===
+*Select * from projects where id=4 and active=1:
+===2014-10-07 13:43 ===
+*HTMLHead():
+===2014-10-07 13:43 ===
+*HTMLFOOT():
+===2014-10-07 13:44 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-10-07 13:44 ---
+*PARAMS:
+Array ([projno]=>4[mode]=>parseedit[title]=>Buttons[seq]=>50[type]=>Laser[pix1]=>[pix2]=>[pix3]=>[description]=>wooden buttons[problem]=>I had a little extra time on the laser etcher at TechShop and I went online to find something to etch (boredom: another motivator of greatness). I found these 12 Julia Sets that someone had arranged to make a dodecahedron (12 faced 3 dimensional object). I made 12 little pentagons and cut them out of wood. [solution]=>My colleague at work, Ambur, saw this and suggested that it would make a really nice button. So I made some buttons for her out of it. [implementation]=>The way I did the Julia sets was to have an outline and an inner hole. The buttons were made from the inner hole.[result]=>'[sourcecode]=>[notes]=>[AW]=>lib37use)
+===2014-10-07 13:44 ===
+*MYSQLSanitize(parseedit):
+===2014-10-07 13:44 ===
+*MYSQLSanitize(4):
+===2014-10-07 13:44 ===
+*projno: 4
+===2014-10-07 13:44 ===
+*parseedit:
+===2014-10-07 13:44 ===
+*parseadd(params):
+---2014-10-07 13:44 ---
+*params:
+Array ([projno]=>4[mode]=>parseedit[title]=>Buttons[seq]=>50[type]=>Laser[pix1]=>[pix2]=>[pix3]=>[description]=>wooden buttons[problem]=>I had a little extra time on the laser etcher at TechShop and I went online to find something to etch (boredom: another motivator of greatness). I found these 12 Julia Sets that someone had arranged to make a dodecahedron (12 faced 3 dimensional object). I made 12 little pentagons and cut them out of wood. [solution]=>My colleague at work, Ambur, saw this and suggested that it would make a really nice button. So I made some buttons for her out of it. [implementation]=>The way I did the Julia sets was to have an outline and an inner hole. The buttons were made from the inner hole.[result]=>'[sourcecode]=>[notes]=>[AW]=>lib37use)
+===2014-10-07 13:44 ===
+*magicpw: lib37use
+---2014-10-07 13:44 ---
+*paramToDB:
+Array ([title]=>title[seq]=>seq[type]=>category[pix1]=>pix1[pix2]=>pix2[pix3]=>pix3[description]=>description[problem]=>problem[solution]=>solution[implementation]=>implementation[result]=>result[sourcecode]=>sourcecode[notes]=>notes)
+===2014-10-07 13:44 ===
+*MYSQLSanitize(Buttons):
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set title='Buttons' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize(50):
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set seq='50' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize(Laser):
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set category='Laser' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize():
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set pix1='' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize():
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set pix2='' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize():
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set pix3='' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize(wooden buttons):
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set description='wooden buttons' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize(I had a little extra time on the laser etcher at TechShop and I went online to find something to etch (boredom: another motivator of greatness). I found these 12 Julia Sets that someone had arranged to make a dodecahedron (12 faced 3 dimensional object). I made 12 little pentagons and cut them out of wood. ):
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set problem='I had a little extra time on the laser etcher at TechShop and I went online to find something to etch (boredom: another motivator of greatness). I found these 12 Julia Sets that someone had arranged to make a dodecahedron (12 faced 3 dimensional object). I made 12 little pentagons and cut them out of wood. ' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize(My colleague at work, Ambur, saw this and suggested that it would make a really nice button. So I made some buttons for her out of it. ):
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set solution='My colleague at work, Ambur, saw this and suggested that it would make a really nice button. So I made some buttons for her out of it. ' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize(The way I did the Julia sets was to have an outline and an inner hole. The buttons were made from the inner hole.):
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set implementation='The way I did the Julia sets was to have an outline and an inner hole. The buttons were made from the inner hole.' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize('):
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set result='\'' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize():
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set sourcecode='' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize():
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set notes='' where id=4
+===2014-10-07 13:44 ===
+*projectlist():
+===2014-10-07 13:44 ===
+*HTMLHead():
+===2014-10-07 13:44 ===
+*HTMLFOOT():
+===2014-10-07 13:44 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-10-07 13:44 ---
+*PARAMS:
+Array ([mode]=>edit[projno]=>4)
+===2014-10-07 13:44 ===
+*MYSQLSanitize(edit):
+===2014-10-07 13:44 ===
+*MYSQLSanitize(4):
+===2014-10-07 13:44 ===
+*projno: 4
+===2014-10-07 13:44 ===
+*edit:
+===2014-10-07 13:44 ===
+*editproject(4):
+===2014-10-07 13:44 ===
+*Select * from projects where id=4 and active=1:
+===2014-10-07 13:44 ===
+*HTMLHead():
+===2014-10-07 13:44 ===
+*HTMLFOOT():
+===2014-10-07 13:44 ===
+*----------------- START PROJECTS EDITOR --------------------------------------:
+---2014-10-07 13:44 ---
+*PARAMS:
+Array ([projno]=>4[mode]=>parseedit[title]=>Buttons[seq]=>50[type]=>Laser[pix1]=>[pix2]=>[pix3]=>[description]=>wooden buttons[problem]=>I had a little extra time on the laser etcher at TechShop and I went online to find something to etch (boredom: another motivator of greatness). I found these 12 Julia Sets that someone had arranged to make a dodecahedron (12 faced 3 dimensional object). I made 12 little pentagons and cut them out of wood. [solution]=>My colleague at work, Ambur, saw this and suggested that it would make a really nice button. So I made some buttons for her out of it. [implementation]=>The way I did the Julia sets was to have an outline and an inner hole. The buttons were made from the inner hole.[result]=>[sourcecode]=>[notes]=>[AW]=>lib37use)
+===2014-10-07 13:44 ===
+*MYSQLSanitize(parseedit):
+===2014-10-07 13:44 ===
+*MYSQLSanitize(4):
+===2014-10-07 13:44 ===
+*projno: 4
+===2014-10-07 13:44 ===
+*parseedit:
+===2014-10-07 13:44 ===
+*parseadd(params):
+---2014-10-07 13:44 ---
+*params:
+Array ([projno]=>4[mode]=>parseedit[title]=>Buttons[seq]=>50[type]=>Laser[pix1]=>[pix2]=>[pix3]=>[description]=>wooden buttons[problem]=>I had a little extra time on the laser etcher at TechShop and I went online to find something to etch (boredom: another motivator of greatness). I found these 12 Julia Sets that someone had arranged to make a dodecahedron (12 faced 3 dimensional object). I made 12 little pentagons and cut them out of wood. [solution]=>My colleague at work, Ambur, saw this and suggested that it would make a really nice button. So I made some buttons for her out of it. [implementation]=>The way I did the Julia sets was to have an outline and an inner hole. The buttons were made from the inner hole.[result]=>[sourcecode]=>[notes]=>[AW]=>lib37use)
+===2014-10-07 13:44 ===
+*magicpw: lib37use
+---2014-10-07 13:44 ---
+*paramToDB:
+Array ([title]=>title[seq]=>seq[type]=>category[pix1]=>pix1[pix2]=>pix2[pix3]=>pix3[description]=>description[problem]=>problem[solution]=>solution[implementation]=>implementation[result]=>result[sourcecode]=>sourcecode[notes]=>notes)
+===2014-10-07 13:44 ===
+*MYSQLSanitize(Buttons):
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set title='Buttons' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize(50):
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set seq='50' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize(Laser):
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set category='Laser' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize():
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set pix1='' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize():
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set pix2='' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize():
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set pix3='' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize(wooden buttons):
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set description='wooden buttons' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize(I had a little extra time on the laser etcher at TechShop and I went online to find something to etch (boredom: another motivator of greatness). I found these 12 Julia Sets that someone had arranged to make a dodecahedron (12 faced 3 dimensional object). I made 12 little pentagons and cut them out of wood. ):
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set problem='I had a little extra time on the laser etcher at TechShop and I went online to find something to etch (boredom: another motivator of greatness). I found these 12 Julia Sets that someone had arranged to make a dodecahedron (12 faced 3 dimensional object). I made 12 little pentagons and cut them out of wood. ' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize(My colleague at work, Ambur, saw this and suggested that it would make a really nice button. So I made some buttons for her out of it. ):
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set solution='My colleague at work, Ambur, saw this and suggested that it would make a really nice button. So I made some buttons for her out of it. ' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize(The way I did the Julia sets was to have an outline and an inner hole. The buttons were made from the inner hole.):
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set implementation='The way I did the Julia sets was to have an outline and an inner hole. The buttons were made from the inner hole.' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize():
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set result='' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize():
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set sourcecode='' where id=4
+===2014-10-07 13:44 ===
+*MYSQLSanitize():
+===2014-10-07 13:44 ===
+*parseedit SQL: update projects set notes='' where id=4
+===2014-10-07 13:44 ===
+*projectlist():
+===2014-10-07 13:44 ===
+*HTMLHead():
+===2014-10-07 13:44 ===
+*HTMLFOOT():

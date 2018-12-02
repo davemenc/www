@@ -1,0 +1,35 @@
+
+create
+	Document
+		add_section
+		add_subsection
+	Design
+		newdesign
+		newdesign_parse
+	Notes
+		informal_parse
+read
+	Design List
+		display_directory
+	Document
+		displayformal
+	Notes
+		informal
+update
+	Design
+		edit_design
+	Document
+		formal_parse
+		formaledit
+		parse_renumber
+		parse_design
+		renumber
+	Notes
+		informal_edit
+		informal_edit_parse
+	Admin
+		parseAddPrivs
+		parseDelPrivs
+delete
+
+

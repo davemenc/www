@@ -1,0 +1,144 @@
+===2011-12-11 19:02 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+===2011-12-11 19:02 ===
+*dbname: puzzle
+===2011-12-11 19:02 ===
+*dbuser: root
+===2011-12-11 19:02 ===
+*dbpass: 
+===2011-12-11 19:02 ===
+*dbhost: localhost
+===2011-12-11 19:02 ===
+*localdir: http://192.168.1.100/
+===2011-12-11 19:02 ===
+*imagepath: http://192.168.1.100/
+---2011-12-11 19:02 ---
+*puzzles:
+Array ([puzzleid]=>1[title]=>Title[puzzletext]=>Puzzle text[answer]=>answer[fake1]=>fake1[fake2]=>fake2[fake3]=>fake3[fake4]=>fake4[active]=>1[correct]=>0[tries]=>0[puzzlets]=>2011-12-11 10:17:07)
+---2011-12-11 19:02 ---
+*params:
+Array ()
+===2011-12-11 19:02 ===
+*mode: display_puzzles
+===2011-12-11 19:02 ===
+*display_puzzles():
+===2011-12-11 19:02 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+===2011-12-11 19:02 ===
+*dbname: puzzle
+===2011-12-11 19:02 ===
+*dbuser: root
+===2011-12-11 19:02 ===
+*dbpass: 
+===2011-12-11 19:02 ===
+*dbhost: localhost
+===2011-12-11 19:02 ===
+*localdir: http://192.168.1.100/
+===2011-12-11 19:02 ===
+*imagepath: http://192.168.1.100/
+---2011-12-11 19:02 ---
+*puzzles:
+Array ([puzzleid]=>1[title]=>Title[puzzletext]=>Puzzle text[answer]=>answer[fake1]=>fake1[fake2]=>fake2[fake3]=>fake3[fake4]=>fake4[active]=>1[correct]=>0[tries]=>0[puzzlets]=>2011-12-11 10:17:07)
+---2011-12-11 19:02 ---
+*params:
+Array ()
+===2011-12-11 19:02 ===
+*mode: display_puzzles
+===2011-12-11 19:02 ===
+*display_puzzles():
+===2011-12-11 19:02 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+===2011-12-11 19:02 ===
+*dbname: puzzle
+===2011-12-11 19:02 ===
+*dbuser: root
+===2011-12-11 19:02 ===
+*dbpass: 
+===2011-12-11 19:02 ===
+*dbhost: localhost
+===2011-12-11 19:02 ===
+*localdir: http://192.168.1.100/
+===2011-12-11 19:02 ===
+*imagepath: http://192.168.1.100/
+---2011-12-11 19:02 ---
+*puzzles:
+Array ([puzzleid]=>1[title]=>Title[puzzletext]=>Puzzle text[answer]=>answer[fake1]=>fake1[fake2]=>fake2[fake3]=>fake3[fake4]=>fake4[active]=>1[correct]=>0[tries]=>0[puzzlets]=>2011-12-11 10:17:07)
+---2011-12-11 19:02 ---
+*params:
+Array ()
+===2011-12-11 19:02 ===
+*mode: display_puzzles
+===2011-12-11 19:02 ===
+*display_puzzles():
+===2011-12-11 19:03 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+===2011-12-11 19:03 ===
+*dbname: puzzle
+===2011-12-11 19:03 ===
+*dbuser: root
+===2011-12-11 19:03 ===
+*dbpass: 
+===2011-12-11 19:03 ===
+*dbhost: localhost
+===2011-12-11 19:03 ===
+*localdir: http://192.168.1.100/
+===2011-12-11 19:03 ===
+*imagepath: http://192.168.1.100/
+---2011-12-11 19:03 ---
+*puzzles:
+Array ([puzzleid]=>1[title]=>Title[puzzletext]=>Puzzle text[answer]=>answer[fake1]=>fake1[fake2]=>fake2[fake3]=>fake3[fake4]=>fake4[active]=>1[correct]=>0[tries]=>0[puzzlets]=>2011-12-11 10:17:07)
+---2011-12-11 19:03 ---
+*params:
+Array ()
+===2011-12-11 19:03 ===
+*mode: display_puzzles
+===2011-12-11 19:03 ===
+*display_puzzles():
+===2011-12-11 19:03 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+===2011-12-11 19:03 ===
+*dbname: puzzle
+===2011-12-11 19:03 ===
+*dbuser: root
+===2011-12-11 19:03 ===
+*dbpass: 
+===2011-12-11 19:03 ===
+*dbhost: localhost
+===2011-12-11 19:03 ===
+*localdir: http://192.168.1.100/
+===2011-12-11 19:03 ===
+*imagepath: http://192.168.1.100/
+---2011-12-11 19:03 ---
+*puzzles:
+Array ([puzzleid]=>1[title]=>Title[puzzletext]=>Puzzle text[answer]=>answer[fake1]=>fake1[fake2]=>fake2[fake3]=>fake3[fake4]=>fake4[active]=>1[correct]=>0[tries]=>0[puzzlets]=>2011-12-11 10:17:07)
+---2011-12-11 19:03 ---
+*params:
+Array ()
+===2011-12-11 19:03 ===
+*mode: display_puzzles
+===2011-12-11 19:03 ===
+*display_puzzles():
+===2011-12-11 19:05 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+===2011-12-11 19:05 ===
+*dbname: puzzle
+===2011-12-11 19:05 ===
+*dbuser: root
+===2011-12-11 19:05 ===
+*dbpass: 
+===2011-12-11 19:05 ===
+*dbhost: localhost
+===2011-12-11 19:05 ===
+*localdir: http://192.168.1.100/
+===2011-12-11 19:05 ===
+*imagepath: http://192.168.1.100/
+---2011-12-11 19:05 ---
+*puzzles:
+Array ([puzzleid]=>1[title]=>Title[puzzletext]=>Puzzle text[answer]=>answer[fake1]=>fake1[fake2]=>fake2[fake3]=>fake3[fake4]=>fake4[active]=>1[correct]=>0[tries]=>0[puzzlets]=>2011-12-11 10:17:07)
+---2011-12-11 19:05 ---
+*params:
+Array ()
+===2011-12-11 19:05 ===
+*mode: display_puzzles
+===2011-12-11 19:05 ===
+*display_puzzles():

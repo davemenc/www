@@ -1,0 +1,44 @@
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html;
+charset=iso-8859-1">
+   <meta name="description" content="Informal Design Form">
+   <meta name="">
+   <meta name="DISTRIBUTION" content="IU">
+   <meta name="ROBOTS" content="noindex,nofollow">
+   <meta name="revisit-after" content="30 days">
+   <meta name="copyright" content="Copyright © 2007 Dave Menconi, All
+Rights Reserved">
+
+   <meta name="author" content="Dave Menconi">
+
+   <meta name="rating" content="PG-13">
+   <Title>Numbers Game Rules</title>
+</head>
+<body bgcolor="#deffff" >
+<h2>Why Weight GAME RULES</h2>
+<font size="+1"><b>OVERVIEW</font></b><br>
+The Why Weight Game is, essentially, a race to see who can lose more weight in the course of a year and each month within the year.<br>
+*average: the sum of all guesses divided by the number of players who 
+guessed.<br><br>
+
+<font size="+1"><b>REGISTERING</font></b><br>
+In order to play Why Weight you must <a href="index.php">register</a>. 
+<b>It's free!</b>  It's really quite easy; simply go to the <a href="index.php">registration page</a> and fill out the information on the right side of the screen. We'll send you an email with a link. Click on the link and you'll be fully registered. Then you can play the game.<br><br>
+
+<font size="+1"><b>Entering Your Weight</font></b><br>
+To enter your weight, simply go to the <a href="index.php?mode=displayguess">enter weight page</a>, log in and select the month and enter your weight. The weight is processed so only the numbers count. Your weight can be a decimal number.
+ <br><br>
+
+<font size="+1"><b>WINNING</font></b><br>
+  The winner in each month is the person who has lost the largest percentage that month. The winner for the year is the person who has lost the largest percentage of their weight in the course of a year. Note that your starting weight is actually your weight from last year. <br><br>
+
+<font size="+1"><b>HISTORY</font></b><br>
+At the bottome of the enter weight page is a table with all the information for this year.<br>
+
+
+	     <p><font size=-2>This page (including all images) Copyright &copy; 2012  Dave
+	     Menconi.</font>
+	     </body>
+</html>
+

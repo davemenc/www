@@ -1,0 +1,167 @@
+use play;
+#this is the gene file
+# it has a unique gene id that's the foreign key everywhere
+#Run is the test number
+#generation is which generation these genes belong to
+#geneno is the number of this gene IN this generation FOR this run
+#geneno 1 is the first gene for it's generation -- it is NOT unque
+#avgscore is the average rating for this gene when the generation is over; in theory you could get this from ratings
+drop table if exists genes;
+create table genes (
+id int AUTO_INCREMENT primary key, 
+run int not null,
+generation int not null,
+gene tinytext,
+avgscore float default 0,
+ratings int default 0,
+ts timestamp
+);
+#show create table genes;
+insert into genes (run,generation,gene) values (1,1,'10100110010001010001110010010111011110101111');
+insert into genes (run,generation,gene) values (1,1,'00111000010000101111010010101100011010100000');
+insert into genes (run,generation,gene) values (1,1,'00001001101000000011000110100101111111100001');
+insert into genes (run,generation,gene) values (1,1,'01101100010101001111100001101010100110011101');
+insert into genes (run,generation,gene) values (1,1,'00111101100001011000001100101110100100001111');
+insert into genes (run,generation,gene) values (1,1,'10100101001000111010000101000001001000101011');
+insert into genes (run,generation,gene) values (1,1,'01100100011010101111001011101000101001001110');
+insert into genes (run,generation,gene) values (1,1,'00010010011101111001000011101010100100100001');
+insert into genes (run,generation,gene) values (1,1,'00000110111001110000000110000000001110100001');
+insert into genes (run,generation,gene) values (2,1,'10000010000011110011101110010011001100010000');
+insert into genes (run,generation,gene) values (2,1,'10001101010110101100111111010101010101001100');
+insert into genes (run,generation,gene) values (2,1,'00000101110000111001110101000001011011000010');
+insert into genes (run,generation,gene) values (2,1,'00100010110110001110111011110011001011111010');
+insert into genes (run,generation,gene) values (2,1,'00100100110101011110010110001011010010011001');
+insert into genes (run,generation,gene) values (2,1,'00011001111101001011010110010111110111111000');
+insert into genes (run,generation,gene) values (1,1,'00111000100100001001010111011101110111101100');
+insert into genes (run,generation,gene) values (1,1,'10001000011100011111001001010000010111110001');
+insert into genes (run,generation,gene) values (1,1,'00001011101011001001010110010111000010001100');
+insert into genes (run,generation,gene) values (1,1,'10001000100111000100000101111111100111001111');
+insert into genes (run,generation,gene) values (1,1,'00101000100100001001010110010111101010101111');
+insert into genes (run,generation,gene) values (1,1,'00101000100100001001010110010000000111101111');
+insert into genes (run,generation,gene) values (1,1,'11101100011101100101000101000000011000011100');
+insert into genes (run,generation,gene) values (1,1,'01011111111111001001010011000111101110101000');
+insert into genes (run,generation,gene) values (1,1,'00100101010011110111111111010000011010111111');
+insert into genes (run,generation,gene) values (1,1,'10101000100010000100010110100100110001111010');
+insert into genes (run,generation,gene) values (1,1,'10101101100111110100101011100101010101010001');
+insert into genes (run,generation,gene) values (1,1,'10011110111011100101110000001011110101011011');
+insert into genes (run,generation,gene) values (1,1,'11000000101010001010010010010100000100111101');
+insert into genes (run,generation,gene) values (1,1,'11110010111111011100001110010000001110000001');
+insert into genes (run,generation,gene) values (1,1,'11011101000111000001110001011100111111100101');
+insert into genes (run,generation,gene) values (1,1,'00101111000111001001110001100100101110111010');
+insert into genes (run,generation,gene) values (1,1,'01110011110000100011001011100100000001011110');
+insert into genes (run,generation,gene) values (1,1,'11000000000000100010111011100010001011100111');
+insert into genes (run,generation,gene) values (1,1,'01010000000010010000100000010000010110000000');
+insert into genes (run,generation,gene) values (1,1,'00011000101100101101000101111001111010100000');
+
+
+drop table if exists ratings;
+create table ratings (
+id int AUTO_INCREMENT primary key,
+geneid int not null,
+rating float not null,
+ts timestamp
+);
+
+drop table if exists runs;
+create table runs (
+id int AUTO_INCREMENT primary key,
+status enum("Ongoing", "Paused", "Ended", "Pending"),
+ts timestamp
+);
+
+#these are some favorite genes from all the runs
+#I'd like to note, say, 5 genes from each generation
+#this might be a bad idea since the same info is in genes.
+drop table if exists best;
+create table best(
+id int AUTO_INCREMENT primary key,
+geneid int not null,
+ts timestamp
+);
+
+
+#test data
+#insert into genes (run,generation,avgscore,gene) values (1,1,1,0,'11010100011101100101000101000000011000011100');
+#insert into genes (run,generation,avgscore,gene) values (1,1,2,0,'01011111111111001001010011000111101');
+#insert into genes (run,generation,avgscore,gene) values (1,2,1,0,'00111101010011110111111111010000011');
+#insert into genes (run,generation,avgscore,gene) values (1,2,2,0,'10101000100010000100010110100100110');
+#insert into genes (run,generation,avgscore,gene) values (1,3,1,0,'10101101100111110100101011100101010');
+#insert into genes (run,generation,avgscore,gene) values (1,3,2,0,'10011110111011100101110000001011110');
+#insert into genes (run,generation,avgscore,gene) values (1,4,1,0,'11000000101010001010010010010100000');
+#insert into genes (run,generation,avgscore,gene) values (1,4,2,0,'11110010111111011100001110010000001');
+#insert into genes (run,generation,avgscore,gene) values (1,5,1,0,'11011101000111000001110001011100111');
+#insert into genes (run,generation,avgscore,gene) values (2,1,1,0,'00101111000111001001110001100100101');
+#insert into genes (run,generation,avgscore,gene) values (2,1,2,0,'01110011110000100011001011100100000');
+#insert into genes (run,generation,avgscore,gene) values (2,2,1,0,'11000000000000100010111011100010001');
+#insert into genes (run,generation,avgscore,gene) values (2,2,2,0,'01010000000010010000100000010000010');
+#insert into genes (run,generation,avgscore,gene) values (2,2,3,0,'00011000101100101101000101111001111');
+
+
+				 
+
+
+
+select * from genes;
+
+
+insert into ratings (geneid,rating) values ( 1,3.5);
+insert into ratings (geneid,rating) values ( 1,2.25);
+insert into ratings (geneid,rating) values ( 2,3.5);
+insert into ratings (geneid,rating) values ( 3,1.5);
+insert into ratings (geneid,rating) values ( 3,0.75);
+insert into ratings (geneid,rating) values ( 4,4.5);
+insert into ratings (geneid,rating) values ( 6,1.5);
+insert into ratings (geneid,rating) values ( 6,2.25);
+insert into ratings (geneid,rating) values ( 6,0.75);
+insert into ratings (geneid,rating) values ( 7,4.75);
+insert into ratings (geneid,rating) values ( 7,4.75);
+insert into ratings (geneid,rating) values ( 8,0);
+insert into ratings (geneid,rating) values ( 9,1.5);
+insert into ratings (geneid,rating) values ( 9,3.25);
+insert into ratings (geneid,rating) values ( 9,2);
+insert into ratings (geneid,rating) values ( 10,3.5);
+insert into ratings (geneid,rating) values ( 10,4);
+insert into ratings (geneid,rating) values ( 10,3.75);
+insert into ratings (geneid,rating) values ( 11,4.5);
+insert into ratings (geneid,rating) values ( 12,4.5);
+insert into ratings (geneid,rating) values ( 12,0.75);
+insert into ratings (geneid,rating) values ( 12,1.75);
+insert into ratings (geneid,rating) values ( 12,2.75);
+insert into ratings (geneid,rating) values ( 13,2.25);
+insert into ratings (geneid,rating) values ( 13,0.75);
+insert into ratings (geneid,rating) values ( 14,2.25);
+insert into ratings (geneid,rating) values ( 14,0.75);
+insert into ratings (geneid,rating) values ( 14,3.75);
+
+
+select * from ratings;
+
+insert into runs (status) values ("Paused");
+insert into runs (status) values ("Ongoing");
+select * from runs;
+
+insert into best(geneid) values (1),(3),(6),(7),(11),(13);
+select run,generation,  avgscore from best,genes where geneid=genes.id;
+
+select genes.id,run,generation as genno, avgscore as fscore,avg(rating) from genes, ratings where genes.id=geneid group by genes.id;
+
+update genes set avgscore = 2.875,ratings=2 where id=1;
+update genes set avgscore = 3.5,ratings=1 where id=2;
+update genes set avgscore = 1.125,ratings=2 where id=3;
+update genes set avgscore = 4.5,ratings=1 where id=4;
+update genes set avgscore = 1.5,ratings=3 where id=6;
+update genes set avgscore = 4.75,ratings=2 where id=7;
+update genes set avgscore = 2.25,ratings=3 where id=9;
+update genes set avgscore = 3.75,ratings=3 where id=10;
+update genes set avgscore = 4.5,ratings=1 where id=11;
+update genes set avgscore = 2.4375,ratings=4 where id=12;
+update genes set avgscore = 1.5,ratings=2 where id=13;
+update genes set avgscore = 2.25,ratings=3 where id=14;
+select genes.id,avgscore as fscore, avg(rating) as score,gene from genes, ratings where genes.id=geneid group by genes.id;
+
+select id,gene from genes;
+
+# to select a gene for rating
+select * from genes where generation=1 and run=1  order by ratings,rand() limit 1;
+
+select avg(rating) as rateavg,count(rating) as ratecount from ratings where geneid=1 group by geneid;

@@ -1,0 +1,7 @@
+AuthName "Restricted Area" 
+AuthType Basic 
+AuthUserFile C:/wamp/www/htaccesstest/.htpasswd 
+AuthGroupFile /dev/null 
+<Files index.html>
+require valid-user
+</Files>

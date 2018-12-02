@@ -1,0 +1,15 @@
+Dave Menconi	Jan	7	3rd Party T&M	Docs	
+Dave Menconi	Jan	7	ATF2	Docs	
+Dave Menconi	Jan	1	Audio PS3/PSP	PTO	
+Dave Menconi	Jan	3	DTE Rec-Playback	Sys Eng	
+Dave Menconi	Jan	9	Audio NG	Support	
+Dave Menconi	Jan	7	3rd Party T&M	Docs	Audio
+Dave Menconi	Jan	7	ATF2	Docs	EyeToy
+Dave Menconi	Jan	1	Audio PS3/PSP	PTO	Guerrilla
+Dave Menconi	Jan	3	DTE Rec-Playback	Sys Eng	Play
+Dave Menconi	Jan	9	Audio NG	Support	GTG
+Dave Menconi	Jan	7	3rd Party T&M	Docs	Audio
+Dave Menconi	Jan	7	ATF2	Docs	EyeToy
+Dave Menconi	Jan	1	Audio PS3/PSP	PTO	Guerrilla
+Dave Menconi	Jan	3	DTE Rec-Playback	Sys Eng	Play
+Dave Menconi	Jan	9	Audio NG	Support	GTG

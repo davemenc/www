@@ -1,6 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
 
 <head> 
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
@@ -30,19 +28,19 @@
  <li><a class="nav" href="index.php?mode=guestbook">Guestbook</a></li>
 </ul>
 </div>
-
 <div class="content">
-<img class="centered" height=300 src="ICC.jpg" alt="VENUE">
-<p> <span class="firstwords">Ceremony</span> <span class="lastwords">TIME AND DATE</span></p>
+<img class="centered" height=200 src="swisspark.jpg" alt="VENUE">
+<p> <span class="firstwords">Location: </span> 
+<p class="centered_spaceafter" ><a href="https://www.facebook.com/Swiss-Park-Bar-Grille-276512149064013/">Swiss Park</a>
+<br /> 5911 Mowry Ave, 
+<br />Newark, CA 94560</p>
+<p> <span class="firstwords">Date: </span> <span class="lastwords">October 6, 2017</span></p>
+<P><span class="firstwords">Potluck Set-up party: video games will be provided!</span> <span class="lastwords">11 AM </span></p>
+<P><span class="firstwords"> Bride and groom will leave to get ready: </span> <span class="lastwords">6 PM </span></p>
+<p> <span class="firstwords">Ceremony:</span> <span class="lastwords">8 PM, </span></p>
+
 <hr>
-<p>Our Ceremony will be held at the lovely</p>
-<p class="centered_spaceafter" ><a href="http://google.com/">THE VENUE</a>
-<br />The Venue Location
-<br />Milpitas, CA 95035</p>
-<img class="centered" height="240" src="reception.jpg" alt="Recption Room">
-<p> <span class="firstwords">Reception</span> <span class="lastwords">immediately following the ceremony</span><p>
 <hr>
-<p class="spaceafter">SOMETHING ABOUT THE RECEPTION</p>
 
 
 </div>

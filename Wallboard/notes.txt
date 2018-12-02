@@ -1,0 +1,24 @@
+1) Read in URL file
+2) figure out time
+3) figure location
+4) find the urls that are for this time and this location
+5) pick a lead url
+6) limit the list to unused URLs of the same size
+
+
+LIST LIMITING
+
+            [Type] => F
+            [Time] => B
+            [Size] => 3
+            [Duration] => 0
+            [IDX] => 60
+            [Site] => 0
+            [Active] => y
+
+1) Morning or evening
+1.1) if Morning, remove every thing that's P
+1.2) if evening, remove everything that's A
+
+2) venue
+remove everything that's not our venue # or 0

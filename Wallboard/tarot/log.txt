@@ -1,0 +1,305 @@
+===2011-11-30 16:45 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+---2011-11-30 16:45 ---
+*params:
+Array ()
+===2011-11-30 16:45 ===
+*login succeeded:
+===2011-11-30 16:45 ===
+*mode: display_page
+===2011-11-30 16:45 ===
+*display_page():
+===2011-11-30 16:45 ===
+*checkdeck():
+===2011-11-30 16:45 ===
+*sql: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0;)
+===2011-11-30 16:46 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+---2011-11-30 16:46 ---
+*params:
+Array ()
+===2011-11-30 16:46 ===
+*login succeeded:
+===2011-11-30 16:46 ===
+*mode: display_page
+===2011-11-30 16:46 ===
+*display_page():
+===2011-11-30 16:46 ===
+*checkdeck():
+===2011-11-30 16:46 ===
+*sql: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0;)
+===2011-11-30 16:48 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+---2011-11-30 16:48 ---
+*params:
+Array ()
+===2011-11-30 16:48 ===
+*login succeeded:
+===2011-11-30 16:48 ===
+*mode: display_page
+===2011-11-30 16:48 ===
+*display_page():
+===2011-11-30 16:48 ===
+*checkdeck():
+===2011-11-30 16:48 ===
+*sql: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0
+---2011-11-30 16:48 ---
+*cards:
+Array ()
+===2011-11-30 16:48 ===
+*records: 0
+===2011-11-30 16:48 ===
+*Getmorecards():
+===2011-11-30 16:48 ===
+*sql: update tarot_flashcards set status='Learning' where status='NotYet' limit 5
+---2011-11-30 16:48 ---
+*cards:
+Array ([0]=>[1]=>[2]=>[3]=>[4]=>)
+===2011-11-30 16:48 ===
+*records: 0
+===2011-11-30 16:48 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+---2011-11-30 16:48 ---
+*params:
+Array ()
+===2011-11-30 16:48 ===
+*login succeeded:
+===2011-11-30 16:48 ===
+*mode: display_page
+===2011-11-30 16:48 ===
+*display_page():
+===2011-11-30 16:48 ===
+*checkdeck():
+===2011-11-30 16:48 ===
+*sql: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0
+---2011-11-30 16:48 ---
+*cards:
+Array ([0]=>[1]=>[2]=>[3]=>[4]=>)
+===2011-11-30 16:48 ===
+*records: 5
+---2011-11-30 16:48 ---
+*cards:
+Array ([0]=>[1]=>[2]=>[3]=>[4]=>)
+===2011-11-30 16:48 ===
+*records: 5
+===2011-11-30 16:49 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+---2011-11-30 16:49 ---
+*params:
+Array ()
+===2011-11-30 16:49 ===
+*login succeeded:
+===2011-11-30 16:49 ===
+*mode: display_page
+===2011-11-30 16:49 ===
+*display_page():
+===2011-11-30 16:49 ===
+*checkdeck():
+===2011-11-30 16:49 ===
+*sql: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0
+---2011-11-30 16:49 ---
+*cards:
+Array ([0]=>[1]=>[2]=>[3]=>[4]=>)
+===2011-11-30 16:49 ===
+*records: 5
+---2011-11-30 16:49 ---
+*cards:
+Array ([0]=>[1]=>[2]=>[3]=>[4]=>)
+---2011-11-30 16:49 ---
+*records:
+Array ()
+===2011-11-30 16:49 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+---2011-11-30 16:49 ---
+*params:
+Array ()
+===2011-11-30 16:49 ===
+*login succeeded:
+===2011-11-30 16:49 ===
+*mode: display_page
+===2011-11-30 16:49 ===
+*display_page():
+===2011-11-30 16:49 ===
+*checkdeck():
+===2011-11-30 16:49 ===
+*sql: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0
+---2011-11-30 16:49 ---
+*cards:
+Array ([0]=>[1]=>[2]=>[3]=>[4]=>)
+===2011-11-30 16:49 ===
+*records: 5
+===2011-11-30 16:49 ===
+*records: 5
+===2011-11-30 16:52 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+---2011-11-30 16:52 ---
+*params:
+Array ()
+===2011-11-30 16:52 ===
+*login succeeded:
+===2011-11-30 16:52 ===
+*mode: display_page
+===2011-11-30 16:52 ===
+*display_page():
+===2011-11-30 16:52 ===
+*checkdeck():
+===2011-11-30 16:52 ===
+*update: update tarot_flashcards set status='NotYet',correct = 0,skipped=0,ordval=rand() 
+===2011-11-30 16:52 ===
+*1st card count: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0
+---2011-11-30 16:52 ---
+*cards:
+Array ()
+===2011-11-30 16:52 ===
+*records: 0
+===2011-11-30 16:52 ===
+*Getmorecards():
+===2011-11-30 16:52 ===
+*sql: update tarot_flashcards set status='Learning' where status='NotYet' limit 5
+===2011-11-30 16:52 ===
+*2nd card count: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0
+===2011-11-30 16:53 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+---2011-11-30 16:53 ---
+*params:
+Array ()
+===2011-11-30 16:53 ===
+*login succeeded:
+===2011-11-30 16:53 ===
+*mode: display_page
+===2011-11-30 16:53 ===
+*display_page():
+===2011-11-30 16:53 ===
+*checkdeck():
+===2011-11-30 16:53 ===
+*update: update tarot_flashcards set status='NotYet',correct = 0,skipped=0,ordval=rand() 
+===2011-11-30 16:53 ===
+*1st card count: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0
+---2011-11-30 16:53 ---
+*cards:
+Array ()
+===2011-11-30 16:53 ===
+*records: 0
+===2011-11-30 16:53 ===
+*Getmorecards():
+===2011-11-30 16:53 ===
+*sql: update tarot_flashcards set status='Learning' where status='NotYet' limit 5
+===2011-11-30 16:53 ===
+*2nd card count: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0
+===2011-11-30 16:53 ===
+*records: 5
+===2011-11-30 16:53 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+---2011-11-30 16:53 ---
+*params:
+Array ()
+===2011-11-30 16:53 ===
+*login succeeded:
+===2011-11-30 16:53 ===
+*mode: display_page
+===2011-11-30 16:53 ===
+*display_page():
+===2011-11-30 16:53 ===
+*checkdeck():
+===2011-11-30 16:53 ===
+*update: update tarot_flashcards set status='NotYet',correct = 0,skipped=0,ordval=rand() 
+===2011-11-30 16:53 ===
+*1st card count: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0
+---2011-11-30 16:53 ---
+*cards:
+Array ()
+===2011-11-30 16:53 ===
+*records: 0
+===2011-11-30 16:53 ===
+*Getmorecards():
+===2011-11-30 16:53 ===
+*sql: update tarot_flashcards set status='Learning' where status='NotYet' limit 5
+===2011-11-30 16:53 ===
+*2nd card count: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0
+---2011-11-30 16:53 ---
+*cards:
+Array ()
+===2011-11-30 16:53 ===
+*records: 0
+===2011-11-30 16:54 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+---2011-11-30 16:54 ---
+*params:
+Array ()
+===2011-11-30 16:54 ===
+*login succeeded:
+===2011-11-30 16:54 ===
+*mode: display_page
+===2011-11-30 16:54 ===
+*display_page():
+===2011-11-30 16:54 ===
+*checkdeck():
+===2011-11-30 16:54 ===
+*update: update tarot_flashcards set status='NotYet',correct = 0,skipped=0,ordval=rand() 
+===2011-11-30 16:54 ===
+*1st card count: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0
+---2011-11-30 16:54 ---
+*cards:
+Array ()
+===2011-11-30 16:54 ===
+*cardcount1: 0
+===2011-11-30 16:54 ===
+*Getmorecards():
+===2011-11-30 16:54 ===
+*sql: update tarot_flashcards set status='Learning' where status='NotYet' limit 5
+===2011-11-30 16:54 ===
+*2nd card count: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0
+---2011-11-30 16:54 ---
+*cards:
+Array ([0]=>[1]=>[2]=>[3]=>[4]=>)
+===2011-11-30 16:54 ===
+*cardcount2: 5
+===2011-11-30 16:54 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+---2011-11-30 16:54 ---
+*params:
+Array ()
+===2011-11-30 16:54 ===
+*login succeeded:
+===2011-11-30 16:54 ===
+*mode: display_page
+===2011-11-30 16:54 ===
+*display_page():
+===2011-11-30 16:54 ===
+*checkdeck():
+===2011-11-30 16:54 ===
+*update: update tarot_flashcards set status='NotYet',correct = 0,skipped=0,ordval=rand() 
+===2011-11-30 16:54 ===
+*1st card count: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0
+---2011-11-30 16:54 ---
+*cards:
+Array ()
+===2011-11-30 16:54 ===
+*cardcount1: 0
+===2011-11-30 16:54 ===
+*Getmorecards():
+===2011-11-30 16:54 ===
+*sql: update tarot_flashcards set status='Learning' where status='NotYet' limit 5
+===2011-11-30 16:54 ===
+*2nd card count: select * from tarot_flashcards where status='Learning' and correct=0 and seen=0
+---2011-11-30 16:54 ---
+*cards:
+Array ([0]=>[1]=>[2]=>[3]=>[4]=>)
+===2011-11-30 16:54 ===
+*cardcount2: 5
+===2011-12-01 15:58 ===
+*--------------------------------- START Flash Card PROGAM _-------:
+---2011-12-01 15:58 ---
+*params:
+Array ()
+===2011-12-01 15:58 ===
+*mode: display_page
+===2011-12-01 15:58 ===
+*display_page():
+===2011-12-01 15:58 ===
+*display_card(4):
+===2011-12-01 15:58 ===
+*Display Card select: select tarot_flashcards.cardno, standardname,thothname,imagename from tarot_flashcards,tarot_cardlist, tarot_images  where tarot_images.cardno = tarot_cardlist.cardno and tarot_flashcards.cardno=tarot_cardlist.cardno and tarot_flashcards.cardno=4
+---2011-12-01 15:58 ---
+*cards:
+Array ([0]=>)

@@ -1,0 +1,142 @@
+<!--project list-->
+	#projectlisttitle{
+		color:black; 
+		font-size:80px; 
+		font-style:bold;
+	}
+	#projecttable{
+		border-color:#08088A;
+		border-style: solid;
+		border-width: 6px;	
+	}
+	table,td,th{
+		border-collapse: collapse;
+		border: 2px solid #08088A;
+	}
+	#projectdetailhead{
+		text-align:center;
+	}
+	#projectdetailsub{
+		text-align:center;
+	}
+
+<!--major parts-->
+	p{
+		font-family:helvetica;
+		padding: 20px
+	}
+
+	body {
+		border:5px solid #08088A;
+	}
+
+	
+	#container{
+		border:2px solid black;
+		background-color:grey;
+	}
+	
+	#content_area {
+		font-family:helvetica;
+		font-size:16px;
+		background-color:grey;
+		font-style:bold;
+	}
+
+<!--General layout structure--
+--Begin container elements---------------->
+	
+	
+	
+	#header {
+	width:700x;
+	height:140px;
+	background-color:grey;
+	}
+	
+	#logo{
+		width:;
+		height:;
+		top:;
+	}
+	
+	#banner{
+		width:;
+		height:;
+		top;
+		background-color:grey;
+	}
+	
+	#sidebar {
+		color:white;
+		float:left;
+		width:105px;
+		height:524px;
+		background-color:#424242;
+	}
+	
+	#footer {
+		bottom:-10px;
+		left:850px;
+		width:1320px;
+		height:40px;
+		background-color:grey;
+	}
+
+<!--navbar-->	
+	#navbar{
+		background-color:grey;
+		color:white;
+		list-style:none;
+	}
+	
+	#navbar li{
+		font-style:italic;
+		border:2px solid black;
+		font-family:helvetica;
+		font-weight:bold;
+		display:inline; 
+		<!--margin-right:150px;-->
+		background-color:#424242;
+		color:white;
+		padding:5px;
+		<!--margin:20px;-->
+	}
+	
+	#navbar li a {
+		link-style:none;
+	}	
+<!-- Misc id's------------------------------------>
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} 
+	#copyright{
+		font-style:italic;
+		text-align:center;
+	}
+	
+	#errormessage{
+		border:2px solid #08088A;
+	}
+	
+	#info{
+		background-color:white;
+	}
+
+<!--Table page----->
+	#projectlisthead{
+	}
+	
+	#projecttable{
+		background-color:white;
+	}
+	
+	#tablehead{
+		background-color:#A4A4A4;
+	}
+	
+	#tablebody{
+		background-color:white;
+	}

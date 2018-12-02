@@ -1,0 +1,4 @@
+first, when you init a deck, check to see if this user has a flash_deck record for this set of cards and, if not create one; otherwise update it.
+also, if the cards in the set change then you need to chang the flash_deck count and there has to be some way to do that automatically.
+
+second, users are all screwed up. the sets are associated with a user but I want 0 to be public. but the flash_deck is private. BUT we keep doing flash_deck.userno=flash_cards.userno and that means that you can never look at set 0. or at anyone other than your own. 

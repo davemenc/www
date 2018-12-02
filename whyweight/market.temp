@@ -1,0 +1,43 @@
+<center><font size="+3"><b>~gamename~</b></font></center><br>
+<center>
+        <a href="http://www.turnstylegames.org/numbers/numbersgamerules.html"><font size="-1">Help</font></a> |
+        <a href="index.php?mode=logout"><font size="-1">Logout</font></a> |
+        <a href="index.php?mode=login"><font size="-1">Login</a> |
+        <a href="index.php?mode=register"><font size="-1">Register</a> |
+        <a href="http://www.turnstylegames.org"><font size="-1">Return To Turnstyle Games</a> |
+        <a href="http://games.groups.yahoo.com/group/thenumbersgame/"><font color="red" size=+1>Join the Forum</font></a><font color="blue" size=-1><font color="blue" size=-1> |
+        <a href="mailto:webmaster@menconi.com"><font size="-1">Contact Designer</a>
+</center>
+
+ <center> <hr width="40%"> </center>
+<table border="0" cellpadding="15"><tr>
+        <!-- Left column; This Game -->
+        <td width="70%">
+<!-- WELCOME MESSAGE -->
+<center><font size="+2"><b>~gamename~</b></font></center>
+<center> <a href="http://games.groups.yahoo.com/group/thenumbersgame/">~gamename~ Forum</a></center>
+<!-- PUT Description TEXT HERE -->
+<P>Your goal in The Numbers Game is to guess a number that will be, at the end of the round, closest to the average guess of all the players for that round.
+
+<P>It sounds very simple, and, in truth, it is. But it turns out to be a bit deeper than it sounds. Every guess that anyone makes (include you) changes the average. Since you don't know what the other players are guessing, your only guide is the game's history.
+
+<P>It turns out that a pattern emerges over time but it's a subtle, elusive pattern which seems to defy intelligent analysis. And this is what makes The Numbers Game a great game.
+
+<P>You can see the complete rules <a href="http://www.turnstylegames.org/numbers/numbersgamerules.html"> here </a>. You can watch games being played <a href="http://www.turnstylegames.org/numbers/index.php?mode=stats&gameno=1"> here</a>. Or you can register and play <a href="http://www.turnstylegames.org/numbers/index.php?mode=guess&gameno=1">here</a> (note: these links are for the Midnight game; the links to the Noon game are in the upper right under "Instances").
+
+<P>Note: The Numbers Game requires no special signup. As long as you are registered on Turnstyle Games you can guess or not at any time.
+
+<!-- From the Designer -->
+<center><font size="+2"><b>From the Game Designer</b></font></center>
+<center><a href="http://games.groups.yahoo.com/group/thenumbersgame/">Game Designer Forum</a></center>
+<center><font size="-1">by ~designer~</font></center>
+<!-- PUT Design MESSAGE HERE -->
+<P>I was trying to think of the simplest game I could come up with. Something I could use to test out my idea for a game site. I hit upon the basic idea of having people guess what the average of all their number would be and I really liked it. The more I thought about it the more I liked it.
+<P>
+
+</td>
+<!-- Right Column; The games themselves -->
+<td valign="top" width="30%">
+<center><font size="+2"><b>Instances</b></font></center>
+~rightcol~
+</td> </tr> </table>

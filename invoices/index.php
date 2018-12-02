@@ -1,6 +1,6 @@
 <?php
  /*
-    Copyright (c) 2007 Dave Menconi
+    Copyright (c) 2013 Dave Menconi
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -26,7 +26,6 @@ $workers = CheckArray(setWorkers(),'workers',false);
 $companies = CheckArray(setCompanies(),'companies',false);
 //$invoices = CheckArray(setInvoices(),'invoices',false);
 //$invoicelines = CheckArray(setInvoicelines(),'invoice',false);
-//print_r($workers);
 $PARAMS = array_merge($_POST,$_GET);
 $link = make_mysql_connect($dbhost, $dbuser, $dbpass, $dbname);
 
@@ -74,15 +73,20 @@ foreach($actions as $action)
 			break;
 
 		case "readcompanies":
+			DBShowReadView($companies,$index);
 			break;
 
 		case "readworkers":
+		print "<LI>index=$index".__LINE__."</li>\n";
+			DBShowReadView($workers,$index);
 			break;
 
 		case "readinvoices":
+			DBShowReadView($invoices,$index);
 			break;
 
 		case "readinvoicelines":
+			DBShowReadView($invoicelines,$index);
 			break;
 
 		case "updatecompanies":
@@ -95,7 +99,7 @@ foreach($actions as $action)
 			break;
 
 		case "updateinvoices":
-			DBShowEditForm($invoices",$index);
+			DBShowEditForm($invoices,$index);
 
 			break;
 
@@ -203,6 +207,7 @@ function setWorkers(){
 		'foreigntableno'=>1,
 		'foreignfield'=>'name',
 		'foreignfilter'=>'active=true',
+		'foreignindex'=>'id',
 		'required'=>true);
 	$workers[0]['fields']['manager']= array (
 		'title'=>'Manager',
@@ -340,8 +345,7 @@ function DBShowEditForm($tables,$id=0){
 	$sql = genListSelect($tables,$tablename,$id);
 	print "sql = $sql\n";
 	$list = MYSQLGetData($link,$sql);
-print_r($list);
-$list=$list[0];
+	$list=$list[0];
 
 	print "<form method=\"post\" name=\"$formname\" action=\"index.php\">\n";
 	print "<input type=\"hidden\" name=\"table\" value=\"$tablename\"/>\n";
@@ -482,22 +486,72 @@ $list=$list[0];
 /*********
  *
  *********/
+function DBShowReadView($tables,$id){
+	global $link;
+	print "DBShowReadView(tables,$id)\n";
+	$tablename=$tables[0]['name'];
+	$viewname = $tables[0]['view'];
+	$formname = "parse".$tablename;
+print "<li>ID=$id".__LINE__."</li>f\n";
+	$sql = genListSelect($tables,$id);
+	print "<li>sql = $sql\n";
+	$list = MYSQLGetData($link,$sql);
+	if(count($list)==0) {
+		print "No Records Returned</br>\n";
+		exit(0);
+	}
+	print_r($list);
+	$list=$list[0];
+print_r($list);
+	foreach($tables[0]['fields'] as $field=>$fielddata){
+
+		if(key_exists($field,$list)) $value=$list[$field];
+		else $value = '';
+
+		if(key_exists('title',$fielddata))$title = $fielddata['title'];
+		else $title=$field;
+
+		// for foreign keys...
+		if(key_exists('foreignkey',$fielddata) && $fielddata['foreignkey']) {
+			if(key_exists('foreigntableno',$fielddata)) $foreigntable = $tables[$fielddata['foreigntableno']]['name'];
+			else $foreigntable = $tables[1]['name']; // by default we get the 2nd (index=1) table
+
+			if(key_exists('foreignfield',$fielddata))$foreignfield=$fielddata['foreignfield'];
+			else {print "ERROR: in read for $tablename (view=$viewname) $foreigntable doesn't have a field name\n"; return false;}
+
+			if(key_exists('foreignfilter',$fielddata))$foreignfilter=$fielddata['foreignfilter'];
+			else $foreignfilter="";
+
+			if(key_exists('foreignindex',$fielddata))$foreignindex=$fielddata['foreignindex'];
+			else {print "ERROR:  in read for $tablename (view=$viewname) $foreigntable doesn't have a index\n"; return false;}
+
+			$sql = "select $foreignfield from $foreigntable where $foreignindex='$value'";
+			if(strlen($foreignfilter)>0)$sql.=" and $foreignfilter";
+			print "SQL=$sql<br/>\n";
+			$valuelist = MYSQLGetData($link,$sql);
+			print_r($valuelist);
+			$value = $valuelist[0][$foreignfield];
+		}
+		print "<li>$title: $value\n";
+	}
+ }
+/*********
+ *
+ *********/
 function DBShowListView($tables){
 //print "DBShowListView(tables,$name)";
-//print_r($tables);
 	global $link;
 	$first = true;
 
 	$tablename=$tables[0]['name'];
 	$viewname = $tables[0]['view'];
 
-	$sql=genListSelect($tables, $name);
-	print "\nSQL=$sql<br/>\n";
+	$sql=genListSelect($tables);
+	//print "\nSQL=$sql<br/>\n";
 
 	$list = MYSQLGetData($link,$sql);
-	print_r($list);
 	print "<table border=\"1\">\n";
-	print "<tr>".genListHeader($tables[0], $name);
+	print "<tr>".genListHeader($tables[0]);
 
 	print "<th>Actions</th>";
 	print "</tr>\n";
@@ -575,10 +629,9 @@ function genListHeader($table){
  *
  ***************************/
 function genListSelect($tables, $idx=0){
+	print "<li>genListSelect(tables,$idx)".__LINE__."</li>\n";
 	$viewname=$tables[0]['view'];
 	$tablename=$tables[0]['name'];
-
-
 
 // define some initial condition flags
 	$firstwhere=true;
@@ -598,15 +651,17 @@ function genListSelect($tables, $idx=0){
 	}
 	if (key_exists('index',$tables[0]))  $index=$tables[0]['index'];
 	else print "ERROR: table $tablename ($viewname) has no index field\n";
+
+print "<li>idx=$idx ".__LINE__." </li>\n";
 // create the field list
 	$fieldlist = "";
 	foreach($tables as $key=>$table){
-
 		$tablename="";
 		if(key_exists('name',$table)) $tablename=$table['name'];
 		else print "ERROR: table with name=$name (of view $viewname) & key=$key has no name";
 		if(key_exists('fields',$table)){
 			foreach($table['fields'] as $field=>$properties){
+
 				if(!$firstfield) $fieldlist.=",";
 				else $firstfield=false;
 				$fieldlist.=$tablename.".".$field;
@@ -626,18 +681,18 @@ function genListSelect($tables, $idx=0){
 	}
 
 // create the filter string
-	if($idx==0)$idfilter=$tablename.".".$index."=$idx";
-	else $idfilter=$tablename.".".$index."=".$tablename.".".$index;// trick to simplify coding
+print "<br/>IDX=$idx<br/>\n";
+	if($idx==0)	$idfilter=$tablename.".".$index."=".$tablename.".".$index;// trick to simplify coding
+	else $idfilter=$tablename.".".$index."=$idx";
+print "idfilter=$idfilter<br/>\n";
 
 	if(key_exists('filter',$tables[0]))	$filterrules = $tables[0]['filter']." and ".$idfilter;
 	else $filterrules = "".$idfilter;
-
 
 // create the sort string
 	if(key_exists('sort',  $tables[0]))	$sortrules = $tables[0]['sort'];
 	else $sortrules = "";
 
-print "filter=$filterrules, join=$joinrules\n";
 // combine all the components into a select command
 	$listsql = "select ".$fieldlist." from ".$tablelist;
 	if (strlen($joinrules)+strlen($filterrules)>0) $listsql .=" where ".$joinrules;
@@ -652,13 +707,13 @@ print "filter=$filterrules, join=$joinrules\n";
  ************************/
 function CheckArray($tables,$name,$quiet=false){
 //	print "Name: $name\n";
-//	print_r($tables);
 
 	$fields['edit']='if0';
 	$fields['foreignfield']='Warning';
 	$fields['foreignfilter']='ifforeign';
 	$fields['foreignkey']='ifforeign';
 	$fields['foreigntableno']='ifforeign';
+	$fields['foreignindex']='ifforeign';
 	$fields['required']='Warning';
 	$fields['size']='ifedit';
 	$fields['title']='Fatal';

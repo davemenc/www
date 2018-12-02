@@ -1,0 +1,45 @@
+#DROP DATABASE IF EXISTS tunatest;
+#create database tunatest;
+DROP DATABASE IF EXISTS tuna;
+create database tuna;
+use tuna;
+
+drop table if exists groups ;
+create table if not exists groups( id INT AUTO_INCREMENT primary key, name tinytext not null);
+drop table if exists tracks;
+create table if not exists Tracks( id INT AUTO_INCREMENT primary key, name tinytext not null, url tinytext not null, length float, beatspermin int, audiotypeno int, trackno int, genreno int, hash BIGINT);
+drop table if exists albums;
+create table if not exists Albums ( id INT AUTO_INCREMENT primary key, name tinytext not null, year tinytext);
+drop table if exists GroupTrack;
+create table if not exists GroupTrack ( id INT AUTO_INCREMENT primary key, groupno int not null, trackno int not null);
+drop table if exists AlbumGroup;
+create table if not exists AlbumGroup ( id INT AUTO_INCREMENT primary key, groupno int not null, albumno int not null);
+drop table if exists AlbumTrack;
+create table if not exists AlbumTrack ( id INT AUTO_INCREMENT primary key, albumno int not null, trackno int not null);
+
+
+drop table if exists artists;
+create table if not exists Artists ( id INT AUTO_INCREMENT primary key, name tinytext not null);
+
+drop table if exists users;
+create table if not exists Users ( id INT AUTO_INCREMENT primary key, name tinytext not null, password tinytext, priv enum('user','admin') not null default 'user');
+ 
+drop table if exists UserTrackRating;
+create table if not exists UserTrackRating ( id INT AUTO_INCREMENT primary key, userno int not null, trackno int not null, rating int);
+ 
+drop table if exists GroupArtist;
+create table if not exists GroupArtist ( id INT AUTO_INCREMENT primary key, groupno int not null, artistno int not null);
+
+drop table if exists ArtistTrack;
+create table if not exists ArtistTrack ( id INT AUTO_INCREMENT primary key, artistno int not null, trackno int not null);
+
+drop table if exists AlbumArtist;
+create table if not exists AlbumArtist ( id INT AUTO_INCREMENT primary key, albumno int not null, artistno int not null);
+
+drop table if exists AudioTypes;
+create table if not exists AudioTypes( id int auto_increment primary key, name tinytext);
+
+drop table if exists genres;
+create table if not exists genres( id int auto_increment primary key, name tinytext);
+
+
